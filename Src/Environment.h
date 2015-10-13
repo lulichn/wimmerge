@@ -1,0 +1,22 @@
+/** 
+ * @file  Environment.h
+ *
+ * @brief Declaration file for Environment-related routines.
+ */
+// ID line follows -- this is updated by SVN
+// $Id: Environment.h 6489 2009-02-24 13:37:19Z kimmov $
+
+#ifndef _ENVIRONMENT_H_
+#define _ENVIRONMENT_H_
+
+LPCTSTR env_GetTempPath(int * pnerr = NULL);
+String env_GetTempFileName(LPCTSTR lpPathName, LPCTSTR lpPrefixString,
+		int * pnerr = NULL);
+
+String env_GetWindowsDirectory();
+String env_GetMyDocuments(HWND hWindow);
+
+String env_GetPerInstanceString(LPCTSTR name);
+void env_SetInstanceFolder(LPCTSTR lpPathName);
+
+#endif // _ENVIRONMENT_H_
