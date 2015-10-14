@@ -2,7 +2,7 @@
 # Released under the "GNU General Public License"
 #
 # Translators:
-# * Hasan Osmanagiæ <hasan.osmanagic at public.carnet.hr>
+# * Hasan OsmanagiE<hasan.osmanagic at public.carnet.hr>
 #
 # ID line follows -- this is updated by SVN
 # $Id: Croatian.po 7556 2011-08-19 15:07:03Z sdottaka $
@@ -13,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://bugs.winmerge.org/\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2009-02-13 09:15+0100\n"
-"Last-Translator: Hasan Osmanagiæ <hasan.osmanagic@public.carnet.hr>\n"
+"Last-Translator: Hasan OsmanagiE<hasan.osmanagic@public.carnet.hr>\n"
 "Language-Team: winmerge-translate <winmerge-translate@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=CP1250\n"
@@ -402,7 +402,7 @@ msgstr "Okna &kaskadno"
 #: Merge.rc:1943
 #, c-format
 msgid "&Help"
-msgstr "&Pomoæ"
+msgstr "&PomoE
 
 #: Merge.rc:180
 #: Merge.rc:301
@@ -1199,7 +1199,7 @@ msgstr "Odustajem"
 #: Merge.rc:1330
 #, c-format
 msgid "Help"
-msgstr "Pomoæ"
+msgstr "PomoE
 
 #: Merge.rc:712
 #, c-format
@@ -1591,12 +1591,12 @@ msgstr "Sistem"
 #: Merge.rc:1000
 #, c-format
 msgid "&Send deleted files to Recycle Bin"
-msgstr "&Premjesti obrisano u koš?"
+msgstr "&Premjesti obrisano u koE"
 
 #: Merge.rc:1002
 #, c-format
 msgid "&External editor:"
-msgstr "&Vanjski ureğivaè:"
+msgstr "&Vanjski ureğivaE"
 
 #: Merge.rc:1005
 #, c-format
@@ -1930,7 +1930,7 @@ msgstr "Svaki &znak"
 #: Merge.rc:1200
 #, c-format
 msgid "&Word-level:"
-msgstr "&Rijeæ:"
+msgstr "&RijeE"
 
 #: Merge.rc:1204
 #, c-format
@@ -3537,7 +3537,7 @@ msgstr ""
 #: Merge.rc:2060
 #, c-format
 msgid "Filter file already exists. Overwrite existing filter?"
-msgstr "Filtar veæ postoji. Natpisati ga?"
+msgstr "Filtar veEpostoji. Natpisati ga?"
 
 #: Merge.rc:2066
 #, c-format
@@ -3949,7 +3949,7 @@ msgstr "Provjera datoteka na VSS..."
 #: Merge.rc:2185
 #, c-format
 msgid "Versioning System returned an error while attempting to check out the file.  Unable to continue..."
-msgstr "Sistem pokazuje grešku dok pokušava provjeriti datoteku.  Nastavak nemoguæ..."
+msgstr "Sistem pokazuje grešku dok pokušava provjeriti datoteku.  Nastavak nemoguE.."
 
 #: Merge.rc:2186
 #, c-format
@@ -4672,7 +4672,7 @@ msgstr "Jednostavni HTML"
 #: Merge.rc:2421
 #, c-format
 msgid "The report file already exists. Do you want to overwrite existing file?"
-msgstr "Datoteka izvještaja veæ postoji. Natpisati?"
+msgstr "Datoteka izvještaja veEpostoji. Natpisati?"
 
 #: Merge.rc:2422
 #, c-format
@@ -4853,7 +4853,7 @@ msgstr "2. stavka ili mapa ne postoji!"
 #: Merge.rc:2485
 #, c-format
 msgid "The patch file already exists. Do you want to overwrite it?"
-msgstr "Datoteka razlika veæ postoji. Natpisati?"
+msgstr "Datoteka razlika veEpostoji. Natpisati?"
 
 #: Merge.rc:2486
 #, c-format
@@ -5149,7 +5149,7 @@ msgstr "Tip"
 #: Merge.rc:2570
 #, c-format
 msgid "Unpacker"
-msgstr "Raspakiravaè"
+msgstr "RaspakiravaE
 
 #: Merge.rc:2571
 #, c-format
@@ -5159,7 +5159,7 @@ msgstr "Prediffer"
 #: Merge.rc:2572
 #, c-format
 msgid "Editor script"
-msgstr "Ureğivaè skripti"
+msgstr "UreğivaEskripti"
 
 #: Merge.rc:2579
 #, c-format
@@ -5386,7 +5386,7 @@ msgstr "Prikai okno statistike usporedbe mapa"
 #: Merge.rc:2628
 #, c-format
 msgid "Select the current user interface language\nLanguage"
-msgstr "Izaberite vaš jezik suèelja\nJezik"
+msgstr "Izaberite vaEjezik suèelja\nJezik"
 
 #: Merge.rc:2629
 #, c-format
@@ -5610,7 +5610,6 @@ msgid ""
 "WinMerge Help"
 msgstr ""
 "Prkaz WinMerge pomoæi\n"
-"WinMerge Pomoæ"
 
 #: Merge.rc:2690
 #, c-format

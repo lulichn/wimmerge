@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4a42e242-b921-4ebc-b520-5d012b32cf4d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="..\..\..\..\Work\WinMerge\WinMerge_SVN\Externals\pcre\CMakeLists.txt" />
+    <CustomBuild Include="..\..\..\..\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win64\CMakeFiles\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+</Project>

@@ -1,11 +1,13 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual C++ Express 2008
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scew_write", "scew_write\scew_write.vcproj", "{DE371A37-A94F-4E36-A246-09F05E64878A}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scew_write", "scew_write\scew_write.vcxproj", "{DE371A37-A94F-4E36-A246-09F05E64878A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scew_print", "scew_print\scew_print.vcproj", "{3417272D-9A13-4321-A029-52B7CBC6AAA3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scew_print", "scew_print\scew_print.vcxproj", "{3417272D-9A13-4321-A029-52B7CBC6AAA3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scew_stream", "scew_stream\scew_stream.vcproj", "{038964D7-4020-4B2E-A725-F1A3B65BA7A8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scew_stream", "scew_stream\scew_stream.vcxproj", "{038964D7-4020-4B2E-A725-F1A3B65BA7A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

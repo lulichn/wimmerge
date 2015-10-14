@@ -43,13 +43,13 @@ msgstr "1252"
 #: Merge.rc:99
 #, c-format
 msgid "C&opy to Right"
-msgstr "Naar &rechts kopiëren"
+msgstr "Naar &rechts kopiEen"
 
 #: Merge.rc:73
 #: Merge.rc:100
 #, c-format
 msgid "Cop&y to Left"
-msgstr "Naar &links kopiëren"
+msgstr "Naar &links kopiEen"
 
 #: Merge.rc:75
 #, c-format
@@ -77,7 +77,7 @@ msgstr "&Knippen"
 #: Merge.rc:512
 #, c-format
 msgid "&Copy"
-msgstr "Ko&piëren"
+msgstr "Ko&piEen"
 
 #: Merge.rc:82
 #: Merge.rc:104
@@ -589,13 +589,13 @@ msgstr "&Laatste verschil\tAlt+End"
 #: Merge.rc:440
 #, c-format
 msgid "Copy to &Right\tAlt+Right"
-msgstr "Naar &rechts kopiëren\tAlt+Right"
+msgstr "Naar &rechts kopiEen\tAlt+Right"
 
 #: Merge.rc:261
 #: Merge.rc:441
 #, c-format
 msgid "Copy to L&eft\tAlt+Left"
-msgstr "Naar &links kopiëren\tAlt+left"
+msgstr "Naar &links kopiEen\tAlt+left"
 
 #: Merge.rc:263
 #, c-format
@@ -704,7 +704,7 @@ msgstr "&Knippen\tCtrl+X"
 #: Merge.rc:362
 #, c-format
 msgid "&Copy\tCtrl+C"
-msgstr "Ko&piëren\tCtrl+C"
+msgstr "Ko&piEen\tCtrl+C"
 
 #: Merge.rc:363
 #, c-format
@@ -745,7 +745,7 @@ msgstr "Geavanceerd"
 #: Merge.rc:378
 #, c-format
 msgid "&Copy With Line Numbers\tCtrl+Shift+C"
-msgstr "Met regelnummers &kopiëren\tCtrl+Shift+C"
+msgstr "Met regelnummers &kopiEen\tCtrl+Shift+C"
 
 #: Merge.rc:381
 #, c-format
@@ -851,22 +851,22 @@ msgstr "Location &pane"
 #: Merge.rc:443
 #, c-format
 msgid "C&opy to Right and Advance\tAlt+Ctrl+Right"
-msgstr "Naar rechts k&opiëren en verder gaan\tAlt+Ctrl+Right"
+msgstr "Naar rechts k&opiEen en verder gaan\tAlt+Ctrl+Right"
 
 #: Merge.rc:444
 #, c-format
 msgid "Copy &to Left and Advance\tAlt+Ctrl+Left"
-msgstr "Naar links ko&piëren en verder gaan\tAlt+Ctrl+Left"
+msgstr "Naar links ko&piEen en verder gaan\tAlt+Ctrl+Left"
 
 #: Merge.rc:446
 #, c-format
 msgid "Copy &All to Right"
-msgstr "Alles naar rechts kopiëren"
+msgstr "Alles naar rechts kopiEen"
 
 #: Merge.rc:447
 #, c-format
 msgid "Cop&y All to Left"
-msgstr "Alles naar links kopiëren"
+msgstr "Alles naar links kopiEen"
 
 #: Merge.rc:464
 #, c-format
@@ -975,7 +975,7 @@ msgstr "Rechts o&penen"
 #: Merge.rc:546
 #, c-format
 msgid "Cop&y Pathnames"
-msgstr "Padnamen ko&piëren"
+msgstr "Padnamen ko&piEen"
 
 #: Merge.rc:548
 #, c-format
@@ -995,7 +995,7 @@ msgstr "&Beide (%1 van %2)"
 #: Merge.rc:552
 #, c-format
 msgid "Copy &Filenames"
-msgstr "&Bestandsnamen kopiëren"
+msgstr "&Bestandsnamen kopiEen"
 
 #: Merge.rc:554
 #, c-format
@@ -1030,12 +1030,12 @@ msgstr "Ve&rnieuwen"
 #: Merge.rc:574
 #, c-format
 msgid "&Copy Full Path"
-msgstr "&Volledig pad kopiëren"
+msgstr "&Volledig pad kopiEen"
 
 #: Merge.rc:575
 #, c-format
 msgid "Copy &Filename"
-msgstr "&Bestandsnaam kopiëren"
+msgstr "&Bestandsnaam kopiEen"
 
 #: Merge.rc:581
 #, c-format
@@ -2064,7 +2064,7 @@ msgstr "WinMerge - Archiefondersteuning uitgeschakeld"
 #: Merge.rc:1281
 #, c-format
 msgid "Unable to detect 7-Zip version (not installed?)"
-msgstr "Kon geen 7-zipversie detecteren (niet geïnstalleerd?)"
+msgstr "Kon geen 7-zipversie detecteren (niet geEstalleerd?)"
 
 #: Merge.rc:1284
 #, c-format
@@ -2074,9 +2074,9 @@ msgid ""
 "essential components to be copied to the program directory for standalone "
 "operation."
 msgstr ""
-"Archiefondersteuning vereist dat 7-zip 3.11 of later geïnstalleerd is op uw "
+"Archiefondersteuning vereist dat 7-zip 3.11 of later geEstalleerd is op uw "
 "pc, of dat de\n"
-"essentiële onderdelen gekopieerd worden naar de programmamap voor standalone-"
+"essentiEe onderdelen gekopieerd worden naar de programmamap voor standalone-"
 "werking."
 
 #: Merge.rc:1286
@@ -2132,7 +2132,7 @@ msgstr "Merge7z000U.dll"
 #: Merge.rc:1301
 #, c-format
 msgid "7-Zip software installed on your computer:"
-msgstr "7-Zip software geïnstalleerd op deze pc:"
+msgstr "7-Zip software geEstalleerd op deze pc:"
 
 #: Merge.rc:1303
 #: Merge.rc:1308
@@ -2182,7 +2182,7 @@ msgstr "Opties"
 #: Merge.rc:1336
 #, c-format
 msgid " Categories"
-msgstr " Categorieën"
+msgstr " CategorieE"
 
 #: Merge.rc:1338
 #, c-format
@@ -2278,7 +2278,7 @@ msgstr "&Stijl:"
 #: Merge.rc:1418
 #, c-format
 msgid "&Copy to Clipboard"
-msgstr "Naar klembord kopiëren"
+msgstr "Naar klembord kopiEen"
 
 #: Merge.rc:1426
 #, c-format
@@ -2309,7 +2309,7 @@ msgstr "Archiefondersteuning"
 #: Merge.rc:1444
 #, c-format
 msgid "Archive support requires 7-Zip plugin installed:"
-msgstr "Archiefondersteuning vereist dat de 7-Zip-plugin geïnstalleerd is:"
+msgstr "Archiefondersteuning vereist dat de 7-Zip-plugin geEstalleerd is:"
 
 #: Merge.rc:1446
 #, c-format
@@ -2577,12 +2577,12 @@ msgstr "Voeg tijdstem&pel toe"
 #: Merge.rc:2256
 #, c-format
 msgid "Confirm Copy"
-msgstr "Kopiëren bevestigen"
+msgstr "KopiEen bevestigen"
 
 #: Merge.rc:1634
 #, c-format
 msgid "Are you sure you want to copy XXX items?"
-msgstr "Bent u zeker dat u XXX items wilt kopiëren?"
+msgstr "Bent u zeker dat u XXX items wilt kopiEen?"
 
 #: Merge.rc:1636
 #, c-format
@@ -2962,8 +2962,8 @@ msgid ""
 "Copy the selection and put it on the Clipboard\n"
 "Copy"
 msgstr ""
-"De selectie naar het klembord kopiëren\n"
-"Kopiëren"
+"De selectie naar het klembord kopiEen\n"
+"KopiEen"
 
 #: Merge.rc:1842
 #, c-format
@@ -3184,7 +3184,7 @@ msgstr "Druk op een willekeurige toets"
 #: Merge.rc:1912
 #, c-format
 msgid "Right click on the path to copy"
-msgstr "Klik rechts op het pad om het te kopiëren"
+msgstr "Klik rechts op het pad om het te kopiEen"
 
 #: Merge.rc:1918
 #, c-format
@@ -3532,7 +3532,7 @@ msgid ""
 "\n"
 "Please make sure the folder exists and is writable."
 msgstr ""
-"Kan filtersjabloonbestand niet kopiëren naar filtermap:\n"
+"Kan filtersjabloonbestand niet kopiEen naar filtermap:\n"
 "%1\n"
 "\n"
 "Ga na of de map bestaat en schrijfbaar is."
@@ -3575,7 +3575,7 @@ msgid ""
 msgstr ""
 "Installeren filterbestand mislukt.\n"
 "\n"
-"Kon nieuwe filter niet kopiëren naar filtermap."
+"Kon nieuwe filter niet kopiEen naar filtermap."
 
 #: Merge.rc:2060
 #, c-format
@@ -3595,7 +3595,7 @@ msgid ""
 "If you do not want to refresh all compares now you can select No and refresh "
 "compares later."
 msgstr ""
-"Filters werden geüpdatet. Wilt u alle geopende mapvergelijkingen "
+"Filters werden geEdatet. Wilt u alle geopende mapvergelijkingen "
 "vernieuwen?\n"
 "\n"
 "Indien u dit nu niet wilt doen, kan u Nee selecteren en de vergelijkingen "
@@ -3649,27 +3649,27 @@ msgstr "Bezig met openen van selectie"
 #: Merge.rc:2098
 #, c-format
 msgid "Copying Left to Right"
-msgstr "Aan het kopiëren van links naar rechts"
+msgstr "Aan het kopiEen van links naar rechts"
 
 #: Merge.rc:2099
 #, c-format
 msgid "Copying Right to Left"
-msgstr "Aan het kopiëren van rechts naar links"
+msgstr "Aan het kopiEen van rechts naar links"
 
 #: Merge.rc:2100
 #, c-format
 msgid "Copying All to Left"
-msgstr "Alles naar links aan het kopiëren"
+msgstr "Alles naar links aan het kopiEen"
 
 #: Merge.rc:2101
 #, c-format
 msgid "Copying All to Right"
-msgstr "Alles naar rechts aan het kopiëren"
+msgstr "Alles naar rechts aan het kopiEen"
 
 #: Merge.rc:2102
 #, c-format
 msgid "Copying files..."
-msgstr "Bezig met kopiëren van bestanden..."
+msgstr "Bezig met kopiEen van bestanden..."
 
 #: Merge.rc:2103
 #, c-format
@@ -3947,7 +3947,7 @@ msgid ""
 "Do you want to reload the file?"
 msgstr ""
 "Een andere toepassing heeft bestand\n"
-"%1 geüpdated\n"
+"%1 geEdated\n"
 "sinds WinMerge het de laatste keer scande.\n"
 "\n"
 "Wilt u het bestand opnieuw laden?"
@@ -4230,12 +4230,12 @@ msgstr ""
 #: Merge.rc:2251
 #, c-format
 msgid "Are you sure you want to copy:"
-msgstr "Bent u zeker dat u het volgende wilt kopiëren:"
+msgstr "Bent u zeker dat u het volgende wilt kopiEen:"
 
 #: Merge.rc:2252
 #, c-format
 msgid "Are you sure you want to copy %d items:"
-msgstr "Bent u zeker dat u %d items wilt kopiëren:"
+msgstr "Bent u zeker dat u %d items wilt kopiEen:"
 
 #: Merge.rc:2253
 #, c-format
@@ -4314,22 +4314,22 @@ msgstr "Onbekende extensie bij externe editor: %1"
 #: Merge.rc:2271
 #, c-format
 msgid "Copy filenames to clipboard"
-msgstr "Bestandsnamen naar het klembord kopiëren"
+msgstr "Bestandsnamen naar het klembord kopiEen"
 
 #: Merge.rc:2272
 #, c-format
 msgid "Copy left side pathnames to clipboard"
-msgstr "Padnamen van de linker kant naar het klembord kopiëren"
+msgstr "Padnamen van de linker kant naar het klembord kopiEen"
 
 #: Merge.rc:2273
 #, c-format
 msgid "Copy right side pathnames to clipboard"
-msgstr "Padnamen van de rechter kant naar het klembord kopiëren"
+msgstr "Padnamen van de rechter kant naar het klembord kopiEen"
 
 #: Merge.rc:2274
 #, c-format
 msgid "Copy both sides pathnames to clipboard"
-msgstr "Padnamen van beide kanten naar het klembord kopiëren"
+msgstr "Padnamen van beide kanten naar het klembord kopiEen"
 
 #: Merge.rc:2280
 #, c-format
@@ -4864,7 +4864,7 @@ msgstr ""
 "Verschillende codetabellen gevonden in linker (cp%d) en rechter (cp%d) "
 "bestanden. \n"
 "Elk bestand in zijn eigen codetabel weergeven zal resulteren in een betere "
-"weergave, maar samenvoegen/kopiëren zal gevaarlijk zijn.\n"
+"weergave, maar samenvoegen/kopiEen zal gevaarlijk zijn.\n"
 "Wilt u beide bestanden behandelen alsof ze in de standaard Windows-codetabel "
 "zijn (aangeraden)?"
 
@@ -4915,12 +4915,12 @@ msgstr "Kan tekenreeks \"%s\" niet vinden"
 #: Merge.rc:2468
 #, c-format
 msgid "Copy Full Path"
-msgstr "Volledig pad kopiëren"
+msgstr "Volledig pad kopiEen"
 
 #: Merge.rc:2469
 #, c-format
 msgid "Copy Filename"
-msgstr "Bestandsnaam kopiëren"
+msgstr "Bestandsnaam kopiEen"
 
 #: Merge.rc:2475
 #, c-format
@@ -5066,12 +5066,12 @@ msgstr "Selecteer te importeren bestand"
 #: Merge.rc:2507
 #, c-format
 msgid "Options imported from the file."
-msgstr "Opties geïmporteerd van bestand"
+msgstr "Opties geEporteerd van bestand"
 
 #: Merge.rc:2508
 #, c-format
 msgid "Options exported to the file."
-msgstr "Opties geëxporteerd naar bestand."
+msgstr "Opties geEporteerd naar bestand."
 
 #: Merge.rc:2509
 #, c-format
@@ -5605,8 +5605,8 @@ msgid ""
 "Copy the selected text to the right file\n"
 "Copy Right (Alt+Right)"
 msgstr ""
-"De geselecteerde tekst naar het rechter bestand kopiëren.\n"
-"Nnaar rechts kopiëren (Pijl rechts)"
+"De geselecteerde tekst naar het rechter bestand kopiEen.\n"
+"Nnaar rechts kopiEen (Pijl rechts)"
 
 #: Merge.rc:2648
 #, c-format
@@ -5614,8 +5614,8 @@ msgid ""
 "Copy the selected text to the left file\n"
 "Copy Left (Alt+Left)"
 msgstr ""
-"De geselecteerde tekst naar het linker bestand kopiëren.\n"
-"Naar links kopiëren (Pijl links)"
+"De geselecteerde tekst naar het linker bestand kopiEen.\n"
+"Naar links kopiEen (Pijl links)"
 
 #: Merge.rc:2649
 #, c-format
@@ -5623,8 +5623,8 @@ msgid ""
 "Copy difference to right and advance to next\n"
 "Copy Right and Advance (Ctrl+Alt+Right)"
 msgstr ""
-"Het verschil naar rechts kopiëren en verder naar het volgende verschil.\n"
-"Naar rechts kopiëren en volgende (Ctrl+Alt+Right)"
+"Het verschil naar rechts kopiEen en verder naar het volgende verschil.\n"
+"Naar rechts kopiEen en volgende (Ctrl+Alt+Right)"
 
 #: Merge.rc:2650
 #, c-format
@@ -5632,8 +5632,8 @@ msgid ""
 "Copy difference to left and advance to next\n"
 "Copy Left and Advance (Ctrl+Alt+Left)"
 msgstr ""
-"Het verschil naar links kopiëren en verder naar het volgende verschil.\n"
-"Naar links kopiëren en volgende (Ctrl+Alt+Left)"
+"Het verschil naar links kopiEen en verder naar het volgende verschil.\n"
+"Naar links kopiEen en volgende (Ctrl+Alt+Left)"
 
 #: Merge.rc:2651
 #, c-format
@@ -5641,8 +5641,8 @@ msgid ""
 "Copy all differences to the right file\n"
 "All Right"
 msgstr ""
-"Alle verschillen naar het rechter bestand kopiëren.\n"
-"Alles naar rechts kopiëren"
+"Alle verschillen naar het rechter bestand kopiEen.\n"
+"Alles naar rechts kopiEen"
 
 #: Merge.rc:2652
 #, c-format
@@ -5651,7 +5651,7 @@ msgid ""
 "All Left"
 msgstr ""
 "Kopieer alle verschillen naar het linker bestand. \n"
-"Alles naar links kopiëren"
+"Alles naar links kopiEen"
 
 #: Merge.rc:2653
 #, c-format

@@ -1,1 +1,11 @@
-.svn
+*.tlog
+*.bsc
+*.exp
+*.sdf
+*.suo
+*.idb
+*.ipch
+*.res
+.svn/
+Debug/
+BackUp/

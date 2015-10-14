@@ -2,13 +2,13 @@
 # Released under the "GNU General Public License"
 #
 # ID line follows -- this is updated by SVN
-# $Id: English.pot 7556 2011-08-19 15:07:03Z sdottaka $
+# $Id: $
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: WinMerge\n"
 "Report-Msgid-Bugs-To: http://bugs.winmerge.org/\n"
-"POT-Creation-Date: 2011-08-19 21:57+0000\n"
+"POT-Creation-Date: 2015-10-14 10:25+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: English <winmerge-translate@lists.sourceforge.net>\n"

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2f04053c-36e2-47e4-8742-512ec6346f99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{644e4e1a-7da0-42f4-824b-31b076839acb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\Work\WinMerge\WinMerge_SVN\Externals\pcre\pcrecpp.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Work\WinMerge\WinMerge_SVN\Externals\pcre\pcre_scanner.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Work\WinMerge\WinMerge_SVN\Externals\pcre\pcre_stringpiece.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\Work\WinMerge\WinMerge_SVN\Externals\pcre\pcrecpp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Work\WinMerge\WinMerge_SVN\Externals\pcre\pcre_scanner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win64\pcrecpparg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win64\pcre_stringpiece.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="..\..\..\..\Work\WinMerge\WinMerge_SVN\Externals\pcre\CMakeLists.txt" />
+  </ItemGroup>
+</Project>

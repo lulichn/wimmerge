@@ -1,0 +1,5919 @@
+# This file is part from WinMerge <http://winmerge.org/>
+# Released under the "GNU General Public License"
+#
+# Translators:
+# * Ozzii <ivanstar61 at gmail.com>
+#
+# ID line follows -- this is updated by SVN
+# $Id: Serbian.po 7556 2011-08-19 15:07:03Z sdottaka $
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WinMerge\n"
+"Report-Msgid-Bugs-To: http://bugs.winmerge.org/\n"
+"POT-Creation-Date: 2010-06-17 17:00+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: ﾈ籵・ﾑ裘陞 <ivanstar61@gmail.com> ・Ozzii\n"
+"Language-Team: English <winmerge-translate@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CP1251\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Serbian\n"
+"X-Poedit-SourceCharset: CP1251\n"
+"X-Poedit-Basepath: ../../Src/\n"
+
+#. LANGUAGE, SUBLANGUAGE
+#: Merge.rc:22
+#: Merge.rc:51
+#, c-format
+msgid "LANG_ENGLISH, SUBLANG_ENGLISH_US"
+msgstr "LANG_SERBIAN, SUBLANG_SERBIAN_CYRILLIC"
+
+#. Codepage
+#: Merge.rc:23
+#: Merge.rc:52
+#, c-format
+msgid "1252"
+msgstr "1251"
+
+#: Merge.rc:72
+#: Merge.rc:99
+#, c-format
+msgid "C&opy to Right"
+msgstr "ﾓ・&鮻・・蒟・
+
+#: Merge.rc:73
+#: Merge.rc:100
+#, c-format
+msgid "Cop&y to Left"
+msgstr "ﾓ・濵跖 ・・糒"
+
+#: Merge.rc:75
+#, c-format
+msgid "&Select Line Difference"
+msgstr "&ﾈ鈞砒 鉈顆頸・蒡粢"
+
+#: Merge.rc:77
+#, c-format
+msgid "&Undo"
+msgstr "&ﾎ・鉋粨"
+
+#: Merge.rc:78
+#, c-format
+msgid "&Redo"
+msgstr "&ﾏ・魵・
+
+#: Merge.rc:80
+#: Merge.rc:102
+#, c-format
+msgid "Cu&t"
+msgstr "ﾈ・褻・
+
+#: Merge.rc:81
+#: Merge.rc:103
+#: Merge.rc:512
+#, c-format
+msgid "&Copy"
+msgstr "&ﾓ・鮻・
+
+#: Merge.rc:82
+#: Merge.rc:104
+#, c-format
+msgid "&Paste"
+msgstr "&ﾍ琿襃・
+
+#: Merge.rc:84
+#: Merge.rc:593
+#, c-format
+msgid "&Goto..."
+msgstr "&ﾈ蒻 浯..."
+
+#: Merge.rc:86
+#, c-format
+msgid "Op&en"
+msgstr "&ﾎⅱ・
+
+#: Merge.rc:88
+#: Merge.rc:535
+#: Merge.rc:541
+#, c-format
+msgid "with &Registered Application"
+msgstr " 竟・・湜・・魲・・
+
+#: Merge.rc:89
+#: Merge.rc:536
+#: Merge.rc:542
+#, c-format
+msgid "with &External Editor"
+msgstr " 蓿&韲 蜷鞣璞褌"
+
+#: Merge.rc:90
+#: Merge.rc:537
+#: Merge.rc:543
+#, c-format
+msgid "&with..."
+msgstr "&"
+
+#: Merge.rc:110
+#: Merge.rc:194
+#: Merge.rc:315
+#, c-format
+msgid "&File"
+msgstr "&ﾄ瑣ⅳ裲・
+
+#: Merge.rc:112
+#: Merge.rc:196
+#: Merge.rc:317
+#, c-format
+msgid "&New\tCtrl+N"
+msgstr "&ﾍ魵濬tCtrl+N"
+
+#: Merge.rc:113
+#: Merge.rc:197
+#: Merge.rc:318
+#, c-format
+msgid "&Open...\tCtrl+O"
+msgstr "&ﾓ・蒻...\tCtrl+O"
+
+#: Merge.rc:114
+#: Merge.rc:198
+#: Merge.rc:319
+#, c-format
+msgid "Op&en Conflict File..."
+msgstr "ﾎⅱ・・髜・褌瑣顆淲..."
+
+#: Merge.rc:116
+#: Merge.rc:200
+#: Merge.rc:321
+#, c-format
+msgid "Open Pro&ject...\tCtrl+J"
+msgstr "ﾎⅱ・・&仙懷...\tCtrl+J"
+
+#: Merge.rc:117
+#: Merge.rc:201
+#: Merge.rc:322
+#, c-format
+msgid "Sa&ve Project..."
+msgstr "ﾑ璞・籵ｼ ・仙懷..."
+
+#: Merge.rc:119
+#, c-format
+msgid "Recent Projects"
+msgstr "ﾏⅲ・苜・・仙懷"
+
+#: Merge.rc:121
+#: Merge.rc:208
+#: Merge.rc:354
+#, c-format
+msgid "E&xit"
+msgstr "ﾈ鉈・・
+
+#: Merge.rc:123
+#: Merge.rc:210
+#: Merge.rc:356
+#, c-format
+msgid "&Edit"
+msgstr "ﾓ・裝・
+
+#: Merge.rc:125
+#: Merge.rc:214
+#: Merge.rc:390
+#, c-format
+msgid "&Options..."
+msgstr "ﾈ釿&ⅱ..."
+
+#: Merge.rc:127
+#: Merge.rc:216
+#: Merge.rc:392
+#, c-format
+msgid "&View"
+msgstr "ﾏ&・・
+
+#: Merge.rc:129
+#: Merge.rc:231
+#: Merge.rc:394
+#, c-format
+msgid "Select &Font..."
+msgstr "ﾈ鈞砒 &魵・.."
+
+#: Merge.rc:130
+#: Merge.rc:232
+#: Merge.rc:395
+#, c-format
+msgid "Use Default F&ont"
+msgstr "ﾊⅱ頌 ・蓿珸裘瑙・魵・
+
+#: Merge.rc:132
+#: Merge.rc:234
+#: Merge.rc:416
+#, c-format
+msgid "&Toolbar"
+msgstr "&ﾒ・ 琿瑣・
+
+#: Merge.rc:134
+#: Merge.rc:236
+#: Merge.rc:418
+#, c-format
+msgid "&None"
+msgstr "&ﾍ顏"
+
+#: Merge.rc:135
+#: Merge.rc:237
+#: Merge.rc:419
+#, c-format
+msgid "&Small"
+msgstr "&ﾌ琿・
+
+#: Merge.rc:136
+#: Merge.rc:238
+#: Merge.rc:420
+#, c-format
+msgid "&Big"
+msgstr "&ﾂ褄韭・
+
+#: Merge.rc:138
+#: Merge.rc:240
+#: Merge.rc:422
+#, c-format
+msgid "&Status Bar"
+msgstr "&ﾑ・瑕・
+
+#: Merge.rc:139
+#: Merge.rc:241
+#: Merge.rc:423
+#, c-format
+msgid "Ta&b Bar"
+msgstr "ﾒ&・ ｼ裼顆瑕・
+
+#: Merge.rc:141
+#: Merge.rc:244
+#: Merge.rc:427
+#, c-format
+msgid "&Language..."
+msgstr "&｣裼韭..."
+
+#: Merge.rc:143
+#: Merge.rc:265
+#: Merge.rc:449
+#, c-format
+msgid "&Tools"
+msgstr "ﾀ・・
+
+#: Merge.rc:145
+#: Merge.rc:268
+#: Merge.rc:451
+#, c-format
+msgid "&Filters..."
+msgstr "&ﾔ齏..."
+
+#: Merge.rc:146
+#: Merge.rc:269
+#: Merge.rc:452
+#, c-format
+msgid "&Generate Patch..."
+msgstr "ﾑ璞狆 &鉈韭・.."
+
+#: Merge.rc:148
+#: Merge.rc:272
+#: Merge.rc:455
+#, c-format
+msgid "&Plugins"
+msgstr "ﾄ鮏・"
+
+#: Merge.rc:150
+#: Merge.rc:274
+#: Merge.rc:457
+#, c-format
+msgid "&List..."
+msgstr "ﾑ・頌瑕"
+
+#: Merge.rc:152
+#, c-format
+msgid "Ma&nual Prediffer"
+msgstr ""
+
+#: Merge.rc:153
+#, c-format
+msgid "A&utomatic Prediffer"
+msgstr ""
+
+#: Merge.rc:155
+#: Merge.rc:276
+#: Merge.rc:459
+#, c-format
+msgid "&Manual Unpacking"
+msgstr "&ﾐ瑰・・ｼ ・
+
+#: Merge.rc:156
+#: Merge.rc:277
+#: Merge.rc:460
+#, c-format
+msgid "&Automatic Unpacking"
+msgstr "ﾐ瑰・・ｼ &瑪・・"
+
+#: Merge.rc:158
+#: Merge.rc:279
+#: Merge.rc:462
+#, c-format
+msgid "&Edit with Unpacker"
+msgstr "ﾓ蒻 ・瑩&粢"
+
+#: Merge.rc:160
+#: Merge.rc:281
+#: Merge.rc:469
+#, c-format
+msgid "&Reload plugins"
+msgstr "ﾏ・魵・&頸狆 蒡萵・
+
+#: Merge.rc:162
+#: Merge.rc:283
+#: Merge.rc:471
+#, c-format
+msgid "&Debug"
+msgstr "ﾎ・&湜 胙褸・"
+
+#: Merge.rc:164
+#: Merge.rc:285
+#: Merge.rc:473
+#, c-format
+msgid "&Load Config..."
+msgstr "ﾓ&ｼ ・珞・..."
+
+#: Merge.rc:165
+#: Merge.rc:286
+#: Merge.rc:474
+#, c-format
+msgid "&Reset Options"
+msgstr "ﾏⅸ褪淲 ・ⅲ粲・
+
+#: Merge.rc:167
+#: Merge.rc:288
+#: Merge.rc:476
+#, c-format
+msgid "&Window"
+msgstr "ﾏ・鰀ⅱ"
+
+#: Merge.rc:169
+#: Merge.rc:290
+#: Merge.rc:478
+#, c-format
+msgid "Cl&ose"
+msgstr "&ﾇ瑣粽"
+
+#: Merge.rc:170
+#: Merge.rc:291
+#: Merge.rc:479
+#, c-format
+msgid "Clo&se All"
+msgstr "ﾇ瑣粽 &・
+
+#: Merge.rc:172
+#: Merge.rc:293
+#: Merge.rc:481
+#, c-format
+msgid "Change &Pane\tF6"
+msgstr "ﾇ瑟褊・&硴藹tF6"
+
+#: Merge.rc:174
+#: Merge.rc:295
+#: Merge.rc:483
+#, c-format
+msgid "Tile &Horizontally"
+msgstr "ﾏ鉋 &粽蒡粹・
+
+#: Merge.rc:175
+#: Merge.rc:296
+#: Merge.rc:484
+#, c-format
+msgid "Tile &Vertically"
+msgstr "ﾏ鉋 &・珞濵"
+
+#: Merge.rc:176
+#: Merge.rc:297
+#: Merge.rc:485
+#, c-format
+msgid "&Cascade"
+msgstr "ﾏ鉋 ・&説濵"
+
+#: Merge.rc:178
+#: Merge.rc:299
+#: Merge.rc:487
+#: Merge.rc:1943
+#, c-format
+msgid "&Help"
+msgstr "ﾏ黑・・
+
+#: Merge.rc:180
+#: Merge.rc:301
+#: Merge.rc:489
+#, c-format
+msgid "&WinMerge Help\tF1"
+msgstr "&WinMerge ﾏ黑釚\tF1"
+
+#: Merge.rc:182
+#: Merge.rc:303
+#: Merge.rc:491
+#, c-format
+msgid "R&elease Notes"
+msgstr "ﾁ&褄褸・  韈萵懷"
+
+#: Merge.rc:183
+#: Merge.rc:304
+#: Merge.rc:492
+#, c-format
+msgid "&Translations"
+msgstr "&ﾏ粽蒻ⅷ・
+
+#: Merge.rc:184
+#: Merge.rc:305
+#: Merge.rc:493
+#, c-format
+msgid "C&onfiguration"
+msgstr "&ﾏⅲ粲・
+
+#: Merge.rc:185
+#: Merge.rc:306
+#: Merge.rc:494
+#, c-format
+msgid "A&rchive Support disabled..."
+msgstr "ﾏ鮏&・ 瑩粢 ・褌魲褊・.."
+
+#: Merge.rc:187
+#: Merge.rc:308
+#: Merge.rc:496
+#, c-format
+msgid "&GNU General Public License"
+msgstr "&GNU ｼ珞浯 ・煜・
+
+#: Merge.rc:188
+#: Merge.rc:309
+#: Merge.rc:497
+#, c-format
+msgid "&About WinMerge..."
+msgstr "&ﾎ WinMerge..."
+
+#: Merge.rc:203
+#: Merge.rc:340
+#, c-format
+msgid "L&eft Read-only"
+msgstr "ﾑ瑟・鈞 懷 - ・裘・
+
+#: Merge.rc:204
+#: Merge.rc:341
+#, c-format
+msgid "Ri&ght Read-only"
+msgstr "ﾑ瑟・鈞 懷 - ・褥浯"
+
+#: Merge.rc:206
+#, c-format
+msgid "File En&coding"
+msgstr "&ﾊ鮏頏燧・萵・"
+
+#: Merge.rc:212
+#: Merge.rc:366
+#, c-format
+msgid "Select &All\tCtrl+A"
+msgstr "ﾈ鈞砒 &藹tCtrl+A"
+
+#: Merge.rc:218
+#, c-format
+msgid "Show &Identical Items"
+msgstr "ﾏ・跖 &・蔘萵・珞・"
+
+#: Merge.rc:219
+#, c-format
+msgid "Show &Different Items"
+msgstr "ﾏ・跖 鉈・ 珞・"
+
+#: Merge.rc:220
+#, c-format
+msgid "Show L&eft Unique Items"
+msgstr "ﾏ・跖 ・裘・ｼ裝竟粢淲 珞・"
+
+#: Merge.rc:221
+#, c-format
+msgid "Show Ri&ght Unique Items"
+msgstr "ﾏ・跖 蒟&・ｼ裝竟粢淲 珞・"
+
+#: Merge.rc:222
+#, c-format
+msgid "Show S&kipped Items"
+msgstr "ﾏ・跖 &韈ⅲ笞褊・珞・"
+
+#: Merge.rc:223
+#, c-format
+msgid "S&how Binary Files"
+msgstr "ﾏ・&跖 礪浯・萵・"
+
+#: Merge.rc:225
+#, c-format
+msgid "Show Hidd&en Items"
+msgstr "ﾏ・跖 ・褊・珞・"
+
+#: Merge.rc:227
+#, c-format
+msgid "Tree &Mode"
+msgstr "&ﾌ鮏褄 珮・"
+
+#: Merge.rc:228
+#, c-format
+msgid "E&xpand All Subfolders"
+msgstr "ﾏ& ・・瑰・・
+
+#: Merge.rc:229
+#, c-format
+msgid "&Collapse All Subfolders"
+msgstr "ﾇ瑣粽 ・・瑰・・
+
+#: Merge.rc:242
+#, c-format
+msgid "Compa&re Statistics"
+msgstr "ﾓ・蒻 瑣頌・"
+
+#: Merge.rc:246
+#: Merge.rc:429
+#, c-format
+msgid "Refre&sh\tF5"
+msgstr "ﾎ&褂鐔tF5"
+
+#: Merge.rc:247
+#, c-format
+msgid "&Refresh Selected\tCtrl+F5"
+msgstr "ﾎ・跖 鮏珮濵\tCtrl+F5"
+
+#: Merge.rc:249
+#: Merge.rc:431
+#, c-format
+msgid "&Merge"
+msgstr "ﾏⅱ・仙懷"
+
+#: Merge.rc:251
+#, c-format
+msgid "Co&mpare\tEnter"
+msgstr "&ﾓ・蒻\tEnter"
+
+#: Merge.rc:253
+#: Merge.rc:433
+#, c-format
+msgid "&Next Difference\tAlt+Down"
+msgstr "&ﾑ・蒟樅 鉈韭濬tAlt+Down"
+
+#: Merge.rc:254
+#: Merge.rc:434
+#, c-format
+msgid "&Previous Difference\tAlt+Up"
+msgstr "&ﾏ鮏浯 鉈韭濬tAlt+Up"
+
+#: Merge.rc:256
+#: Merge.rc:436
+#, c-format
+msgid "&First Difference\tAlt+Home"
+msgstr "ﾏ・籵 鉈韭濬tAlt+Home"
+
+#: Merge.rc:257
+#: Merge.rc:437
+#, c-format
+msgid "&Current Difference\tAlt+Enter"
+msgstr "&ﾒ炫・鉈韭濬tAlt+Enter"
+
+#: Merge.rc:258
+#: Merge.rc:438
+#, c-format
+msgid "&Last Difference\tAlt+End"
+msgstr "&ﾇ琅憫 鉈韭濬tAlt+End"
+
+#: Merge.rc:260
+#: Merge.rc:440
+#, c-format
+msgid "Copy to &Right\tAlt+Right"
+msgstr "ﾓ・鮻・・&蒟tAlt+Right"
+
+#: Merge.rc:261
+#: Merge.rc:441
+#, c-format
+msgid "Copy to L&eft\tAlt+Left"
+msgstr "ﾓ・鮻・・・裘tAlt+Left"
+
+#: Merge.rc:263
+#, c-format
+msgid "&Delete\tDel"
+msgstr "&ﾈ釿\tDel"
+
+#: Merge.rc:267
+#: Merge.rc:566
+#, c-format
+msgid "&Customize Columns..."
+msgstr "ﾏ鮏褥・&..."
+
+#: Merge.rc:270
+#: Merge.rc:453
+#, c-format
+msgid "Generate &Report..."
+msgstr "ﾍ瑜&粨 韈粢狆..."
+
+#: Merge.rc:324
+#, c-format
+msgid "&Save\tCtrl+S"
+msgstr "&ﾑ璞狆\tCtrl+S"
+
+#: Merge.rc:325
+#, c-format
+msgid "Save &Left"
+msgstr "ﾑ璞狆 &・糒"
+
+#: Merge.rc:327
+#: Merge.rc:332
+#, c-format
+msgid "&Save"
+msgstr "&ﾑ璞狆"
+
+#: Merge.rc:328
+#: Merge.rc:333
+#, c-format
+msgid "Save &As..."
+msgstr "ﾑ璞狆 &・・
+
+#: Merge.rc:330
+#, c-format
+msgid "Save &Right"
+msgstr "ﾑ璞狆 &蒟・
+
+#: Merge.rc:336
+#, c-format
+msgid "&Print..."
+msgstr "&ﾎ蓼・狆..."
+
+#: Merge.rc:337
+#, c-format
+msgid "Page Se&tup"
+msgstr "ﾏ鮏褥・・瑙頽・
+
+#: Merge.rc:338
+#, c-format
+msgid "Print Previe&w"
+msgstr "ﾏ肭裝 ・・瑟・&憫"
+
+#: Merge.rc:343
+#, c-format
+msgid "&Convert Line Endings to"
+msgstr "ﾇ珞・・・褌・
+
+#: Merge.rc:345
+#, c-format
+msgid "&Windows (CRLF)"
+msgstr "&Windows (CRLF)"
+
+#: Merge.rc:346
+#, c-format
+msgid "&Unix (LF)"
+msgstr "&Unix (LF)"
+
+#: Merge.rc:347
+#, c-format
+msgid "&Mac (CR)"
+msgstr "&Mac (CR)"
+
+#: Merge.rc:350
+#, c-format
+msgid "&Merge Mode\tF9"
+msgstr "&ﾍ璞竟 ・仙憫\tF9"
+
+#: Merge.rc:352
+#, c-format
+msgid "&File Encoding..."
+msgstr "ﾄ・・蒻懷 萵・..."
+
+#: Merge.rc:358
+#, c-format
+msgid "&Undo\tCtrl+Z"
+msgstr "ﾎ・&鉋粨\tCtrl+Z"
+
+#: Merge.rc:359
+#, c-format
+msgid "&Redo\tCtrl+Y"
+msgstr "&ﾏ・魵鐔tCtrl+Y"
+
+#: Merge.rc:361
+#, c-format
+msgid "Cu&t\tCtrl+X"
+msgstr "ﾈ&\tCtrl+X"
+
+#: Merge.rc:362
+#, c-format
+msgid "&Copy\tCtrl+C"
+msgstr "ﾓ・・跖\tCtrl+C"
+
+#: Merge.rc:363
+#, c-format
+msgid "&Paste\tCtrl+V"
+msgstr "&ﾍ琿襃鐔tCtrl+V"
+
+#: Merge.rc:365
+#, c-format
+msgid "Select Line &Difference\tF4"
+msgstr "ﾈ瑕湜 &鉈韭・萵\tF4"
+
+#: Merge.rc:368
+#, c-format
+msgid "F&ind...\tCtrl+F"
+msgstr "ﾏ琥&・..\tCtrl+F"
+
+#: Merge.rc:369
+#, c-format
+msgid "Repla&ce...\tCtrl+H"
+msgstr "ﾇ瑟褊・..\tCtrl+H"
+
+#: Merge.rc:371
+#, c-format
+msgid "&Scripts"
+msgstr "&ﾑ・韵 "
+
+#: Merge.rc:373
+#: Merge.rc:2703
+#, c-format
+msgid "< Empty >"
+msgstr "< ﾏ鈞・>"
+
+#: Merge.rc:376
+#, c-format
+msgid "Advanced"
+msgstr "ﾍ瑜蓖・
+
+#: Merge.rc:378
+#, c-format
+msgid "&Copy With Line Numbers\tCtrl+Shift+C"
+msgstr "&ﾓ・鮻・蒡粢  碣錡裘韲濬tCtrl+Shift+C"
+
+#: Merge.rc:381
+#, c-format
+msgid "&Bookmarks"
+msgstr "ﾇ&珮褄褸・"
+
+#: Merge.rc:383
+#, c-format
+msgid "&Toggle Bookmark\tCtrl+F2"
+msgstr "&ﾇ瑟褊・鈞砒・藹tCtrl+F2"
+
+#: Merge.rc:384
+#, c-format
+msgid "&Next Bookmark\tF2"
+msgstr "&ﾑ・蒟樅 鈞砒・濬tF2"
+
+#: Merge.rc:385
+#, c-format
+msgid "&Previous bookmark\tShift+F2"
+msgstr "&ﾏ鮏浯 鈞砒・濬tShift+F2"
+
+#: Merge.rc:386
+#, c-format
+msgid "&Clear All Bookmarks"
+msgstr "ﾎ・・鈞砒・・
+
+#: Merge.rc:388
+#, c-format
+msgid "&Go To...\tCtrl+G"
+msgstr "&ﾈ蒻 浯...\tCtrl+G"
+
+#: Merge.rc:396
+#, c-format
+msgid "&Zoom"
+msgstr "&ﾏ魵蝙狆"
+
+#: Merge.rc:398
+#, c-format
+msgid "Zoom &In\tCtrl++"
+msgstr "ﾓ粢&樅ｼ\tCtrl++"
+
+#: Merge.rc:399
+#, c-format
+msgid "Zoom &Out\tCtrl+-"
+msgstr "ﾓ・&懆\tCtrl+-"
+
+#. Zoom to normal
+#: Merge.rc:400
+#, c-format
+msgid "&Normal\tCtrl+*"
+msgstr "ﾈ鈔ⅱ濵\tCtrl+*"
+
+#: Merge.rc:402
+#, c-format
+msgid "Syntax Highlight"
+msgstr "ﾍ璢・ ・・"
+
+#: Merge.rc:407
+#, c-format
+msgid "&Lock Panes"
+msgstr "ﾇ瑕奕ｼ 硴・
+
+#: Merge.rc:408
+#, c-format
+msgid "&View Whitespace"
+msgstr "ﾏ・&・銕瑕・
+
+#: Merge.rc:409
+#, c-format
+msgid "Vie&w Line Differences"
+msgstr "ﾏ・・鉈・・蒡籵"
+
+#: Merge.rc:410
+#, c-format
+msgid "View Line &Numbers"
+msgstr "ﾏ・・碣錡・&蒡籵"
+
+#: Merge.rc:411
+#, c-format
+msgid "View &Margins"
+msgstr "ﾏ・・鞣・"
+
+#: Merge.rc:412
+#, c-format
+msgid "W&rap Lines"
+msgstr "ﾇ珞褪瑕 蒡籵"
+
+#: Merge.rc:414
+#, c-format
+msgid "Sw&ap Panes"
+msgstr "ﾇ&瑟褊・硴・
+
+#: Merge.rc:424
+#, c-format
+msgid "Diff &Pane"
+msgstr "&ﾐ珸・・ 硴・
+
+#: Merge.rc:425
+#, c-format
+msgid "Lo&cation Pane"
+msgstr "ﾏ鸙・赳ｼ 硴・
+
+#: Merge.rc:443
+#, c-format
+msgid "C&opy to Right and Advance\tAlt+Ctrl+Right"
+msgstr "ﾓ・鮻・・蒟&・・浯珞鐔tAlt+Ctrl+Right"
+
+#: Merge.rc:444
+#, c-format
+msgid "Copy &to Left and Advance\tAlt+Ctrl+Left"
+msgstr "ﾓ・濵跖 ・・粽 ・浯珞鐔tAlt+Ctrl+Left"
+
+#: Merge.rc:446
+#, c-format
+msgid "Copy &All to Right"
+msgstr "ﾓ・・跖 ・・蒟・
+
+#: Merge.rc:447
+#, c-format
+msgid "Cop&y All to Left"
+msgstr "ﾓ・鮻&・・・・粽"
+
+#: Merge.rc:464
+#, c-format
+msgid "&Prediffer"
+msgstr "&ﾄ襁竟頌瑙・・仙懷"
+
+#: Merge.rc:505
+#, c-format
+msgid "Comp&are"
+msgstr "&ﾓ・蒻"
+
+#: Merge.rc:506
+#, c-format
+msgid "Co&mpare As"
+msgstr ""
+
+#: Merge.rc:508
+#, c-format
+msgid "&XML"
+msgstr "&XML"
+
+#: Merge.rc:509
+#, c-format
+msgid "&Binary"
+msgstr ""
+
+#: Merge.rc:514
+#, c-format
+msgid "&Left to Right"
+msgstr "&ﾋ裘・・蒟・
+
+#: Merge.rc:515
+#, c-format
+msgid "L&eft to..."
+msgstr "ﾋ&裘・・.."
+
+#: Merge.rc:516
+#, c-format
+msgid "&Right to Left"
+msgstr "&ﾄ褥浯 ・・粽"
+
+#: Merge.rc:517
+#, c-format
+msgid "R&ight to..."
+msgstr "ﾄ&褥浯 ・.."
+
+#: Merge.rc:519
+#, c-format
+msgid "&Move"
+msgstr "ﾏ・・"
+
+#: Merge.rc:521
+#, c-format
+msgid "&Left to..."
+msgstr "&ﾋ裘・・.."
+
+#: Merge.rc:522
+#, c-format
+msgid "&Right to..."
+msgstr "&ﾄ褥浯 ・.."
+
+#: Merge.rc:524
+#, c-format
+msgid "&Delete"
+msgstr "&ﾈ釿"
+
+#: Merge.rc:526
+#: Merge.rc:1142
+#: Merge.rc:1509
+#, c-format
+msgid "&Left"
+msgstr "&ﾋ裘・
+
+#: Merge.rc:527
+#: Merge.rc:1144
+#: Merge.rc:1512
+#, c-format
+msgid "&Right"
+msgstr "&ﾄ褥浯"
+
+#: Merge.rc:528
+#, c-format
+msgid "&Both"
+msgstr "ﾎ砒 "
+
+#: Merge.rc:530
+#, c-format
+msgid "Re&name"
+msgstr "ﾏ韲・炫ｼ"
+
+#: Merge.rc:531
+#, c-format
+msgid "&Hide Items"
+msgstr "&ﾑ瑕ｼ 珞・"
+
+#: Merge.rc:533
+#, c-format
+msgid "&Open Left"
+msgstr "&ﾎⅱ・・糒"
+
+#: Merge.rc:539
+#, c-format
+msgid "O&pen Right"
+msgstr "ﾎ・ 蒟・
+
+#: Merge.rc:546
+#, c-format
+msgid "Cop&y Pathnames"
+msgstr "ﾓ・鮻・・&懽"
+
+#: Merge.rc:548
+#, c-format
+msgid "&Left (%1 of %2)"
+msgstr "&ﾋ裘・(%1 鮏 %2) "
+
+#: Merge.rc:549
+#, c-format
+msgid "&Right (%1 of %2)"
+msgstr "&ﾄ褥浯 (%1 鮏 %2)"
+
+#: Merge.rc:550
+#, c-format
+msgid "&Both (%1 of %2)"
+msgstr "ﾎ&砒 (%1 鮏 %2)"
+
+#: Merge.rc:552
+#, c-format
+msgid "Copy &Filenames"
+msgstr "ﾓ・鮻・浯鉅粢 萵・"
+
+#: Merge.rc:554
+#, c-format
+msgid "&Zip"
+msgstr "&ﾇ韵"
+
+#: Merge.rc:556
+#, c-format
+msgid "&Left... (%1 of %2)"
+msgstr "ﾋ裘・..(%1 鮏 %2)"
+
+#: Merge.rc:557
+#, c-format
+msgid "&Right... (%1 of %2)"
+msgstr "&ﾄ褥浯...(%1 鮏 %2)"
+
+#: Merge.rc:558
+#, c-format
+msgid "&Both... (%1 of %2)"
+msgstr "ﾎ砒...(%1 鮏 %2)"
+
+#: Merge.rc:559
+#, c-format
+msgid "&Differences... (%1 of %2)"
+msgstr "&ﾐ珸・・...(%1 鮏 %2)"
+
+#: Merge.rc:562
+#, c-format
+msgid "&Refresh"
+msgstr "&ﾎ褂・
+
+#: Merge.rc:574
+#, c-format
+msgid "&Copy Full Path"
+msgstr "&ﾓ・鮻・・懽"
+
+#: Merge.rc:575
+#, c-format
+msgid "Copy &Filename"
+msgstr "ﾓ・鮻・浯&鉅・萵・"
+
+#: Merge.rc:581
+#, c-format
+msgid "Prediffer Settings"
+msgstr "ﾑ粽ｼ籵 蒟湜濵・・仙憫"
+
+#: Merge.rc:583
+#, c-format
+msgid "&No prediffer"
+msgstr "ﾍ褌・蒟湜濵・・仙憫"
+
+#: Merge.rc:584
+#, c-format
+msgid "Auto prediffer"
+msgstr "ﾀ黑瑣・蒟湜 ・仙懷"
+
+#: Merge.rc:592
+#, c-format
+msgid "G&oto Diff"
+msgstr "ﾈ蒻 &浯 鉈韭・
+
+#: Merge.rc:595
+#, c-format
+msgid "&No Moved Blocks"
+msgstr "&ﾍ・・褌褸ｼ 胙・
+
+#: Merge.rc:596
+#, c-format
+msgid "&All Moved Blocks"
+msgstr "ﾏ・・&・胙・
+
+#: Merge.rc:597
+#, c-format
+msgid "Moved Block for &Current Diff"
+msgstr "ﾏ・・褊淲 鉈韭・&胙・
+
+#: Merge.rc:666
+#, c-format
+msgid "About WinMerge"
+msgstr "ﾎ WinMerge"
+
+#: Merge.rc:672
+#, c-format
+msgid "(Private Build)"
+msgstr "(ﾋ顆湜 韈萵・"
+
+#: Merge.rc:673
+#, c-format
+msgid "All rights reserved."
+msgstr "ﾑ籵 ・珞・ ・鞴瑙・
+
+#: Merge.rc:674
+#, c-format
+msgid "Visit the WinMerge HomePage!"
+msgstr "ﾏⅲ褪頸・WinMerge-魵 ｼ・
+
+#: Merge.rc:677
+#: Merge.rc:709
+#: Merge.rc:801
+#: Merge.rc:990
+#: Merge.rc:1061
+#: Merge.rc:1090
+#: Merge.rc:1100
+#: Merge.rc:1251
+#: Merge.rc:1315
+#: Merge.rc:1328
+#: Merge.rc:1420
+#: Merge.rc:1435
+#: Merge.rc:1657
+#, c-format
+msgid "OK"
+msgstr "ﾓ 蔘"
+
+#: Merge.rc:678
+#, c-format
+msgid "Contributors"
+msgstr "ﾑ瑩琅湜"
+
+#: Merge.rc:685
+#, c-format
+msgid "Select Files or Folders"
+msgstr "ﾈ鈞砒 萵・ 齏・韭・"
+
+#: Merge.rc:688
+#: Merge.rc:1586
+#, c-format
+msgid "&Left:"
+msgstr "&ﾋ裘a:"
+
+#: Merge.rc:692
+#: Merge.rc:753
+#: Merge.rc:1004
+#: Merge.rc:1026
+#, c-format
+msgid "&Browse..."
+msgstr "&ﾏ肭裝狆..."
+
+#: Merge.rc:693
+#: Merge.rc:1590
+#, c-format
+msgid "&Right:"
+msgstr "&ﾄ褥僘:"
+
+#: Merge.rc:697
+#: Merge.rc:1037
+#, c-format
+msgid "Bro&wse..."
+msgstr "ﾏ&肭裝狆..."
+
+#: Merge.rc:698
+#: Merge.rc:1594
+#, c-format
+msgid "&Filter:"
+msgstr "&ﾔ齏・"
+
+#: Merge.rc:701
+#: Merge.rc:1596
+#, c-format
+msgid "Select..."
+msgstr "ﾈ鈞砒..."
+
+#: Merge.rc:702
+#, c-format
+msgid "&Unpacker:"
+msgstr "&ﾀ鞣褞:"
+
+#: Merge.rc:705
+#, c-format
+msgid "&Select..."
+msgstr "&ﾈ鈞砒..."
+
+#: Merge.rc:706
+#: Merge.rc:1597
+#, c-format
+msgid "&Include Subfolders"
+msgstr "ﾓ齲・・・瑰・・
+
+#: Merge.rc:708
+#, c-format
+msgid "Status:"
+msgstr "ﾑ懷"
+
+#: Merge.rc:710
+#: Merge.rc:740
+#: Merge.rc:802
+#: Merge.rc:832
+#: Merge.rc:864
+#: Merge.rc:874
+#: Merge.rc:1062
+#: Merge.rc:1091
+#: Merge.rc:1101
+#: Merge.rc:1152
+#: Merge.rc:1252
+#: Merge.rc:1329
+#: Merge.rc:1421
+#: Merge.rc:1436
+#: Merge.rc:1658
+#, c-format
+msgid "Cancel"
+msgstr "ﾎ琥・
+
+#: Merge.rc:711
+#: Merge.rc:1330
+#, c-format
+msgid "Help"
+msgstr "ﾏ黑釚"
+
+#: Merge.rc:712
+#, c-format
+msgid "Files or Folders to Compare"
+msgstr "ﾓ・蒻 萵・ 齏・韭・"
+
+#: Merge.rc:719
+#, c-format
+msgid "Visual SourceSafe"
+msgstr "Visual SourceSafe"
+
+#: Merge.rc:724
+#, c-format
+msgid "Database:"
+msgstr "ﾁ珸・・萵・:"
+
+#: Merge.rc:727
+#, c-format
+msgid "Project:"
+msgstr "ﾏⅱ蜷蝨・"
+
+#: Merge.rc:730
+#, c-format
+msgid "User:"
+msgstr "ﾊⅱ頌湜・"
+
+#: Merge.rc:732
+#, c-format
+msgid "Password:"
+msgstr "ﾋ鰀竟・:"
+
+#: Merge.rc:734
+#, c-format
+msgid "Link to Destination VSS project"
+msgstr "ﾂ裼・蒡 鮏蒻・VSS ・錡裲"
+
+#: Merge.rc:736
+#: Merge.rc:879
+#, c-format
+msgid "Apply to all items"
+msgstr "ﾏ・湜 浯 ・珞・"
+
+#: Merge.rc:738
+#, c-format
+msgid "Check Out"
+msgstr "ﾏ粢"
+
+#: Merge.rc:739
+#: Merge.rc:875
+#, c-format
+msgid "Save As..."
+msgstr "ﾑ璞狆 ・・.."
+
+#: Merge.rc:745
+#, c-format
+msgid "Versioning System"
+msgstr "ﾈ鈕燧・・魲・"
+
+#: Merge.rc:748
+#, c-format
+msgid "&Versioning System:"
+msgstr "&ﾈ釿ⅱ ・魲・"
+
+#: Merge.rc:751
+#: Merge.rc:2078
+#, c-format
+msgid "&Path to cleartool.exe:"
+msgstr "&ﾏ燧・蒡 cleartool.exe"
+
+#: Merge.rc:758
+#: Merge.rc:1951
+#: Merge.rc:1964
+#, c-format
+msgid "General"
+msgstr "ﾎ・ 韈碚・
+
+#: Merge.rc:761
+#, c-format
+msgid "Automatically &scroll to first difference"
+msgstr "ﾓ粢・・褊・鮏 &・粢 鉈韭・
+
+#: Merge.rc:764
+#, c-format
+msgid "&Disable Splash Screen"
+msgstr "&ﾎ淲・胚櫁 鮏湜 裲・
+
+#: Merge.rc:766
+#, c-format
+msgid "Cl&ose windows with ESC"
+msgstr "ﾇ瑣粽 ・&鰀ⅱ  ESC"
+
+#: Merge.rc:768
+#, c-format
+msgid "&Automatically verify paths in Open-dialog"
+msgstr "ﾏ粢 ・懷 ・韈碚黑 蒻ｼ琿魲・"
+
+#: Merge.rc:771
+#, c-format
+msgid "All&ow only one instance to run"
+msgstr "ﾄ鰀粽・ ・ ｼ裝炫 ・・褊・浯蓁褂濵"
+
+#: Merge.rc:773
+#, c-format
+msgid "As&k when closing multiple windows"
+msgstr "ﾓ・ｼ &・・鈞瑩璧 粨 ・鰀ⅱ・
+
+#: Merge.rc:775
+#, c-format
+msgid "&Preserve file time in file compare"
+msgstr "&ﾇ琅・鰀浯・ 糅褌褊・・萵・ ・・仙懽 "
+
+#: Merge.rc:778
+#, c-format
+msgid "Show \"Select Files or Folders\" Dialog on Startup"
+msgstr "ﾏ・跖 \"ﾎ萵碣瑙・萵・ 齏・韭・\" 蒻ｼ琿魲 ・・・・褪燧・"
+
+#: Merge.rc:780
+#, c-format
+msgid "O&pen-dialog Auto-Completion:"
+msgstr "ﾎⅱ・蒻ｼ琿魲 ・蒡糅憫"
+
+#: Merge.rc:783
+#, c-format
+msgid "Enable multiple compare windows for"
+msgstr "ﾎ・胚櫁 粨・ ・仙懷 "
+
+#: Merge.rc:785
+#: Merge.rc:1609
+#, c-format
+msgid "&Folder compare"
+msgstr "ﾓ・蒻 &韭・"
+
+#: Merge.rc:787
+#: Merge.rc:1611
+#, c-format
+msgid "Fil&e compare"
+msgstr "ﾓ・・裝・萵・"
+
+#: Merge.rc:789
+#, c-format
+msgid "WinMerge allows hiding some common messageboxes. Press the Reset button to make all messageboxes visible again."
+msgstr "WinMerge 黑魲珞・籵懷 淲・・礪ｼ褊頷 ・・.ﾏ頸・'ﾏⅸ褪湜'萵 ・・ ⅰ褪 碯蔘 粨苞鞣・
+
+#: Merge.rc:791
+#, c-format
+msgid "Reset"
+msgstr "ﾏⅸ褪湜"
+
+#: Merge.rc:798
+#, c-format
+msgid "Language"
+msgstr "｣裼韭"
+
+#: Merge.rc:805
+#, c-format
+msgid "Available languages:"
+msgstr "ﾄⅲ・・ｼ裼頽・"
+
+#: Merge.rc:811
+#, c-format
+msgid "Find"
+msgstr "ﾍ熕・
+
+#: Merge.rc:814
+#: Merge.rc:841
+#, c-format
+msgid "Fi&nd what:"
+msgstr "ﾏ・跖:"
+
+#: Merge.rc:817
+#: Merge.rc:847
+#, c-format
+msgid "Match &whole word only"
+msgstr "ﾓ・蒻 &・韈・
+
+#: Merge.rc:819
+#: Merge.rc:849
+#, c-format
+msgid "Match &case"
+msgstr "ﾓ・蒻 ・懷"
+
+#: Merge.rc:821
+#: Merge.rc:851
+#, c-format
+msgid "Regular &expression"
+msgstr "ﾏ粨・・韈・
+
+#: Merge.rc:823
+#, c-format
+msgid "D&on't wrap end of file"
+msgstr "ﾁ裼 ・褄&黑・・"
+
+#: Merge.rc:826
+#, c-format
+msgid "Direction"
+msgstr "ﾑ・・
+
+#: Merge.rc:827
+#, c-format
+msgid "&Up"
+msgstr "&ﾃⅱ・
+
+#: Merge.rc:829
+#, c-format
+msgid "&Down"
+msgstr "&ﾄ鸙・
+
+#: Merge.rc:831
+#: Merge.rc:861
+#, c-format
+msgid "&Find Next"
+msgstr "&ﾍ熕・裝蝙・
+
+#: Merge.rc:838
+#, c-format
+msgid "Replace"
+msgstr "ﾇ瑟褊・
+
+#: Merge.rc:844
+#, c-format
+msgid "Re&place with:"
+msgstr "ﾇ・・湜 :"
+
+#: Merge.rc:853
+#, c-format
+msgid "&Don't wrap end of file"
+msgstr "&ﾁ裼 ・褄黑・・"
+
+#: Merge.rc:856
+#, c-format
+msgid "Replace in"
+msgstr "ﾇ瑟褊・・
+
+#: Merge.rc:857
+#, c-format
+msgid "&Selection"
+msgstr "ﾈ鈞碣瑙韲"
+
+#: Merge.rc:859
+#, c-format
+msgid "Wh&ole file"
+msgstr "ﾖ褄錡 萵・ⅳ褻・
+
+#: Merge.rc:862
+#, c-format
+msgid "&Replace"
+msgstr "&ﾇ瑟褊・
+
+#: Merge.rc:863
+#, c-format
+msgid "Replace &All"
+msgstr "ﾇ瑟褊・&・
+
+#: Merge.rc:870
+#: Merge.rc:2200
+#, c-format
+msgid "Rational ClearCase"
+msgstr "ﾏ・顆濵 ｼ瑰瑙 狆"
+
+#: Merge.rc:873
+#, c-format
+msgid "CheckOut"
+msgstr "ﾏ粢"
+
+#: Merge.rc:878
+#: Merge.rc:1170
+#, c-format
+msgid "Comments"
+msgstr "ﾍ瑜黑褊・
+
+#: Merge.rc:881
+#, c-format
+msgid "CheckIn after checkout"
+msgstr "ﾏ粢 ・濵粽"
+
+#: Merge.rc:887
+#, c-format
+msgid "Linefilters"
+msgstr "ﾔ齏・蒡籵"
+
+#: Merge.rc:890
+#, c-format
+msgid "Enable Line Filters"
+msgstr "ﾎ・胚櫁 ・懷 萵"
+
+#: Merge.rc:893
+#, c-format
+msgid "Regular Expressions (one per line):"
+msgstr "ﾈ籵・韈・(ｼ裝瑙 ・ 蔘):"
+
+#: Merge.rc:898
+#, c-format
+msgid "New"
+msgstr "ﾍ魵・
+
+#: Merge.rc:899
+#, c-format
+msgid "Edit"
+msgstr "ﾓ蒻"
+
+#: Merge.rc:900
+#, c-format
+msgid "Remove"
+msgstr "ﾓ・・・
+
+#: Merge.rc:905
+#: Merge.rc:1954
+#, c-format
+msgid "Colors"
+msgstr "ﾁ錡・
+
+#: Merge.rc:908
+#, c-format
+msgid "Difference:"
+msgstr "ﾐ珸・・"
+
+#: Merge.rc:912
+#, c-format
+msgid "Selected Difference:"
+msgstr "ﾎ砒・跖 鉈韭・
+
+#: Merge.rc:916
+#: Merge.rc:1561
+#, c-format
+msgid "Background"
+msgstr "ﾏ鰀琅竟・
+
+#: Merge.rc:917
+#, c-format
+msgid "Deleted"
+msgstr "ﾈ釿濵"
+
+#: Merge.rc:930
+#: Merge.rc:1356
+#: Merge.rc:1562
+#: Merge.rc:1955
+#, c-format
+msgid "Text"
+msgstr "ﾒ裲"
+
+#: Merge.rc:934
+#, c-format
+msgid "Ignored Difference:"
+msgstr "ﾇ瑙褌瑩・鉈韭・
+
+#: Merge.rc:944
+#, c-format
+msgid "Moved:"
+msgstr "ﾏ・褊・"
+
+#: Merge.rc:954
+#, c-format
+msgid "Selected Moved:"
+msgstr "ﾏ・燧・韈珮濵・
+
+#: Merge.rc:961
+#, c-format
+msgid "Word Difference:"
+msgstr "ﾐ珸・ :"
+
+#: Merge.rc:971
+#, c-format
+msgid "Selected Word Diff:"
+msgstr "ﾎ萵砒 鉈顆頸・:"
+
+#: Merge.rc:981
+#: Merge.rc:1060
+#: Merge.rc:1089
+#: Merge.rc:1172
+#: Merge.rc:1402
+#: Merge.rc:1694
+#, c-format
+msgid "Defaults"
+msgstr "ﾏ鮏銛・籵濵"
+
+#: Merge.rc:987
+#: Merge.rc:1344
+#: Merge.rc:1550
+#, c-format
+msgid "Dialog"
+msgstr "ﾐ珸胛粽・
+
+#: Merge.rc:997
+#: Merge.rc:1957
+#, c-format
+msgid "System"
+msgstr "ﾑ頌・
+
+#: Merge.rc:1000
+#, c-format
+msgid "&Send deleted files to Recycle Bin"
+msgstr "ﾏⅹ燠・韈碣・濵 ・・・
+
+#: Merge.rc:1002
+#, c-format
+msgid "&External editor:"
+msgstr "ﾑ・囿・&蜷鞣璞:"
+
+#: Merge.rc:1005
+#, c-format
+msgid "&Filter folder:"
+msgstr "ﾔ瑰・・・褞・"
+
+#: Merge.rc:1007
+#, c-format
+msgid "B&rowse..."
+msgstr "ﾏ&肭裝狆..."
+
+#: Merge.rc:1008
+#, c-format
+msgid "Temporary files folder"
+msgstr "ﾔ瑰・・・鞣・湜・萵・"
+
+#: Merge.rc:1009
+#, c-format
+msgid "S&ystem's temp folder"
+msgstr "ﾏ糅褌褊・褌・韭・"
+
+#: Merge.rc:1011
+#, c-format
+msgid "C&ustom folder:"
+msgstr "ﾏ鮏褸褊・韭・"
+
+#: Merge.rc:1014
+#: Merge.rc:1030
+#, c-format
+msgid "Br&owse..."
+msgstr "ﾏ・裙・萵ｼ..."
+
+#: Merge.rc:1020
+#, c-format
+msgid "Patch Generator"
+msgstr "ﾑⅱ褊・鉈韭・
+
+#: Merge.rc:1023
+#, c-format
+msgid "File&1:"
+msgstr "ﾄ瑣ⅳ裲・1:"
+
+#: Merge.rc:1027
+#, c-format
+msgid "File&2:"
+msgstr "ﾄ瑣ⅳ裲・2:"
+
+#: Merge.rc:1031
+#, c-format
+msgid "&Swap"
+msgstr "&ﾇ瑟褊・
+
+#: Merge.rc:1032
+#, c-format
+msgid "&Append to existing file"
+msgstr "ﾏ齲・・錡蝙錡 萵"
+
+#: Merge.rc:1034
+#, c-format
+msgid "&Result:"
+msgstr "&ﾈ鋏鮏:"
+
+#: Merge.rc:1038
+#, c-format
+msgid "&Format"
+msgstr "&ﾎ硴韭"
+
+#: Merge.rc:1039
+#, c-format
+msgid "St&yle:"
+msgstr "ﾍ・・
+
+#: Merge.rc:1042
+#, c-format
+msgid "&Context:"
+msgstr "ﾓ &鶴粨"
+
+#: Merge.rc:1045
+#, c-format
+msgid "W&hitespaces"
+msgstr "ﾐ&珸・・
+
+#: Merge.rc:1046
+#, c-format
+msgid "Com&pare"
+msgstr "ﾓ&・蒻"
+
+#: Merge.rc:1048
+#, c-format
+msgid "I&gnore changes"
+msgstr "&ﾇ瑙褌瑩・韈・淲"
+
+#: Merge.rc:1050
+#, c-format
+msgid "Ig&nore all"
+msgstr "ﾇ・淲・ ・
+
+#: Merge.rc:1052
+#, c-format
+msgid "Ignor&e blank lines"
+msgstr "ﾇ瑙&褌瑩・・珸淲 蒡粢"
+
+#: Merge.rc:1054
+#, c-format
+msgid "Case sensi&tive"
+msgstr "ﾏ鮏瑩・懷 魵・
+
+#: Merge.rc:1056
+#, c-format
+msgid "Inclu&de command line"
+msgstr "ﾓ齲・浯蓊褊・・
+
+#: Merge.rc:1058
+#, c-format
+msgid "Open to e&xternal editor"
+msgstr "ﾎⅱ・・蓿黑 ・占籵"
+
+#: Merge.rc:1080
+#, c-format
+msgid "Display Columns"
+msgstr "ﾏ・跖 "
+
+#: Merge.rc:1086
+#, c-format
+msgid "Move &Up"
+msgstr "ﾏ黑褞・&胛"
+
+#: Merge.rc:1087
+#, c-format
+msgid "Move &Down"
+msgstr "ﾏ黑褞・&蒡・"
+
+#: Merge.rc:1097
+#, c-format
+msgid "Select Unpacker"
+msgstr "ﾈ釿ⅱ 瑩粢"
+
+#: Merge.rc:1102
+#, c-format
+msgid "File unpacker:"
+msgstr "ﾀ鞣褞 萵・"
+
+#: Merge.rc:1105
+#, c-format
+msgid "Display all unpackers, don't check the extension"
+msgstr "ﾏ・跖 ・瑩粢 砒・・魵褞・浯珞・"
+
+#: Merge.rc:1108
+#, c-format
+msgid "Extensions list:"
+msgstr "ﾏⅰ頌 浯珞瑕・"
+
+#: Merge.rc:1109
+#, c-format
+msgid "Description:"
+msgstr "ﾎ・・"
+
+#: Merge.rc:1120
+#, c-format
+msgid " Folder Compare Progress"
+msgstr " ﾍ瑜萵・ⅱ蜷鞣燧・韭・"
+
+#: Merge.rc:1123
+#: Merge.rc:1904
+#, c-format
+msgid "Stop"
+msgstr "ﾑ湜"
+
+#: Merge.rc:1128
+#, c-format
+msgid "Comparing items..."
+msgstr "ﾓ・占籵懷 珞・..."
+
+#: Merge.rc:1129
+#, c-format
+msgid "Items compared:"
+msgstr "ﾏⅱ蜷蝨・珞・:"
+
+#: Merge.rc:1130
+#, c-format
+msgid "Items total:"
+msgstr "ﾓ・・・珞・ :"
+
+#: Merge.rc:1136
+#, c-format
+msgid "Go To"
+msgstr "ﾈ蒻 浯"
+
+#: Merge.rc:1139
+#, c-format
+msgid "G&oto:"
+msgstr "ﾈ蒻 &浯:"
+
+#: Merge.rc:1141
+#, c-format
+msgid "File"
+msgstr "ﾄ瑣ⅳ裲・
+
+#: Merge.rc:1146
+#, c-format
+msgid "Goto what"
+msgstr "ﾓ 萵"
+
+#: Merge.rc:1147
+#, c-format
+msgid "Li&ne"
+msgstr "ﾐ・・
+
+#: Merge.rc:1149
+#, c-format
+msgid "&Difference"
+msgstr "ﾐ珸&・・"
+
+#: Merge.rc:1151
+#, c-format
+msgid "&Go To"
+msgstr "&ﾈ蒻 浯"
+
+#: Merge.rc:1157
+#: Merge.rc:1952
+#, c-format
+msgid "Compare"
+msgstr "ﾓ・占籵懷"
+
+#: Merge.rc:1160
+#, c-format
+msgid "Whitespace"
+msgstr "ﾐ珸・・
+
+#: Merge.rc:1161
+#, c-format
+msgid "&Compare"
+msgstr "&ﾓ・蒻"
+
+#: Merge.rc:1162
+#, c-format
+msgid "&Ignore change"
+msgstr "ﾇ瑙褌瑩&・・黑褊・
+
+#: Merge.rc:1163
+#, c-format
+msgid "I&gnore all"
+msgstr "ﾇ瑙・・ ・
+
+#: Merge.rc:1164
+#, c-format
+msgid "Ignore blan&k lines"
+msgstr "ﾇ瑙褌瑩・・・鈿・蒡粢"
+
+#: Merge.rc:1165
+#, c-format
+msgid "Ignore &case"
+msgstr "ﾇ瑙褌瑩・・・瑩濵"
+
+#: Merge.rc:1166
+#, c-format
+msgid "Igno&re carriage return differences (Windows/Unix/Mac)"
+msgstr "ﾇ瑙褌瑩・&鉈韭・鰀浯・ 鈞糅・萵 (Windows/Unix/Mac)"
+
+#: Merge.rc:1168
+#, c-format
+msgid "E&nable moved block detection"
+msgstr "ﾎ・胚櫁 ⅳ・鞣燧・・褌褸湜・胙・
+
+#: Merge.rc:1169
+#, c-format
+msgid "&Match similar lines"
+msgstr "ﾓ・蒻 顆淲 蒡粢"
+
+#: Merge.rc:1171
+#, c-format
+msgid "Filter Comments"
+msgstr "ﾔ齏頏狆 浯・・淲"
+
+#: Merge.rc:1177
+#: Merge.rc:1953
+#, c-format
+msgid "Editor"
+msgstr "ﾓ占籵・
+
+#: Merge.rc:1180
+#, c-format
+msgid "&Highlight syntax"
+msgstr "ﾍ璢・ ・・"
+
+#: Merge.rc:1182
+#, c-format
+msgid "&Automatic rescan"
+msgstr "&ﾀ黑瑣・・濵粽 ・褪跖"
+
+#: Merge.rc:1184
+#, c-format
+msgid "&Preserve original EOL chars"
+msgstr "ﾇ琅・跖 韈粽・鰀浯籵懷 ・狆・萵"
+
+#: Merge.rc:1186
+#, c-format
+msgid "Tabs"
+msgstr "｣裼顆"
+
+#: Merge.rc:1187
+#, c-format
+msgid "&Tab size:"
+msgstr "ﾂ褄顆竟・&ｼ裼顆瑕・
+
+#: Merge.rc:1190
+#, c-format
+msgid "&Insert Tabs"
+msgstr "ﾓ・・ｼ裼顆・"
+
+#: Merge.rc:1192
+#, c-format
+msgid "Insert &Spaces"
+msgstr "ﾓ・・銕瑕"
+
+#: Merge.rc:1194
+#, c-format
+msgid "Line Difference Coloring"
+msgstr "ﾎ碚ｼ・鉈顆頸・蒡粢 "
+
+#: Merge.rc:1196
+#, c-format
+msgid "View line differences"
+msgstr "ﾏ・・鉈顆頸頷 蒡籵"
+
+#: Merge.rc:1198
+#, c-format
+msgid "&Character level"
+msgstr "ﾐ瑙・&鈿瑕・
+
+#: Merge.rc:1200
+#, c-format
+msgid "&Word-level:"
+msgstr "ﾐ瑙・&:"
+
+#: Merge.rc:1204
+#, c-format
+msgid "W&ord break characters:"
+msgstr ""
+
+#: Merge.rc:1217
+#, c-format
+msgid "Filefilters"
+msgstr "ﾔ齏・萵・"
+
+#: Merge.rc:1223
+#, c-format
+msgid "Test"
+msgstr "ﾏ粢"
+
+#: Merge.rc:1224
+#, c-format
+msgid "Install..."
+msgstr "ﾈ瀨・ｼ..."
+
+#: Merge.rc:1225
+#, c-format
+msgid "New..."
+msgstr "ﾍ魵・.."
+
+#: Merge.rc:1226
+#, c-format
+msgid "Edit..."
+msgstr "ﾓ蒻..."
+
+#: Merge.rc:1227
+#, c-format
+msgid "Delete..."
+msgstr "ﾈ釿..."
+
+#: Merge.rc:1233
+#, c-format
+msgid "Save modified files?"
+msgstr "ﾑ璞狆 韈・懷炫 萵・?"
+
+#: Merge.rc:1236
+#, c-format
+msgid "Left side file"
+msgstr "ﾋ裘・萵・"
+
+#: Merge.rc:1239
+#, c-format
+msgid "&Save changes"
+msgstr "&ﾑ璞狆 ・黑褊・
+
+#: Merge.rc:1241
+#, c-format
+msgid "&Discard changes"
+msgstr "&ﾎ蔘瑙・鮏 韈・浯"
+
+#: Merge.rc:1243
+#, c-format
+msgid "Right side file"
+msgstr "ﾄ褥浯 萵・"
+
+#: Merge.rc:1246
+#, c-format
+msgid "S&ave changes"
+msgstr "ﾑ&璞狆 ・黑褊・
+
+#: Merge.rc:1248
+#, c-format
+msgid "Dis&card changes"
+msgstr "ﾎ蔘・湜 鮏 韈・浯"
+
+#: Merge.rc:1250
+#, c-format
+msgid "Disca&rd All"
+msgstr ""
+
+#: Merge.rc:1257
+#: Merge.rc:1505
+#: Merge.rc:1959
+#, c-format
+msgid "Codepage"
+msgstr "ﾊ鮏浯 湜"
+
+#: Merge.rc:1260
+#, c-format
+msgid "Default Codepage"
+msgstr "ﾏ鮏銛・籵浯 ・蓖・湜"
+
+#: Merge.rc:1261
+#, c-format
+msgid "Select the default codepage assumed when loading non-Unicode files:"
+msgstr "ﾎ萵砒 ・蓿珸裘瑙・・蓖・湜 ・・頸瑙・ﾓ湜・・萵・ 湜ｼ・・頷籵槫浯"
+
+#: Merge.rc:1263
+#, c-format
+msgid ""
+"Detect codepage info for these files: .html, .rc, .xml \n"
+"need to restart session"
+msgstr ""
+"ﾄ狆 髜珞褸憫 ・蓖・淲 鈞 魵・萵・:.html, .rc, .xml \n"
+
+#: Merge.rc:1266
+#, c-format
+msgid "System codepage"
+msgstr "ﾊ鮏浯 湜 褌・
+
+#: Merge.rc:1268
+#, c-format
+msgid "According to WinMerge User Interface"
+msgstr "ﾏ・ ・顆・・奕 WinMerge-・
+
+#: Merge.rc:1270
+#, c-format
+msgid "Custom codepage:"
+msgstr "ﾏ鮏褸褊・・蓖・湜"
+
+#: Merge.rc:1278
+#, c-format
+msgid "WinMerge - Archive support disabled"
+msgstr "WinMerge - ・褌魲褊・・蓿・瑩籵"
+
+#: Merge.rc:1281
+#, c-format
+msgid "Unable to detect 7-Zip version (not installed?)"
+msgstr "ﾍ・・趺 萵 浯仙 7-Zip (湜ｼ・竟琿頏瑙)"
+
+#: Merge.rc:1284
+#, c-format
+msgid ""
+"Archive support requires 7-Zip 3.11 or later to be installed on your computer, or its\n"
+"essential components to be copied to the program directory for standalone operation."
+msgstr ""
+"ﾐ琅 ・瑩籵・ 鈞裘・7-Zip 3.11 齏・懷胛粽 濵粨ｼ・韈萵懷 竟琿頏瑙・浯 浯.\n "
+"ﾂ琥淲 ・・・褊 槫  ・・ ・韭・ ・魲・ 鈞 ・琿瑙 ・"
+
+#: Merge.rc:1286
+#, c-format
+msgid "There must also be an appropriate interface plugin (Merge7z*.dll) on the path."
+msgstr "ﾒ瑕譿・ ・ ・錡瑣・鮏胛籵ｼ・蒡萵・(Merge7z*.dll) ・・憫 蒡 懷聰"
+
+#: Merge.rc:1288
+#, c-format
+msgid ""
+"Please use the version of 7-Zip recommended below until interface plugins for later\n"
+"versions become available."
+msgstr ""
+"ﾌ鸙韲 ﾂ瑰 萵 ・頸・韈萵懷 7-Zip ・・襃ⅱ褊・蒡萵・・韈萵憫,\n"
+"蒡・濵粨ｼ・韈萵懷 淲 碯蒟 蒡濵"
+
+#: Merge.rc:1290
+#, c-format
+msgid "Version"
+msgstr "ﾈ鈕燧・
+
+#: Merge.rc:1292
+#, c-format
+msgid ""
+"Plugin required\n"
+"(dllbuild %04u)"
+msgstr ""
+"ﾏⅳ矜・蒡萵・\n"
+"(dllbuild %04u)"
+
+#: Merge.rc:1294
+#, c-format
+msgid "Recommended version of 7-Zip:"
+msgstr "ﾏ・濵 韈萵懷 ・魲・ 7-Zip"
+
+#: Merge.rc:1297
+#: Merge.rc:1300
+#, c-format
+msgid "present"
+msgstr "・頌瑙"
+
+#: Merge.rc:1298
+#, c-format
+msgid "Merge7z000U.dll"
+msgstr "ﾑ・ｼ・7z000U.dll"
+
+#: Merge.rc:1301
+#, c-format
+msgid "7-Zip software installed on your computer:"
+msgstr "7-Zip ｼ・竟琿頏瑙 浯 ﾂ璧褌 浯"
+
+#: Merge.rc:1303
+#: Merge.rc:1308
+#, c-format
+msgid "none"
+msgstr "・珸浯"
+
+#: Merge.rc:1305
+#, c-format
+msgid "missing"
+msgstr "ﾍ裝ⅲｼ・
+
+#: Merge.rc:1306
+#, c-format
+msgid "7-Zip components for standalone operation:"
+msgstr "7-Zip 蒟・粨 鈞 ・琿濵 韈粽仙懷"
+
+#: Merge.rc:1310
+#, c-format
+msgid "outdated"
+msgstr "鈞瑩褓"
+
+#: Merge.rc:1311
+#, c-format
+msgid "Plugins on path:"
+msgstr "ﾏ燧・蒡 蒡萵・"
+
+#: Merge.rc:1312
+#, c-format
+msgid ""
+"Don't display this &message again.\n"
+"(You can always recall this message from the Help menu.)"
+msgstr ""
+"ﾍ・・韭珸 粨 魵・・・.\n"
+"(ﾌ鮻褪・裲 ⅰ鰀籵 魵・・・ ・裲・韈碚韭・・・櫁.)"
+
+#: Merge.rc:1316
+#, c-format
+msgid "Plugin Download"
+msgstr "ﾏ・ 蒡萵・
+
+#: Merge.rc:1325
+#, c-format
+msgid "Options"
+msgstr "ﾏⅲ粲・
+
+#: Merge.rc:1336
+#, c-format
+msgid " Categories"
+msgstr "ﾊ瑣裙ⅱ霈・
+
+#: Merge.rc:1338
+#, c-format
+msgid "Import..."
+msgstr "ﾓ粢鉅..."
+
+#: Merge.rc:1339
+#, c-format
+msgid "Export..."
+msgstr "ﾈ鈔裼・.."
+
+#: Merge.rc:1347
+#, c-format
+msgid "Keywords:"
+msgstr "ﾊ奕・:"
+
+#: Merge.rc:1348
+#, c-format
+msgid "Function names:"
+msgstr "ﾈ・浯 渼ｼ・"
+
+#: Merge.rc:1349
+#, c-format
+msgid "Comments:"
+msgstr "ﾍ瑜黑褊・"
+
+#: Merge.rc:1350
+#, c-format
+msgid "Numbers:"
+msgstr "ﾁｼ裘・"
+
+#: Merge.rc:1351
+#, c-format
+msgid "Operators:"
+msgstr "ﾎ・:"
+
+#: Merge.rc:1352
+#, c-format
+msgid "Strings:"
+msgstr "ﾏ錡・粨:"
+
+#: Merge.rc:1353
+#, c-format
+msgid "Preprocessor:"
+msgstr "ﾏ・"
+
+#: Merge.rc:1354
+#, c-format
+msgid "User 1:"
+msgstr "ﾊⅱ頌湜・1:"
+
+#: Merge.rc:1355
+#, c-format
+msgid "User 2:"
+msgstr "ﾊⅱ頌湜・2:"
+
+#: Merge.rc:1360
+#: Merge.rc:1365
+#: Merge.rc:1370
+#: Merge.rc:1375
+#: Merge.rc:1380
+#: Merge.rc:1385
+#: Merge.rc:1390
+#: Merge.rc:1395
+#: Merge.rc:1400
+#, c-format
+msgid "Bold"
+msgstr "ﾏ鮏裔壟濵"
+
+#: Merge.rc:1408
+#, c-format
+msgid "Folder Compare Report"
+msgstr "ﾈ鈔褸ｼ ⅱ蜷褊頷 韭・"
+
+#: Merge.rc:1411
+#, c-format
+msgid "Report &File:"
+msgstr "ﾄ瑣ⅳ裲・韈粢&狆・"
+
+#: Merge.rc:1414
+#: Merge.rc:1588
+#: Merge.rc:1592
+#: Merge.rc:1619
+#, c-format
+msgid "Browse..."
+msgstr "ﾏ肭裝..."
+
+#: Merge.rc:1415
+#, c-format
+msgid "&Style:"
+msgstr "&ﾍ璞竟"
+
+#: Merge.rc:1418
+#, c-format
+msgid "&Copy to Clipboard"
+msgstr "ﾑ璞狆 ・ⅲ粨"
+
+#: Merge.rc:1426
+#, c-format
+msgid "Shared or Private Filter"
+msgstr "ﾇ狆裝湜・齏・・・・褞"
+
+#: Merge.rc:1429
+#, c-format
+msgid "Which type of filter do you want to create?"
+msgstr "ﾊ錡・糅・・褞・趺・ 萵 韲瑣・"
+
+#: Merge.rc:1431
+#, c-format
+msgid "Shared Filter (for all users on this machine)"
+msgstr "ﾇ狆裝湜・・褞 (鈞 ・・韭・浯)"
+
+#: Merge.rc:1433
+#, c-format
+msgid "Private Filter (only for current user)"
+msgstr "ﾋ顆湜 ・褞 (・ 鈞 褊濵・・韭・"
+
+#: Merge.rc:1441
+#: Merge.rc:1960
+#, c-format
+msgid "Archive Support"
+msgstr "ﾐ琅  瑩籵・"
+
+#: Merge.rc:1444
+#, c-format
+msgid "Archive support requires 7-Zip plugin installed:"
+msgstr "ﾀ鞣・鈞裘・・蓿・竟琿頏瑙頷 7-Zip 蒡萵・"
+
+#: Merge.rc:1446
+#, c-format
+msgid "Download 7-zip Plugin"
+msgstr "ﾏ・ 7-Zip 蒡萵・
+
+#: Merge.rc:1447
+#, c-format
+msgid "&Enable archive file support"
+msgstr "&ﾎ・胚櫁 ・蓿・瑩粨"
+
+#: Merge.rc:1449
+#, c-format
+msgid "&Use stand-alone 7-Zip if available"
+msgstr "&ﾊⅱ頌 ・琿濵 7-Zip 瑕・ｼ・・胚槫"
+
+#: Merge.rc:1452
+#, c-format
+msgid "U&se local 7-Zip from WinMerge folder"
+msgstr "ﾊⅱ頌  7-Zip 鈞 WinMerge"
+
+#: Merge.rc:1454
+#, c-format
+msgid "&Detect archive type from file signature"
+msgstr "ﾎｼ 糅・瑩粢 韈 鈞肭珞壟 萵・"
+
+#: Merge.rc:1462
+#, c-format
+msgid "Compare Statistics"
+msgstr "ﾓ・蓖・瑣頌・"
+
+#: Merge.rc:1465
+#, c-format
+msgid "Folders:"
+msgstr "ﾔ瑰・・
+
+#: Merge.rc:1466
+#, c-format
+msgid "Files:"
+msgstr "ﾄ瑣ⅳ裲・
+
+#: Merge.rc:1467
+#: Merge.rc:2354
+#, c-format
+msgid "Different"
+msgstr "ﾐ珸・・"
+
+#: Merge.rc:1468
+#, c-format
+msgid "Text:"
+msgstr "ﾒ裲"
+
+#: Merge.rc:1471
+#: Merge.rc:1490
+#, c-format
+msgid "Binary:"
+msgstr "ﾁ竟瑩湜"
+
+#: Merge.rc:1474
+#, c-format
+msgid "Unique"
+msgstr "｣裝竟粢・
+
+#: Merge.rc:1475
+#, c-format
+msgid "Left:"
+msgstr "ﾋ裘・"
+
+#: Merge.rc:1480
+#, c-format
+msgid "Right:"
+msgstr "ﾄ褥浯:"
+
+#: Merge.rc:1485
+#: Merge.rc:2348
+#, c-format
+msgid "Identical"
+msgstr "ﾈ・
+
+#: Merge.rc:1494
+#, c-format
+msgid "Total:"
+msgstr "ﾓ・・・"
+
+#: Merge.rc:1499
+#, c-format
+msgid "Close"
+msgstr "ﾇ瑣粽"
+
+#: Merge.rc:1508
+#, c-format
+msgid "Affects"
+msgstr "ﾓ褞頸・
+
+#: Merge.rc:1511
+#: Merge.rc:1514
+#, c-format
+msgid "(Affects)"
+msgstr "(ﾓ褞頸・"
+
+#: Merge.rc:1515
+#, c-format
+msgid "Select Codepage for"
+msgstr "ﾎ萵砒 ・蓖・炫 鈞"
+
+#: Merge.rc:1516
+#, c-format
+msgid "&File Loading:"
+msgstr "ﾓ&籵懷 萵・:"
+
+#: Merge.rc:1518
+#: Merge.rc:1521
+#, c-format
+msgid "..."
+msgstr "..."
+
+#: Merge.rc:1519
+#, c-format
+msgid "File &Saving:"
+msgstr "ﾄ瑣ⅳ裲・ｼ・&籵浯:"
+
+#: Merge.rc:1522
+#, c-format
+msgid "&Use same codepage for both"
+msgstr "ﾊⅱ頌 頌・・・蓖・炫 鈞 髜・
+
+#: Merge.rc:1525
+#, c-format
+msgid "&Apply"
+msgstr "ﾏ&・湜"
+
+#: Merge.rc:1526
+#: Merge.rc:1926
+#, c-format
+msgid "&Cancel"
+msgstr "ﾎ琥・
+
+#: Merge.rc:1531
+#, c-format
+msgid "Test Filter"
+msgstr "ﾏ粢 ・褞・
+
+#: Merge.rc:1534
+#, c-format
+msgid "Testing filter ..."
+msgstr "ﾏ粢籵懷 ・褞・.."
+
+#: Merge.rc:1536
+#, c-format
+msgid "&Enter text to test:"
+msgstr "ﾓ・褥・・・鈞 ・魵褞・
+
+#: Merge.rc:1538
+#, c-format
+msgid "&Folder Name"
+msgstr "ﾈ・ &韭・"
+
+#: Merge.rc:1540
+#, c-format
+msgid "Result:"
+msgstr "ﾈ鮏:"
+
+#: Merge.rc:1544
+#, c-format
+msgid "&Test"
+msgstr "&ﾏ粢"
+
+#: Merge.rc:1545
+#, c-format
+msgid "&Close"
+msgstr "&ﾇ瑣粽"
+
+#: Merge.rc:1553
+#, c-format
+msgid "&Use customized text colors"
+msgstr "ﾊⅱ頌 趺壼淲 碚ｼ・・"
+
+#: Merge.rc:1556
+#, c-format
+msgid "Custom text colors"
+msgstr "ﾆ蝴褊・碚ｼ・・"
+
+#: Merge.rc:1558
+#, c-format
+msgid "Whitespace:"
+msgstr "ﾐ珸・・"
+
+#: Merge.rc:1559
+#, c-format
+msgid "Regular text:"
+msgstr "ﾏ粨・・・・"
+
+#: Merge.rc:1560
+#, c-format
+msgid "Selection:"
+msgstr "ﾈ鈞砒:"
+
+#: Merge.rc:1583
+#, c-format
+msgid "Paths"
+msgstr "ﾏ燧・
+
+#: Merge.rc:1589
+#, c-format
+msgid "R&ead-only"
+msgstr "ﾑ瑟・鈞 ・・
+
+#: Merge.rc:1593
+#, c-format
+msgid "Re&ad-only"
+msgstr "ﾑ&瑟・鈞 懷"
+
+#: Merge.rc:1599
+#, c-format
+msgid "Open..."
+msgstr "ﾎⅱ・.."
+
+#: Merge.rc:1600
+#, c-format
+msgid "Save..."
+msgstr "ﾑ璞狆..."
+
+#: Merge.rc:1605
+#: Merge.rc:1961
+#, c-format
+msgid "Backup Files"
+msgstr "ﾐ裼褞粹・萵・"
+
+#: Merge.rc:1608
+#, c-format
+msgid "Create backup files in:"
+msgstr "ﾍ瑜粨 鈑淲 萵・ ・"
+
+#: Merge.rc:1613
+#, c-format
+msgid "Create backup files into:"
+msgstr "ﾍ瑜粨 鈑淲 萵・ ・"
+
+#: Merge.rc:1614
+#, c-format
+msgid "&Original file's folder"
+msgstr "ﾈ鈔&ⅱ浯 韭・ 萵・"
+
+#: Merge.rc:1616
+#, c-format
+msgid "&Global backup folder:"
+msgstr "ﾎ・ 鈑浯 韭・ "
+
+#: Merge.rc:1620
+#, c-format
+msgid "Backup filename:"
+msgstr "ﾈ・ 鈑淲 萵・"
+
+#: Merge.rc:1621
+#, c-format
+msgid "&Append .bak -extension"
+msgstr "ﾄ鮏&狆 .bak 浯珞瑕"
+
+#: Merge.rc:1623
+#, c-format
+msgid "A&ppend timestamp"
+msgstr "ﾄ・萵ｼ 萵・糅褌・
+
+#: Merge.rc:1630
+#: Merge.rc:2256
+#, c-format
+msgid "Confirm Copy"
+msgstr "ﾏⅳ糅蒻 ・・懷"
+
+#: Merge.rc:1634
+#, c-format
+msgid "Are you sure you want to copy XXX items?"
+msgstr "ﾄ・・ ・胚・萵 趺・ ・・ XXX 珞・"
+
+#: Merge.rc:1636
+#, c-format
+msgid "From left"
+msgstr "ﾑ ・籵"
+
+#: Merge.rc:1639
+#, c-format
+msgid "To right"
+msgstr "ﾓ 蒟・
+
+#: Merge.rc:1642
+#, c-format
+msgid "Yes"
+msgstr "ﾄ・
+
+#: Merge.rc:1643
+#, c-format
+msgid "No"
+msgstr "ﾍ・
+
+#: Merge.rc:1649
+#, c-format
+msgid "Plugins"
+msgstr "ﾄ鮏璋・
+
+#: Merge.rc:1652
+#, c-format
+msgid "&Enable plugins"
+msgstr "ﾎ・胚櫁 蒡萵&・
+
+#: Merge.rc:1663
+#: Merge.rc:1962
+#, c-format
+msgid "Shell Integration"
+msgstr "ﾈ炅裙 ・'奕・"
+
+#: Merge.rc:1666
+#, c-format
+msgid "Explorer"
+msgstr "ﾈ跖籵・
+
+#: Merge.rc:1667
+#, c-format
+msgid "E&nable advanced menu"
+msgstr "ﾎ・胚櫁 &浯・裝湜 韈碚・
+
+#: Merge.rc:1669
+#, c-format
+msgid "In&clude subfolders by default"
+msgstr "ﾓ粢・奕 ・瑰&・・"
+
+#: Merge.rc:1671
+#, c-format
+msgid "&Add to context menu"
+msgstr "ﾄ鮏狆 ・'韈碚・鶴粨・"
+
+#: Merge.rc:1673
+#, c-format
+msgid "Folder compare"
+msgstr "ﾓ・蒻 韭・"
+
+#: Merge.rc:1674
+#, c-format
+msgid "Add &Shell menu to context menu"
+msgstr "ﾄ鮏狆 韈碚韭 '奕・ ・韈碚・鶴粨・
+
+#: Merge.rc:1681
+#: Merge.rc:1965
+#: Merge.rc:2302
+#, c-format
+msgid "Folder"
+msgstr "ﾔ瑰・・
+
+#: Merge.rc:1684
+#, c-format
+msgid "&Compare method:"
+msgstr ""
+
+#: Merge.rc:1686
+#, c-format
+msgid "S&top after first difference"
+msgstr "ﾑ&湜 ・・・粢 鉈韭・
+
+#: Merge.rc:1688
+#, c-format
+msgid "Ign&ore time differences less than 3 seconds"
+msgstr "ﾇ瑙褌瑩・鉈韭・糅褌褊・・懷 &鮏 3 ・淸・
+
+#: Merge.rc:1690
+#, c-format
+msgid "&Include unique subfolders contents"
+msgstr ""
+
+#: Merge.rc:1692
+#, c-format
+msgid "&Quick compare limit (MB):"
+msgstr ""
+
+#. StringFileInfo.Block
+#: Merge.rc:1718
+#, c-format
+msgid "040904e4"
+msgstr "041904e3"
+
+#. VarFileInfo.Translation
+#: Merge.rc:1734
+#, c-format
+msgid "0x409, 1252"
+msgstr "0x419, 1251"
+
+#: Merge.rc:1749
+#, c-format
+msgid "Ready"
+msgstr "ﾑ・褌瑙"
+
+#: Merge.rc:1755
+#, c-format
+msgid "EXT"
+msgstr "EXT"
+
+#: Merge.rc:1756
+#, c-format
+msgid "CAP"
+msgstr "CAP"
+
+#: Merge.rc:1757
+#, c-format
+msgid "NUM"
+msgstr "NUM"
+
+#: Merge.rc:1758
+#, c-format
+msgid "SCRL"
+msgstr "SCRL"
+
+#: Merge.rc:1759
+#, c-format
+msgid "OVR"
+msgstr "OVR"
+
+#: Merge.rc:1760
+#, c-format
+msgid "REC"
+msgstr "REC"
+
+#: Merge.rc:1766
+#, c-format
+msgid ""
+"Create empty documents\n"
+"New Documents (Ctrl+N)"
+msgstr ""
+"ﾑ瑩・・珸瑙 蒡・・炅\n"
+" ﾍ魵・蒡・・炅(Ctrl+N)"
+
+#: Merge.rc:1767
+#, c-format
+msgid ""
+"Open an existing document\n"
+"Open (Ctrl+O)"
+msgstr ""
+"ﾎⅱ・褊炫 萵・\n"
+"ﾎⅱ・Ctrl+O)"
+
+#: Merge.rc:1768
+#, c-format
+msgid ""
+"Close the active document\n"
+"Close"
+msgstr ""
+"ﾇ瑣粽 褊湜 蒡・・炅\n"
+"ﾇ瑣粽"
+
+#: Merge.rc:1769
+#, c-format
+msgid ""
+"Save the active document\n"
+"Save (Ctrl+S)"
+msgstr ""
+"ﾑ璞狆 褊湜 蒡・・炅\n"
+"ﾑ璞狆 (Ctrl+S)"
+
+#: Merge.rc:1770
+#, c-format
+msgid ""
+"Save the active document with a new name\n"
+"Save As"
+msgstr ""
+"ﾑ璞狆 褊湜 蒡・・炅  濵粨・韲褊黑\n"
+"ﾑ璞狆 ・・.."
+
+#: Merge.rc:1771
+#, c-format
+msgid ""
+"Change the printing options\n"
+"Page Setup"
+msgstr ""
+"ﾏ・湜 ・珞・ 瑟・\n"
+"ﾏ鮏褥・炫"
+
+#: Merge.rc:1772
+#, c-format
+msgid ""
+"Change the printer and printing options\n"
+"Print Setup"
+msgstr ""
+"ﾏ・湜 ・珞・ 瑟・\n"
+
+#: Merge.rc:1773
+#, c-format
+msgid ""
+"Print the active document\n"
+"Print"
+msgstr ""
+"ﾎ蓼・狆 褊湜 蒡・・炅\n"
+"ﾎ蓼・狆"
+
+#: Merge.rc:1774
+#, c-format
+msgid ""
+"Display full pages\n"
+"Print Preview"
+msgstr ""
+"ﾏ・・・ 淲\n"
+"ﾏ肭裝 ・・瑟・憫"
+
+#: Merge.rc:1779
+#, c-format
+msgid "Make all hidden items visible again"
+msgstr "ﾏ・魵・・韭琥・・粢淲 珞・"
+
+#: Merge.rc:1780
+#, c-format
+msgid "Toggle tree mode"
+msgstr "ﾇ瑟褊・・韭珸 珮・"
+
+#: Merge.rc:1781
+#, c-format
+msgid "Expand all subfolders"
+msgstr "ﾏ ・・瑰・・
+
+#: Merge.rc:1782
+#, c-format
+msgid "Collapse all subfolders"
+msgstr "ﾇ瑣粽 ・・瑰・・
+
+#: Merge.rc:1788
+#, c-format
+msgid ""
+"Open project file\n"
+"Project file (Ctrl+J)"
+msgstr ""
+"ﾎⅱ・・仙懷\n"
+"ﾄ瑣ⅳ裲・・仙憫(Ctrl+J)"
+
+#: Merge.rc:1789
+#, c-format
+msgid "Unknown error attempting to open project file"
+msgstr "ﾍ襃鰀浯 胙褸・ ・・ⅳ籵懽 ・仙憫"
+
+#: Merge.rc:1790
+#, c-format
+msgid "Unknown error attempting to save project file"
+msgstr "ﾍ襃鰀浯 胙褸・ ・・・・ｼ・籵憫 ・仙憫"
+
+#: Merge.rc:1791
+#, c-format
+msgid "Project File"
+msgstr "ﾏⅱ蜷蝨・
+
+#: Merge.rc:1792
+#, c-format
+msgid "Project file successfully loaded."
+msgstr "ﾏⅱ蜷蝨・ｼ・・・頸瑙・
+
+#: Merge.rc:1793
+#, c-format
+msgid "Project file successfully saved."
+msgstr "ﾏⅱ蜷蝨・ｼ・・・籵濵"
+
+#: Merge.rc:1794
+#, c-format
+msgid ""
+"Save current paths and options to project file\n"
+"Save Project File"
+msgstr ""
+"ﾑ璞瑙・ｼ・褊浯 珸・・・仙懷\n"
+"ﾑ璞狆 ・仙懷"
+
+#: Merge.rc:1799
+#, c-format
+msgid ""
+"Display program information, version number and copyright\n"
+"About"
+msgstr ""
+"ﾏ・・髜珞褸憫 ・・魲・, 韈萵懽 ・瑪・\n"
+"ﾎ ・魲・"
+
+#: Merge.rc:1800
+#, c-format
+msgid ""
+"Quit the application; prompts to save documents\n"
+"Exit"
+msgstr ""
+"ﾇ瑣粽 ・魲・粽 鈞 籵懷 蒡・・炅濬n"
+"ﾈ鉈珸"
+
+#: Merge.rc:1806
+#: Merge.rc:1807
+#: Merge.rc:1808
+#: Merge.rc:1809
+#: Merge.rc:1810
+#: Merge.rc:1811
+#: Merge.rc:1812
+#: Merge.rc:1813
+#: Merge.rc:1814
+#: Merge.rc:1815
+#: Merge.rc:1816
+#: Merge.rc:1817
+#: Merge.rc:1818
+#: Merge.rc:1819
+#: Merge.rc:1820
+#: Merge.rc:1821
+#, c-format
+msgid "Open this document"
+msgstr "ﾎⅱ・魵狆 蒡・・炅"
+
+#: Merge.rc:1826
+#, c-format
+msgid ""
+"Switch to the next window pane\n"
+"Next Pane"
+msgstr ""
+"ﾁ頏狆 裝蝙・・鰀ⅱ\n"
+
+#: Merge.rc:1827
+#, c-format
+msgid ""
+"Switch back to the previous window pane\n"
+"Previous Pane"
+msgstr ""
+"ﾂ樅懷 浯 ・褪蓖・硴n"
+
+#: Merge.rc:1833
+#, c-format
+msgid ""
+"Arrange windows so they overlap\n"
+"Cascade Windows"
+msgstr ""
+"ﾓ蒻 ・鰀ⅱ・・ 萵  ・裲・・ｼn"
+"ﾏ鉋 ・説濵"
+
+#: Merge.rc:1834
+#, c-format
+msgid ""
+"Arrange windows as non-overlapping tiles horizontally\n"
+"Tile Windows Horizontally"
+msgstr ""
+"ﾓ蒻 ・鰀ⅱ・粽蒡粹・砒・・裲・・憫\n"
+
+#: Merge.rc:1835
+#, c-format
+msgid ""
+"Arrange windows as non-overlapping tiles vertically\n"
+"Tile Windows Vertically"
+msgstr ""
+"ﾓ蒻 ・鰀ⅱ・・珞濵 砒・・裲・・憫\n"
+"ﾏⅱ蜷狆 ・鰀ⅱ・・珞濵"
+
+#: Merge.rc:1841
+#, c-format
+msgid ""
+"Copy the selection and put it on the Clipboard\n"
+"Copy"
+msgstr ""
+"ﾓ・鮻・鮏珮濵 ・・珞・・ⅲ糒\n"
+
+#: Merge.rc:1842
+#, c-format
+msgid ""
+"Cut the selection and put it on the Clipboard\n"
+"Cut"
+msgstr ""
+"ﾈ 鮏珮濵 ・・珞・・ⅲ糒\n"
+"ﾈ"
+
+#: Merge.rc:1843
+#, c-format
+msgid ""
+"Find the specified text\n"
+"Find"
+msgstr ""
+"ﾍ熕・鮏仙湜 ・ｼ瑟\n"
+
+#: Merge.rc:1844
+#, c-format
+msgid ""
+"Insert Clipboard contents\n"
+"Paste"
+msgstr ""
+"ﾓ・・韈 ⅲ粢\n"
+
+#: Merge.rc:1845
+#, c-format
+msgid ""
+"Repeat the last action\n"
+"Repeat"
+msgstr ""
+"ﾏ・魵・・裝懽 苜n"
+
+#: Merge.rc:1846
+#, c-format
+msgid ""
+"Replace specific text with different text\n"
+"Replace"
+msgstr ""
+"ﾇ瑟褊・鮏仙湜 ・・ 蓿韲\n"
+
+#: Merge.rc:1847
+#, c-format
+msgid ""
+"Select the entire document\n"
+"Select All"
+msgstr ""
+"ﾈ鈞砒 ・・n"
+
+#: Merge.rc:1848
+#, c-format
+msgid ""
+"Undo the last action\n"
+"Undo (Ctrl+Z)"
+msgstr ""
+"ﾎ・鉋粨 鈞苜・苜n"
+"ﾏ・顏(Ctrl+Z)"
+
+#: Merge.rc:1849
+#, c-format
+msgid ""
+"Redo the previously undone action\n"
+"Redo (Ctrl+Y)"
+msgstr ""
+"ﾏ・魵・・褪蓖・ⅰ鰀籵 苜n"
+"ﾏ・魵・(Ctrl+Y)"
+
+#: Merge.rc:1855
+#, c-format
+msgid ""
+"Show or hide the toolbar\n"
+"Toggle ToolBar"
+msgstr ""
+"ﾏ・跖 齏・・霈 瑕・琿瑣濬n"
+
+#: Merge.rc:1856
+#, c-format
+msgid ""
+"Show or hide the status bar\n"
+"Toggle StatusBar"
+msgstr ""
+"ﾏ・跖 齏・・霈 瑣炫 瑕n"
+
+#: Merge.rc:1857
+#, c-format
+msgid ""
+"Show or hide the tab bar\n"
+"Toggle TabBar"
+msgstr ""
+"ﾏ・跖 齏・・霈 瑕・ｼ裼顆瑕濬n"
+"ﾒ・ 鰀浯・"
+
+#: Merge.rc:1858
+#, c-format
+msgid ""
+"Automatically resize panes\n"
+"Lock Panes"
+msgstr ""
+"ﾀ黑瑣・・齏璢鮏・粢・炫 硴鐔n"
+
+#: Merge.rc:1864
+#, c-format
+msgid "Change the window size"
+msgstr "ﾏ・湜 粢・炫 ・鰀ⅱ・
+
+#: Merge.rc:1865
+#, c-format
+msgid "Change the window position"
+msgstr "ﾏ・湜 ・・赳ｼ ・鰀ⅱ・
+
+#: Merge.rc:1866
+#, c-format
+msgid "Reduce the window to an icon"
+msgstr "ﾑ・懆 ・鰀ⅱ 浯 韭・・
+
+#: Merge.rc:1867
+#, c-format
+msgid "Enlarge the window to full size"
+msgstr "ﾏ魵蝙狆 ・裲・・・裲浯"
+
+#: Merge.rc:1868
+#, c-format
+msgid "Switch to the next document window"
+msgstr "ﾁ頏狆 裝蝙・・鰀ⅱ ・仙憫"
+
+#: Merge.rc:1869
+#, c-format
+msgid "Switch to the previous document window"
+msgstr "ﾁ頏狆 ・褪蓖・・鰀ⅱ ・仙憫"
+
+#: Merge.rc:1870
+#, c-format
+msgid "Close the active window and prompts to save the documents"
+msgstr "ﾇ瑣粽 褊湜 ・鰀ⅱ ・琥・萵  籵 蒡・・炅"
+
+#: Merge.rc:1875
+#, c-format
+msgid "Restore the window to normal size"
+msgstr "ﾂ ・鰀ⅱ 浯 ・珞・粢・炫"
+
+#: Merge.rc:1876
+#, c-format
+msgid "Activate Task List"
+msgstr "ﾑ・・瑕粹頷 鈞萵・"
+
+#: Merge.rc:1877
+#, c-format
+msgid "Activate this window"
+msgstr "ﾏ鶴湜 魵狆 ・鰀ⅱ"
+
+#: Merge.rc:1883
+#, c-format
+msgid ""
+"Close print preview mode\n"
+"Cancel Preview"
+msgstr ""
+"ﾇ瑣粽 ・裙・・・・瑟・憫\n"
+
+#: Merge.rc:1890
+#, c-format
+msgid ""
+"\n"
+"FileCompare\n"
+"\n"
+"\n"
+"\n"
+"WinMerge.FileCompare\n"
+"WinMerge File Compare"
+msgstr ""
+"\n"
+"ﾓ・蒻 萵・\n"
+"\n"
+"\n"
+"\n"
+"WinMerge.ﾓ・蒻 萵・\n"
+"WinMerge ⅱ裝・萵・"
+
+#: Merge.rc:1891
+#, c-format
+msgid ""
+"\n"
+"FolderCompare\n"
+"\n"
+"\n"
+"\n"
+"WinMerge.FolderCompare\n"
+"WinMerge Folder Compare"
+msgstr ""
+"\n"
+"ﾓ・蒻 韭・\n"
+"\n"
+"\n"
+"\n"
+"WinMerge.ﾓ・蒻 韭・\n"
+"WinMerge ⅱ裝・韭・"
+
+#: Merge.rc:1898
+#, c-format
+msgid "Preserve original EOL chars"
+msgstr "ﾇ琅・韈粽・鈿瑕魵・・狆・萵"
+
+#: Merge.rc:1905
+#, c-format
+msgid "Press any key"
+msgstr "ﾏ・淲・ 褞"
+
+#: Merge.rc:1911
+#: Merge.rc:1912
+#, c-format
+msgid "Right click on the path to copy"
+msgstr "ﾄ褥湜 ・韭 浯 ・懽 ・ｼ・裔・濵跖"
+
+#: Merge.rc:1918
+#, c-format
+msgid ""
+"Developers:\n"
+"Dean Grimm, Christian List, Kimmo Varis, Jochen Tucht, Tim Gerundt, Takashi Sawanaki, Gal Hammer, Alexander Skinner"
+msgstr ""
+"ﾏ胙瑟褞・\n"
+"Dean Grimm, Christian List, Kimmo Varis, Jochen Tucht, Tim Gerundt, Takashi Sawanaki, Gal Hammer, Alexander Skinner"
+
+#: Merge.rc:1919
+#, c-format
+msgid "WinMerge comes with ABSOLUTELY NO WARRANTY. This is free software and you are welcome to redistribute it under certain circumstances; see the GNU General Public License in the Help menu for details."
+msgstr "WinMerge ｼ・・魲・ﾁﾅﾇ ﾃﾀﾐﾀﾍﾖﾈ｣ﾅ.ﾎ粽 ｼ・砒・・・魲・ ・ｼ・・趺 萵壼 蒟・ ・褌・GNU ｼ珞濵ｼ ・煜・・ｼ・・肭裝狆 ・萵 /ﾏ黑釚/"
+
+#: Merge.rc:1925
+#, c-format
+msgid "&Ok"
+msgstr "&ﾓ 蔘"
+
+#: Merge.rc:1927
+#, c-format
+msgid "&Abort"
+msgstr "&ﾏ・湜"
+
+#: Merge.rc:1928
+#, c-format
+msgid "&Retry"
+msgstr "ﾏ&・魵・
+
+#: Merge.rc:1929
+#, c-format
+msgid "&Ignore"
+msgstr "ﾇ瑙褌瑩&・
+
+#: Merge.rc:1930
+#, c-format
+msgid "Ignore &all"
+msgstr "ﾇ&瑙褌瑩・・
+
+#: Merge.rc:1931
+#, c-format
+msgid "&Yes"
+msgstr "&ﾄ・
+
+#: Merge.rc:1937
+#, c-format
+msgid "Yes to &all"
+msgstr "ﾄ&・鈞 ・
+
+#: Merge.rc:1938
+#, c-format
+msgid "&No"
+msgstr "&ﾍ・
+
+#: Merge.rc:1939
+#, c-format
+msgid "No to a&ll"
+msgstr "ﾍ・鈞 ・粢"
+
+#: Merge.rc:1940
+#, c-format
+msgid "&Continue"
+msgstr "ﾍ瑰&粨"
+
+#: Merge.rc:1941
+#, c-format
+msgid "&Skip"
+msgstr "ﾈ鉋&珞・
+
+#: Merge.rc:1942
+#, c-format
+msgid "Skip &all"
+msgstr "ﾈ鉋&珞・・
+
+#: Merge.rc:1944
+#, c-format
+msgid "Don't display this &message again."
+msgstr "ﾍ・・韭珸 魵・・・ ・濵粽"
+
+#: Merge.rc:1945
+#, c-format
+msgid "Don't ask this &question again."
+msgstr "ﾍ・・ｼ ・濵粽"
+
+#: Merge.rc:1956
+#, c-format
+msgid "Syntax"
+msgstr ""
+
+#: Merge.rc:1958
+#, c-format
+msgid "Version Control"
+msgstr "ﾏ胙瑟・
+
+#: Merge.rc:1963
+#: Merge.rc:2334
+#, c-format
+msgid "Differences"
+msgstr "ﾐ珸・・"
+
+#: Merge.rc:1972
+#, c-format
+msgid "To:"
+msgstr "ﾄ・"
+
+#: Merge.rc:1973
+#, c-format
+msgid "From left:"
+msgstr "ﾑ ・籵:"
+
+#: Merge.rc:1974
+#, c-format
+msgid "To left:"
+msgstr "ﾓ ・粽:"
+
+#: Merge.rc:1975
+#, c-format
+msgid "From right:"
+msgstr "ﾑ 蒟・"
+
+#: Merge.rc:1976
+#, c-format
+msgid "To right:"
+msgstr "ﾓ 蒟・"
+
+#: Merge.rc:1982
+#, c-format
+msgid "Version %1"
+msgstr "ﾈ鈕燧・%1"
+
+#: Merge.rc:1983
+#, c-format
+msgid "Unicode"
+msgstr "ﾓ湜・・
+
+#: Merge.rc:1984
+#, c-format
+msgid "X64"
+msgstr "X64"
+
+#: Merge.rc:1990
+#, c-format
+msgid "Options (%1)"
+msgstr "ﾏⅲ粲・(%1)"
+
+#: Merge.rc:1991
+#, c-format
+msgid "All message boxes are now displayed again."
+msgstr "ﾏ・魵・・韭珸 頷 ・・"
+
+#: Merge.rc:1992
+#, c-format
+msgid "Modifications have been made to the current file comparison session.  Some settings may not take place until the current file comparison is restarted."
+msgstr "ﾏ・淲  浯・珞壼淲 ・褊濵ｼ 萵 ・鰀 ・仙懷.ﾍ裲・・蒟籵憫  淲 ・胚 韈糅 蒡・ 褊浯 萵・ ・濵粽 淲 ・・褊・
+
+#: Merge.rc:1993
+#, c-format
+msgid "The selected font change will not be applied to any currently visible difference windows."
+msgstr "ﾏ・浯 韈珮湜・魵・湜ｼ・・韲蝨褊・・褊湜・粨苞鞣韲 ・鰀ⅱ韲・
+
+#: Merge.rc:1995
+#, c-format
+msgid ""
+"Value in Tab size -field is not in range WinMerge accepts.\n"
+"\n"
+"Please use values 1 - %1."
+msgstr ""
+"ﾂ褄顆竟・鰀浯・ 湜ｼ・・・頷籵鞣黑 ・・\n"
+"\n"
+"ﾌ鸙韲・・頸・糅裝濵・1 - %1"
+
+#: Merge.rc:1997
+#, c-format
+msgid ""
+"Are you sure you want to reset all WinMerge options to default values?\n"
+"\n"
+"Please re-start WinMerge after the reset."
+msgstr ""
+"ﾄ・・ ・胚・萵 趺・ 糅燼燧・浯 ・蓿珸裘瑙・燧・\n"
+"\n"
+
+#: Merge.rc:2003
+#, c-format
+msgid "Open"
+msgstr "ﾎⅱ・
+
+#: Merge.rc:2004
+#, c-format
+msgid "Programs|*.exe;*.bat;*.cmd|All Files (*.*)|*.*||"
+msgstr "ﾏ胙瑟・|*.exe;*.bat;*.cmd|ﾑ粢 萵・ (*.*)|*.*||"
+
+#: Merge.rc:2005
+#, c-format
+msgid "All Files (*.*)|*.*||"
+msgstr "ﾑ粢 萵・(*.*)|*.*||"
+
+#: Merge.rc:2006
+#, c-format
+msgid "WinMerge Project Files (*.WinMerge)|*.WinMerge||"
+msgstr "WinMerge 萵・ (*.WinMerge)|*.WinMerge||"
+
+#: Merge.rc:2008
+#, c-format
+msgid "Options files (*.ini)|*.ini|All Files (*.*)|*.*||"
+msgstr "ﾏⅲ粲・萵・ (*.ini)|*.ini|All Files (*.*)|*.*||"
+
+#: Merge.rc:2014
+#, c-format
+msgid "Text Files (*.csv;*.asc;*.rpt;*.txt)|*.csv;*.asc;*.rpt;*.txt|All Files (*.*)|*.*||"
+msgstr "ﾒ裲 萵・ (*.csv;*.asc;*.rpt;*.txt)|*.csv;*.asc;*.rpt;*.txt|ﾑ粢 萵・ (*.*)|*.*||"
+
+#: Merge.rc:2015
+#, c-format
+msgid "HTML Files (*.htm,*.html)|*.htm;*.html|All Files (*.*)|*.*||"
+msgstr "HTML 萵・ (*.htm,*.html)|*.htm;*.html|ﾑ粢 萵・ (*.*)|*.*||"
+
+#: Merge.rc:2016
+#, c-format
+msgid "XML Files (*.xml)|*.xml|All Files (*.*)|*.*||"
+msgstr "XML 萵・ (*.xml)|*.xml|ﾑ粢 萵・ (*.*)|*.*||"
+
+#: Merge.rc:2022
+#, c-format
+msgid "UTF-8"
+msgstr "UTF-8"
+
+#: Merge.rc:2023
+#, c-format
+msgid "UTF-8 (B)"
+msgstr "UTF-8 (B)"
+
+#: Merge.rc:2024
+#, c-format
+msgid "UCS-2 LE"
+msgstr "UCS-2 LE"
+
+#: Merge.rc:2025
+#, c-format
+msgid "UCS-2 BE"
+msgstr "UCS-2 BE"
+
+#: Merge.rc:2031
+#, c-format
+msgid "Full Contents"
+msgstr "ﾖ褓 蓿赳ｼ"
+
+#: Merge.rc:2032
+#, c-format
+msgid "Quick Contents"
+msgstr "ﾑ・燼褊・蓿赳ｼ"
+
+#: Merge.rc:2033
+#, c-format
+msgid "Modified Date"
+msgstr "ﾄ瑣 ・黑褊・
+
+#: Merge.rc:2034
+#, c-format
+msgid "Modified Date and Size"
+msgstr "ﾈ銕蝨褊 萵・・粢・浯"
+
+#: Merge.rc:2035
+#, c-format
+msgid "Size"
+msgstr "ﾂ褄顆竟・
+
+#: Merge.rc:2041
+#: Merge.rc:2567
+#, c-format
+msgid "Name"
+msgstr "ﾈ・"
+
+#: Merge.rc:2042
+#, c-format
+msgid "Location"
+msgstr "ﾏ鸙鮻狆"
+
+#: Merge.rc:2043
+#, c-format
+msgid "Filters"
+msgstr "ﾔ齏"
+
+#: Merge.rc:2044
+#, c-format
+msgid "[F] "
+msgstr "[F]"
+
+#: Merge.rc:2045
+#: Merge.rc:2569
+#, c-format
+msgid "Description"
+msgstr "ﾎ・・
+
+#: Merge.rc:2046
+#, c-format
+msgid "Select filename for new filter"
+msgstr "ﾈ鈞砒 萵・ 鈞 濵粨 ・褞"
+
+#: Merge.rc:2047
+#, c-format
+msgid "File Filters (*.flt)|*.flt|All Files (*.*)|*.*||"
+msgstr "ﾄ瑣ⅳ裲・・褞・(*.flt)|*.flt|All Files (*.*)|*.*||"
+
+#: Merge.rc:2049
+#, c-format
+msgid ""
+"Cannot find file filter template file!\n"
+"\n"
+"Please copy file %1 to WinMerge/Filters -folder:\n"
+"%2."
+msgstr ""
+"ﾍ褌魲・ｼ・・・燼・・炫 萵・ 硴・・\n"
+"\n"
+"ﾌ鸙韲 濵跖 萵・ %1 ・WinMerge/ﾔ齏・-韭・:\n"
+"%2."
+
+#: Merge.rc:2051
+#, c-format
+msgid ""
+"Cannot copy filter template file to filter folder:\n"
+"%1\n"
+"\n"
+"Please make sure the folder exists and is writable."
+msgstr ""
+"ﾍ褌魲・ｼ・籵 ・炫 萵・ 硴・・・・濵ｼ 韭・:\n"
+"%1\n"
+"\n"
+"ﾌ鸙韲, ・魵褞頸・萵 ・ ・錡・韭・ ・懷炫 蒡濵"
+
+#: Merge.rc:2053
+#, c-format
+msgid ""
+"User's filter file folder is not defined!\n"
+"\n"
+"Please select filter folder in Options/System."
+msgstr ""
+"ﾊⅱ頌湜・籵 韭・ ・褞・湜ｼ・鮏仙浯!\n"
+"\n"
+"ﾌ鸙韲, 韈珮褞頸・韭・ ・褞・・/ﾏⅲ粲・ﾑ頌・"
+
+#: Merge.rc:2055
+#, c-format
+msgid ""
+"Failed to delete the filter file:\n"
+"%1\n"
+"\n"
+"Maybe the file is read-only?"
+msgstr ""
+"ﾃ・・・碣頌燧・・淲 萵・:\n"
+"%1\n"
+"\n"
+"ﾌ鮻萵 ｼ・萵・ ・ 鈞 懷?"
+
+#: Merge.rc:2056
+#, c-format
+msgid "Locate filter file to install"
+msgstr "ﾏ浯占 韭・ ・褞・鈞 竟琿璋霈・
+
+#: Merge.rc:2058
+#, c-format
+msgid ""
+"Installing filter file failed.\n"
+"\n"
+"Could not copy new filter file to filter folder."
+msgstr ""
+"ﾈ瀨・懷 ・褞・湜ｼ・・・.\n"
+"\n"
+
+#: Merge.rc:2060
+#, c-format
+msgid "Filter file already exists. Overwrite existing filter?"
+msgstr "ﾔ齏・粢・・錡・ﾇ瑟褊・・錡蝙・・褞"
+
+#: Merge.rc:2066
+#, c-format
+msgid "Regular expression"
+msgstr "ﾏ粨・・韈・
+
+#: Merge.rc:2072
+#, c-format
+msgid ""
+"Filters were updated. Do you want to refresh all open folder compares?\n"
+"\n"
+"If you do not want to refresh all compares now you can select No and refresh compares later."
+msgstr ""
+"ﾔ頸褞・ ⅲ粢趺湜. ﾄ・・ 趺・ ⅲ粢跖 ・ⅳ粽浯 ・仙憫?\n"
+"\n"
+
+#: Merge.rc:2079
+#, c-format
+msgid "&Path to SS.EXE:"
+msgstr "&ﾏ燧・蒡 SS.EXE:"
+
+#: Merge.rc:2085
+#, c-format
+msgid "Folder Comparison Results"
+msgstr "ﾈ鮏・・仙憫 韭・"
+
+#: Merge.rc:2086
+#, c-format
+msgid "File Comparison"
+msgstr "ﾓ・蒻 萵・"
+
+#: Merge.rc:2087
+#, c-format
+msgid "Untitled left"
+msgstr "ﾍ裴・濵籵浯 ・籵"
+
+#: Merge.rc:2088
+#, c-format
+msgid "Untitled right"
+msgstr "ﾍ裴・濵籵浯 蒟・
+
+#: Merge.rc:2089
+#, c-format
+msgid "Theirs File"
+msgstr "瑚粢 萵・"
+
+#: Merge.rc:2090
+#, c-format
+msgid "Mine File"
+msgstr "ﾌ錡・萵・"
+
+#: Merge.rc:2096
+#, c-format
+msgid "Scanning files..."
+msgstr "ﾏ琥鞣燧・萵・"
+
+#: Merge.rc:2097
+#, c-format
+msgid "Opening selection"
+msgstr "ﾎ瑩燧・鮏珮濵・
+
+#: Merge.rc:2098
+#, c-format
+msgid "Copying Left to Right"
+msgstr "ﾓ・鮻頸・・糒 ・蒟・
+
+#: Merge.rc:2099
+#, c-format
+msgid "Copying Right to Left"
+msgstr "ﾓ・鮻頸・蒟・・・粽"
+
+#: Merge.rc:2100
+#, c-format
+msgid "Copying All to Left"
+msgstr "ﾓ・鮻頸・・・・粽"
+
+#: Merge.rc:2101
+#, c-format
+msgid "Copying All to Right"
+msgstr "ﾓ・鮻頸・・・蒟・
+
+#: Merge.rc:2102
+#, c-format
+msgid "Copying files..."
+msgstr "ﾓ・鮻頸・萵・"
+
+#: Merge.rc:2103
+#, c-format
+msgid "Deleting files..."
+msgstr "ﾁ懷 萵・"
+
+#: Merge.rc:2104
+#, c-format
+msgid "Moving files..."
+msgstr "ﾏ・燧・萵・"
+
+#: Merge.rc:2105
+#, c-format
+msgid "Creating the report..."
+msgstr "ﾏ笞蝨・韈粢狆・
+
+#: Merge.rc:2106
+#, c-format
+msgid "Undoing the last operation..."
+msgstr "ﾏ・顏籵懷 鈞苜・苜・.."
+
+#: Merge.rc:2107
+#, c-format
+msgid "Redoing the previous operation..."
+msgstr "ﾏ・珞壟懷 ・褪蓖・苜・.."
+
+#: Merge.rc:2113
+#, c-format
+msgid "Ln: %s  Col: %d/%d  Ch: %d/%d  EOL: %s"
+msgstr "ﾐ裝: %s  ﾁｼ: %d/%d  ﾇ浯・ %d/%d  ﾊｼ: %s"
+
+#: Merge.rc:2114
+#, c-format
+msgid "Line: %s"
+msgstr "ﾐ裝: %s"
+
+#: Merge.rc:2115
+#, c-format
+msgid "Ln: %s  Col: %d/%d  Ch: %d/%d"
+msgstr "ﾐ裝: %s  ﾁｼ: %d/%d  ﾇ浯・ %d/%d"
+
+#: Merge.rc:2116
+#, c-format
+msgid "Merge"
+msgstr "ﾓ・蒻"
+
+#: Merge.rc:2117
+#, c-format
+msgid "Difference %1 of %2"
+msgstr "ﾐ珸・・ %1 鮏 %2"
+
+#: Merge.rc:2118
+#, c-format
+msgid "%1 Differences Found"
+msgstr "ﾍ熕褊・鉈韭・%1"
+
+#: Merge.rc:2119
+#, c-format
+msgid "1 Difference Found"
+msgstr "ﾍ熕褊・鉈韭・1"
+
+#. Abbreviation from "Read Only"
+#: Merge.rc:2120
+#, c-format
+msgid "RO"
+msgstr "RO"
+
+#: Merge.rc:2126
+#, c-format
+msgid "Item %1 of %2"
+msgstr "ﾑ粲・%1 鮏 %2"
+
+#: Merge.rc:2127
+#, c-format
+msgid "Items: %1"
+msgstr "ﾑ粲・ %1"
+
+#: Merge.rc:2133
+#, c-format
+msgid "Select two existing folders or files to compare"
+msgstr "ﾎ萵砒 葢・・錡蝙・萵・ 齏・韭・ 鈞 ・仙懷"
+
+#: Merge.rc:2134
+#, c-format
+msgid "Folder Selection"
+msgstr "ﾈ鈞砒 韭・"
+
+#: Merge.rc:2135
+#, c-format
+msgid "Select two folders or two files to compare."
+msgstr "ﾎ萵砒 葢・韭・ 齏・萵・ 鈞 ・仙懷"
+
+#: Merge.rc:2136
+#, c-format
+msgid "Left path is invalid!"
+msgstr "ﾋ裘・・憫 ｼ・淲籵趺樅!"
+
+#: Merge.rc:2137
+#, c-format
+msgid "Right path is invalid!"
+msgstr "ﾄ褥浯 ・憫 ｼ・淲籵趺樅!"
+
+#: Merge.rc:2138
+#, c-format
+msgid "Both paths are invalid!"
+msgstr "ﾎ砒 ・懷  淲籵趺槫!"
+
+#: Merge.rc:2139
+#, c-format
+msgid "Choose two files to enable unpacker selection."
+msgstr "ﾎ萵砒 葢・萵・ ・ｼ・・頷籵 瑩粢・
+
+#: Merge.rc:2140
+#, c-format
+msgid "Cannot compare file and folder!"
+msgstr "ﾍ・・胚 ⅱ裝頸・萵・ ・韭・!"
+
+#: Merge.rc:2146
+#, c-format
+msgid "File not found: %1"
+msgstr "ﾄ瑣ⅳ裲・湜ｼ・・・熕褊・
+
+#: Merge.rc:2147
+#, c-format
+msgid "File not unpacked: %1"
+msgstr "ﾄ瑣ⅳ裲・湜ｼ・瑕魵瑙・ %1"
+
+#: Merge.rc:2148
+#, c-format
+msgid ""
+"Cannot open file\n"
+"%1\n"
+"\n"
+"%2"
+msgstr ""
+"ﾍ・・趺 ⅳ粽 萵・\n"
+"%1\n"
+"\n"
+"%2"
+
+#: Merge.rc:2149
+#, c-format
+msgid "Failed to parse conflict file."
+msgstr "ﾍ・・胚 ・湜 ・髜・・・萵・"
+
+#: Merge.rc:2150
+#, c-format
+msgid ""
+"The file\n"
+"%1\n"
+"is not a conflict file."
+msgstr ""
+"ﾄ瑣ⅳ裲濬n"
+"%1\n"
+
+#: Merge.rc:2156
+#, c-format
+msgid "Save As"
+msgstr "ﾑ璞狆 ・・
+
+#: Merge.rc:2157
+#, c-format
+msgid "Save changes to %1?"
+msgstr "ﾑ璞狆 韈・淲 %1? "
+
+#: Merge.rc:2158
+#, c-format
+msgid "%1 is marked read-only. Would you like to override the read-only file ? (No to save as new filename.)"
+msgstr "%1 ｼ・鰀浯浯 ・ 鈞 懷.ﾆ褄頸・・ 萵 ｼ・・湜頸・(ﾍ・ 籵浯 ｼ・・・濵粨・韲褊黑)"
+
+#: Merge.rc:2159
+#, c-format
+msgid "Error checking destination writeability"
+msgstr "ﾃ・・・・魵褞・頌鞣燧・浯 鮏蒻・"
+
+#: Merge.rc:2160
+#, c-format
+msgid "Error backing up file"
+msgstr "ﾃ・・・・珞壼懽 鈑淲 萵・"
+
+#: Merge.rc:2162
+#, c-format
+msgid ""
+"Unable to backup original file:\n"
+"%1\n"
+"\n"
+"Continue anyway?"
+msgstr ""
+"ﾍ霈・・胚槫 浯・珞頸・鈑・\n"
+"%1\n"
+"\n"
+"ﾍ瑰粨?"
+
+#: Merge.rc:2163
+#, c-format
+msgid ""
+"Saving file failed.\n"
+"%1\n"
+"%2\n"
+"Do you want to:\n"
+"\t-use a different filename (Press Ok)\n"
+"\t-abort the current operation (Press Cancel)?"
+msgstr ""
+"ﾗ燧・湜ｼ・・・.\n"
+"%1\n"
+"%2\n"
+"ﾄ・・ 趺・ 萵 :\n"
+"\t-je 鈞・・頸・・・蓿韲 韲褊黑, ・頸頌湜 /ﾓ 蔘/\n"
+"\t- 齏・・頸頌湜 /ﾈ鈞占/鈞 ・裲鞴 ・・?"
+
+#: Merge.rc:2164
+#, c-format
+msgid ""
+"Plugin '%2' cannot pack your changes to the left file back into '%1'.\n"
+"\n"
+"The original file will not be changed.\n"
+"\n"
+"Do you want to save the unpacked version to another file?"
+msgstr ""
+"ﾄ鮏瑣瑕 '%2' 淲 ・趺 瑕魵瑣・・黑褊・・粢 萵・'%1'.\n"
+"\n"
+"ﾈ鈔ⅱ浯 萵・ 淲槫 礪 ・黑蝨褊・\n"
+"\n"
+"ﾄ・・ 趺・ 萵 籵 淲瑕魵瑙・韈萵懷 ・・萵・?"
+
+#: Merge.rc:2165
+#, c-format
+msgid ""
+"Plugin '%2' cannot pack your changes to the right file back into '%1'.\n"
+"\n"
+"The original file will not be changed.\n"
+"\n"
+"Do you want to save the unpacked version to another file?"
+msgstr ""
+"ﾄ鮏瑣瑕 '%2' 淲 ・趺 瑕魵瑣・・黑褊・蒟・萵・ '%1'.\n"
+"\n"
+"ﾈ鈔ⅱ浯 萵・ 淲槫 礪 ・黑蝨褊・\n"
+"\n"
+"ﾄ・・ 趺・ 萵 籵 淲瑕魵瑙・韈萵懷 ・・萵・?"
+
+#: Merge.rc:2166
+#, c-format
+msgid ""
+"Another application has updated file\n"
+"%1\n"
+"since WinMerge loaded it.\n"
+"\n"
+"Overwrite changed file?"
+msgstr ""
+"ﾄ肛 ・魲・ｼ・ⅲ粢跖・萵・\n"
+"%1\n"
+"・・萵 ・WinMerge-・\n"
+"\n"
+"ﾇ瑟褊頸・韈・懷炫 萵・?"
+
+#: Merge.rc:2167
+#, c-format
+msgid ""
+"%1\n"
+"is marked read-only. Would you like to override the read-only item?"
+msgstr ""
+"%1\n"
+"ｼ・鰀浯浯 ・ 鈞 懷.ﾆ褄頸・・ 萵 ｼ・鈞・湜?"
+
+#: Merge.rc:2168
+#, c-format
+msgid ""
+"Another application has updated file\n"
+"%1\n"
+"since WinMerge scanned it last time.\n"
+"\n"
+"Do you want to reload the file?"
+msgstr ""
+"ﾄ肛 ・魲・ｼ・ⅲ粢跖・萵・\n"
+"%1\n"
+"鮏 鈞苜裙 ・裙・萵 WinMerge-・ﾆ褄頸・・ ・濵粽 頸瑣・萵・?"
+
+#: Merge.rc:2169
+#, c-format
+msgid "Save Left File As"
+msgstr "ﾑ璞狆 ・糒 萵・ ・・
+
+#: Merge.rc:2170
+#, c-format
+msgid "Save Right File As"
+msgstr "ﾑ璞狆 蒟・萵・ ・・
+
+#: Merge.rc:2171
+#, c-format
+msgid ""
+"The file\n"
+"%1\n"
+"has disappeared. Please save a copy of the file to continue."
+msgstr ""
+"ﾄ瑣ⅳ裲濬n"
+"%1\n"
+
+#: Merge.rc:2177
+#, c-format
+msgid ""
+"Cannot merge differences when documents are not in synch.\n"
+"\n"
+"Refresh documents before continuing."
+msgstr ""
+"ﾍ・・胚 髜ｼ裝竟頸・鉈韭・・萵 蒡・・炅・湜 璢・湜.\n"
+"\n"
+"ﾎ褂・蒡・・炅・・・浯珞・"
+
+#: Merge.rc:2183
+#, c-format
+msgid "You must specify a SourceSafe project path in order to continue (ie:  $/MyProject)"
+msgstr "ﾌⅱ瑣・鮏蒻 胚・韈粽・・懽 瑕・趺・ 浯珞頸・(ie:  $/MyProject)"
+
+#: Merge.rc:2184
+#, c-format
+msgid "Checkout files from VSS..."
+msgstr "ﾏ魵褞・萵・ 浯 VSS..."
+
+#: Merge.rc:2185
+#, c-format
+msgid "Versioning System returned an error while attempting to check out the file.  Unable to continue..."
+msgstr "ﾑ頌・ｼ・・・鈞・胙褸・ 蒡・ｼ・・・籵・萵 ・魵褞・萵・.ﾍ・・趺 萵 浯珞・.."
+
+#: Merge.rc:2186
+#, c-format
+msgid "Error executing versioning system command."
+msgstr "ﾃ・・・韈糅懽 褌・浯蓊・
+
+#: Merge.rc:2187
+#, c-format
+msgid "The VSS Working Folder and the location of the current file do not match. Continue?"
+msgstr "VSS 蓖・韭・ ・・・赳ｼ 褊・萵・  淲 ・・瑜狆・ﾍ瑰粨?"
+
+#: Merge.rc:2188
+#, c-format
+msgid "No VSS database(s) found!"
+msgstr "ﾍ褌・VSS 矜鈑 ・萵・"
+
+#: Merge.rc:2189
+#, c-format
+msgid "Error from VSS:"
+msgstr "ﾃ・韈 VSS"
+
+#: Merge.rc:2190
+#, c-format
+msgid ""
+"Versioning System returned an error while attempting to check in the file.\n"
+" Please, check config spec of used view.\n"
+" Undo checkout operation?"
+msgstr ""
+"ﾑ頌・・・銛ｼ・胙褸・ 蒡・・・籵 萵 ・魵褞・萵・\n"
+"ﾌ鸙韲・ ・肭裝狆 ・蒟濵 ・顆・・韈肭裝・\n"
+"ﾎ・鉋粨 ・魵褞・"
+
+#: Merge.rc:2191
+#, c-format
+msgid ""
+"Versioning System returned an error while attempting to undo checkout the file.\n"
+" Please, check config spec of used view. "
+msgstr ""
+"ﾑ頌・・韭珸・胙褸・ 蒡・・・籵 萵 ⅰ鰀魵・・魵褞・萵・.\n"
+
+#: Merge.rc:2197
+#: Merge.rc:2551
+#, c-format
+msgid "None"
+msgstr "ﾍ顏"
+
+#: Merge.rc:2198
+#, c-format
+msgid "Visual SourceSafe (less than 5.0)"
+msgstr "Visual SourceSafe (・懆 鮏 5.0)"
+
+#: Merge.rc:2199
+#, c-format
+msgid "Visual SourceSafe (5.0 and above)"
+msgstr "Visual SourceSafe (5.0 ・粨)"
+
+#: Merge.rc:2201
+#, c-format
+msgid "Break at whitespace"
+msgstr "ﾑ湜 浯 銕瑕・
+
+#: Merge.rc:2202
+#, c-format
+msgid "Break at whitespace or punctuation"
+msgstr "ﾑ湜 浯 銕瑕・齏・竟ｼ・
+
+#: Merge.rc:2208
+#: Merge.rc:2210
+#, c-format
+msgid "Copy selected item to named directory"
+msgstr "ﾓ・鮻・鮏珮炫 珞・ ・韲褊魵瑙錡 韭・"
+
+#: Merge.rc:2209
+#: Merge.rc:2211
+#, c-format
+msgid "Copy selected item to custom directory"
+msgstr "ﾓ・鮻・鮏珮炫 珞・ ・・齏璢譿褊錡 韭・"
+
+#: Merge.rc:2212
+#, c-format
+msgid "Delete selected item on left"
+msgstr "ﾈ釿 鮏珮炫 珞・ ・・籵"
+
+#: Merge.rc:2213
+#, c-format
+msgid "Delete selected item on right"
+msgstr "ﾈ釿 鮏珮炫 珞・ ・蒟・
+
+#: Merge.rc:2214
+#, c-format
+msgid "Delete selected item(s) on both sides"
+msgstr "ﾈ釿 鮏珮炫 珞・ 浯 髜・淲 "
+
+#: Merge.rc:2215
+#, c-format
+msgid "Hide selected item(s) (on the fly filter)"
+msgstr "ﾑ瑕ｼ 鮏珮炫 珞・ (・褞 ・蔘)"
+
+#: Merge.rc:2216
+#, c-format
+msgid "Rename selected item on both sides"
+msgstr "ﾏ韲褊 鮏珮炫 珞・ 浯 髜・淲"
+
+#: Merge.rc:2217
+#, c-format
+msgid "Right to Left (%1)"
+msgstr "ﾄ褥浯 ・・粽 (%1)"
+
+#: Merge.rc:2218
+#, c-format
+msgid "Left to Right (%1)"
+msgstr "ﾋ裘・・蒟・(%1)"
+
+#: Merge.rc:2219
+#, c-format
+msgid "Right to Left (%1 of %2)"
+msgstr "ﾄ褥浯 ・・粽 (%1 鮏 %2)"
+
+#: Merge.rc:2220
+#, c-format
+msgid "Left to Right (%1 of %2)"
+msgstr "ﾋ裘・・蒟・(%1 鮏 %2)"
+
+#: Merge.rc:2221
+#: Merge.rc:2237
+#, c-format
+msgid "Left to... (%1)"
+msgstr "ﾋ裘・・.. (%1)"
+
+#: Merge.rc:2222
+#: Merge.rc:2238
+#, c-format
+msgid "Right to... (%1)"
+msgstr "ﾄ褥浯 ・.. (%1)"
+
+#: Merge.rc:2223
+#: Merge.rc:2239
+#, c-format
+msgid "Left to... (%1 of %2)"
+msgstr "ﾋ裘・・.. (%1 鮏 %2)"
+
+#: Merge.rc:2224
+#: Merge.rc:2240
+#, c-format
+msgid "Right to... (%1 of %2)"
+msgstr "ﾄ褥浯 ・.. (%1 鮏 %2)"
+
+#: Merge.rc:2230
+#, c-format
+msgid "Left (%1)"
+msgstr "ﾋ裘・(%1)"
+
+#: Merge.rc:2231
+#, c-format
+msgid "Right (%1)"
+msgstr "ﾄ褥浯 (%1)"
+
+#: Merge.rc:2232
+#, c-format
+msgid "Both (%1)"
+msgstr "ﾎ砒 (%1)"
+
+#: Merge.rc:2233
+#, c-format
+msgid "Left (%1 of %2)"
+msgstr "ﾋ裘・(%1 鮏 %2)"
+
+#: Merge.rc:2234
+#, c-format
+msgid "Right (%1 of %2)"
+msgstr "ﾄ褥浯 (%1 鮏 %2)"
+
+#: Merge.rc:2235
+#, c-format
+msgid "Both (%1 of %2)"
+msgstr "ﾎ砒(%1 鮏 %2)"
+
+#: Merge.rc:2236
+#, c-format
+msgid "Select destination folder"
+msgstr "ﾎ萵砒 韭・ 鮏蒻・"
+
+#: Merge.rc:2241
+#, c-format
+msgid "Left side - select destination folder:"
+msgstr "ﾋ裘・浯 - 鮏珮褞・韭・ 鮏蒻・"
+
+#: Merge.rc:2242
+#, c-format
+msgid "Right side - select destination folder:"
+msgstr "ﾄ褥浯 浯 - 鮏珮褞・韭・ 鮏蒻・"
+
+#: Merge.rc:2243
+#, c-format
+msgid "(%1 Files Affected)"
+msgstr "(%1 ・湜・萵・)"
+
+#: Merge.rc:2244
+#, c-format
+msgid "(%1 of %2 Files Affected)"
+msgstr "(%1 鮏 %2 ・湜・萵・)"
+
+#: Merge.rc:2250
+#, c-format
+msgid ""
+"Are you sure you want to delete\n"
+"\n"
+"%1 ?"
+msgstr ""
+"ﾄ・・ ・胚・萵 趺・ 萵 韈碣顏褪藹n"
+"\n"
+"%1 ?"
+
+#: Merge.rc:2251
+#, c-format
+msgid "Are you sure you want to copy:"
+msgstr "ﾄ・・ ・胚・萵 趺・ 萵 濵跖:"
+
+#: Merge.rc:2252
+#, c-format
+msgid "Are you sure you want to copy %d items:"
+msgstr "ﾄ・・ ・胚・萵 趺・ 萵 濵跖 %d 珞・:"
+
+#: Merge.rc:2253
+#, c-format
+msgid ""
+"Operation aborted!\n"
+"\n"
+"Folder contents at disks has changed, path\n"
+"%1\n"
+"was not found.\n"
+"\n"
+"Please refresh the compare."
+msgstr ""
+"ﾏⅲ・・ｼ・鈞笞褊!\n"
+"\n"
+"ﾏ・懷浯 ｼ・韭・ 齏・・彗\n"
+"%1\n"
+"湜ｼ・・・熕褊・\n"
+"\n"
+"ﾌ鸙韲, ⅲ粢跖 ・仙懷."
+
+#: Merge.rc:2254
+#, c-format
+msgid "Are you sure you want to move:"
+msgstr "ﾄ・・ ・胚・萵 趺・ 萵 ｼ・・褌褥:"
+
+#: Merge.rc:2255
+#, c-format
+msgid "Are you sure you want to move %d items:"
+msgstr "ﾄ・・ ・胚・萵 趺・ 萵 ・褌褥 %d 珞・:"
+
+#: Merge.rc:2257
+#, c-format
+msgid "Confirm Move"
+msgstr "ﾏⅳ糅蒻 ・褌褸ｼ"
+
+#: Merge.rc:2263
+#, c-format
+msgid "Open left file"
+msgstr "ﾎⅱ・・糒 萵・"
+
+#: Merge.rc:2264
+#, c-format
+msgid "Open the left file to external editor"
+msgstr "ﾎⅱ・・糒 萵・ ・蓿黑 蜷鞣璞・
+
+#: Merge.rc:2265
+#, c-format
+msgid "Open left file with ..."
+msgstr "ﾎⅱ・・糒 萵・ ..."
+
+#: Merge.rc:2266
+#, c-format
+msgid "Open right file"
+msgstr "ﾎⅱ・蒟・萵・"
+
+#: Merge.rc:2267
+#, c-format
+msgid "Open the right file to external editor"
+msgstr "ﾎⅱ・蒟・萵・ ・蓿黑 蜷鞣璞・
+
+#: Merge.rc:2268
+#, c-format
+msgid "Open right file with..."
+msgstr "ﾎⅱ・蒟・萵・ ..."
+
+#: Merge.rc:2269
+#, c-format
+msgid "Failed to execute external editor: %1"
+msgstr "ﾍ霈・・・ ・・褪燧・蓿魲 蜷鞣璞・ %1"
+
+#: Merge.rc:2270
+#, c-format
+msgid "Unknown extension on external editor: %1"
+msgstr "ﾍ襃鰀浯 糅・萵・ 鈞 蓿・蜷鞣璞: %1"
+
+#: Merge.rc:2271
+#, c-format
+msgid "Copy filenames to clipboard"
+msgstr "ﾑ璞狆 韲・萵・ ・ⅲ粨"
+
+#: Merge.rc:2272
+#, c-format
+msgid "Copy left side pathnames to clipboard"
+msgstr "ﾑ璞狆 韲・・懷 ・粢 淲 ・ⅲ粨"
+
+#: Merge.rc:2273
+#, c-format
+msgid "Copy right side pathnames to clipboard"
+msgstr "ﾑ璞狆 韲・・懷 蒟・淲 ・ⅲ粨"
+
+#: Merge.rc:2274
+#, c-format
+msgid "Copy both sides pathnames to clipboard"
+msgstr "ﾑ璞狆 韲・・懷 髜・淲 ・ⅲ粨"
+
+#: Merge.rc:2280
+#, c-format
+msgid "Left Shell menu"
+msgstr "ﾋ裘・韈碚韭 /奕・"
+
+#: Merge.rc:2281
+#, c-format
+msgid "Right Shell menu"
+msgstr "ﾄ褥湜 韈碚韭 /奕・"
+
+#: Merge.rc:2287
+#, c-format
+msgid "Unknown archive format"
+msgstr "ﾍ襃鰀浯・髜・・瑩粢"
+
+#: Merge.rc:2288
+#, c-format
+msgid "Add items from left side to archive"
+msgstr "ﾄ鮏狆 珞・  ・粢 淲 ・瑩糒"
+
+#: Merge.rc:2289
+#, c-format
+msgid "Add items from right side to archive"
+msgstr "ﾄ鮏狆 珞・  蒟・淲 ・瑩糒"
+
+#: Merge.rc:2290
+#, c-format
+msgid "Add items from both sides to archive"
+msgstr "ﾄ鮏狆 珞・ 髜・淲 ・瑩糒"
+
+#: Merge.rc:2291
+#, c-format
+msgid "Add different items to archive (both sides)"
+msgstr "ﾄ鮏狆 鉈顆頸・珞・ ・瑩糒 (髜・淲)"
+
+#: Merge.rc:2293
+#, c-format
+msgid "Move selected file on left to custom directory"
+msgstr "ﾏ・・鮏珮炫 萵・ ・・籵 ・韈珮炫 韭・"
+
+#: Merge.rc:2295
+#, c-format
+msgid "Move selected file on right to custom directory"
+msgstr "ﾏ・・鮏珮炫 萵・ ・蒟・・韈珮炫 韭・"
+
+#: Merge.rc:2301
+#, c-format
+msgid "Filename"
+msgstr "ﾈ・ 萵・"
+
+#: Merge.rc:2303
+#, c-format
+msgid "Comparison result"
+msgstr "ﾐ裼・・仙憫"
+
+#: Merge.rc:2304
+#, c-format
+msgid "Left Date"
+msgstr "ﾄ瑣 ・粽"
+
+#: Merge.rc:2305
+#, c-format
+msgid "Right Date"
+msgstr "ﾄ瑣 蒟・
+
+#: Merge.rc:2306
+#, c-format
+msgid "Extension"
+msgstr "ﾍ瑰籵・
+
+#: Merge.rc:2307
+#, c-format
+msgid "Left Size"
+msgstr "ﾂ褄顆竟・・粽"
+
+#: Merge.rc:2308
+#, c-format
+msgid "Right Size"
+msgstr "ﾂ褄顆竟・蒟・
+
+#: Merge.rc:2309
+#, c-format
+msgid "Right Size (Short)"
+msgstr "ﾂ褄顆竟・蒟・(槫濵)"
+
+#: Merge.rc:2310
+#, c-format
+msgid "Left Size (Short)"
+msgstr "ﾂ褄顆竟・・粽 (槫濵)"
+
+#: Merge.rc:2316
+#, c-format
+msgid "Left Creation Time"
+msgstr "ﾂ・ 籵憫 ・粢"
+
+#: Merge.rc:2317
+#, c-format
+msgid "Right Creation Time"
+msgstr "ﾂ・ 籵憫 蒟・
+
+#: Merge.rc:2318
+#, c-format
+msgid "Newer File"
+msgstr "ﾍ魵霈・萵・"
+
+#: Merge.rc:2319
+#, c-format
+msgid "Left File Version"
+msgstr "ﾈ鈕燧・・粢 萵・"
+
+#: Merge.rc:2320
+#, c-format
+msgid "Right File Version"
+msgstr "ﾈ鈕燧・蒟・萵・"
+
+#: Merge.rc:2321
+#, c-format
+msgid "Short Result"
+msgstr "ﾑ・燼褊・頌・
+
+#: Merge.rc:2322
+#, c-format
+msgid "Left Attributes"
+msgstr "ﾎ礪淲 ・粢"
+
+#: Merge.rc:2323
+#, c-format
+msgid "Right Attributes"
+msgstr "ﾎ礪淲 蒟・
+
+#: Merge.rc:2324
+#, c-format
+msgid "Left EOL"
+msgstr "ﾇ珞褪瑕 萵 ・粢 萵・"
+
+#: Merge.rc:2325
+#, c-format
+msgid "Right EOL"
+msgstr "ﾇ珞褪瑕 萵 蒟・萵・"
+
+#: Merge.rc:2331
+#, c-format
+msgid "Left Encoding"
+msgstr "ﾊ鮏頏燧・・粢"
+
+#: Merge.rc:2332
+#, c-format
+msgid "Right Encoding"
+msgstr "ﾊ鮏頏燧・蒟・
+
+#: Merge.rc:2333
+#, c-format
+msgid "Ignored Diff."
+msgstr "ﾇ瑙褌瑩・鉈韭・
+
+#: Merge.rc:2335
+#: Merge.rc:2547
+#, c-format
+msgid "Binary"
+msgstr "ﾁ竟瑩湜"
+
+#: Merge.rc:2341
+#, c-format
+msgid "Unable to compare files"
+msgstr "ﾍ・・胚 ⅱ裝頸・萵・"
+
+#: Merge.rc:2342
+#, c-format
+msgid "Item aborted"
+msgstr "ﾎ蓊璞褊・珞・"
+
+#: Merge.rc:2343
+#, c-format
+msgid "File skipped"
+msgstr "ﾈ鉋珞壼浯 萵・"
+
+#: Merge.rc:2344
+#, c-format
+msgid "Folder skipped"
+msgstr "ﾈ鉋珞壼浯 韭・"
+
+#: Merge.rc:2345
+#, c-format
+msgid "Left only: %1"
+msgstr "ﾑ瑟・・籵: %1"
+
+#: Merge.rc:2346
+#, c-format
+msgid "Right only: %1"
+msgstr "ﾑ瑟・蒟・ %"
+
+#: Merge.rc:2347
+#, c-format
+msgid "Binary files are identical"
+msgstr "ﾁ竟瑩淲 萵・  頌"
+
+#: Merge.rc:2349
+#, c-format
+msgid "Binary files are different"
+msgstr "ﾁ竟瑩淲 萵・  鉈顆頸・
+
+#: Merge.rc:2350
+#, c-format
+msgid "Files are different"
+msgstr "ﾄ瑣ⅳ裲・ 鉈顆頸・
+
+#: Merge.rc:2351
+#, c-format
+msgid "Folders are different"
+msgstr "ﾔ瑰・・ 鉈顆頸・
+
+#: Merge.rc:2352
+#, c-format
+msgid "Left Only"
+msgstr "ﾑ瑟・・籵"
+
+#: Merge.rc:2353
+#, c-format
+msgid "Right Only"
+msgstr "ﾑ瑟・蒟・
+
+#: Merge.rc:2355
+#, c-format
+msgid "Error"
+msgstr "ﾃ・
+
+#: Merge.rc:2356
+#, c-format
+msgid "Text files are identical"
+msgstr "ﾒ裲魵・萵・  頌"
+
+#: Merge.rc:2361
+#, c-format
+msgid "Text files are different"
+msgstr "ﾒ裲魵・萵・  鉈顆頸・
+
+#: Merge.rc:2367
+#, c-format
+msgid "Elapsed time: %ld ms"
+msgstr "ﾏ・・糅褌・ %ld ms"
+
+#: Merge.rc:2368
+#, c-format
+msgid "1 item selected"
+msgstr "1 珞・ ｼ・鮏珮浯"
+
+#: Merge.rc:2369
+#, c-format
+msgid "%1 items selected"
+msgstr "%1 珞・ ｼ・鮏珮浯"
+
+#: Merge.rc:2375
+#, c-format
+msgid "Filename or folder name."
+msgstr "ﾈ・ 萵・ 齏・韭・"
+
+#: Merge.rc:2376
+#, c-format
+msgid "Subfolder name when subfolders are included."
+msgstr "ﾈ・ ・瑰・・・・ ・瑰・・奕淲"
+
+#: Merge.rc:2377
+#, c-format
+msgid "Comparison result, long form."
+msgstr "ﾈ鋏鮏 ・仙憫,蔘跖 髜・・
+
+#: Merge.rc:2378
+#, c-format
+msgid "Left side modification date."
+msgstr "ﾄ瑣 ・黑褊・・粢 淲"
+
+#: Merge.rc:2379
+#, c-format
+msgid "Right side modification date."
+msgstr "ﾄ瑣 ・黑褊・蒟・淲"
+
+#: Merge.rc:2380
+#, c-format
+msgid "File's extension."
+msgstr "/ﾍ瑰籵・ 萵・"
+
+#: Merge.rc:2381
+#, c-format
+msgid "Left file size in bytes."
+msgstr "ﾂ褄顆竟・・粢 萵・ ・矜ｼ・"
+
+#: Merge.rc:2382
+#, c-format
+msgid "Right file size in bytes."
+msgstr "ﾂ褄顆竟・蒟・萵・ ・矜ｼ・"
+
+#: Merge.rc:2383
+#, c-format
+msgid "Left file size abbreviated."
+msgstr "ﾑ・燼褊・・籵 萵・"
+
+#: Merge.rc:2384
+#, c-format
+msgid "Right file size abbreviated."
+msgstr "ﾑ・燼褊・蒟・萵・"
+
+#: Merge.rc:2390
+#, c-format
+msgid "Left side creation time."
+msgstr "ﾂ・ 籵憫 ・粢 淲"
+
+#: Merge.rc:2391
+#, c-format
+msgid "Right side creation time."
+msgstr "ﾂ・ 籵憫 蒟・淲"
+
+#: Merge.rc:2392
+#, c-format
+msgid "Tells which side has newer modification date."
+msgstr "ﾊ錡・浯 韲・濵粨ｼ・萵・・黑褊・
+
+#: Merge.rc:2393
+#, c-format
+msgid "Left side file version, only for some filetypes."
+msgstr "ﾈ鈕燧・浯 ・粽ｼ 湜 ｼ・・ 鈞 淲・ 糅・萵・"
+
+#: Merge.rc:2394
+#, c-format
+msgid "Right side file version, only for some filetypes."
+msgstr "ﾈ鈕燧・浯 蒟錡 湜 ｼ・・ 鈞 淲・ 糅・萵・"
+
+#: Merge.rc:2395
+#, c-format
+msgid "Short comparison result."
+msgstr "ﾊ櫁 銛・瑣 ・仙憫"
+
+#: Merge.rc:2396
+#, c-format
+msgid "Left side attributes."
+msgstr "ﾎ礪淲 ・粢 淲"
+
+#: Merge.rc:2397
+#, c-format
+msgid "Right side attributes."
+msgstr "ﾎ礪淲 蒟・淲"
+
+#: Merge.rc:2398
+#, c-format
+msgid "Left side file EOL type"
+msgstr "ﾍ璞竟 鈞糅・萵 ・粢 萵・"
+
+#: Merge.rc:2399
+#, c-format
+msgid "Right side file EOL type"
+msgstr "ﾍ璞竟 鈞糅・萵 蒟・萵・"
+
+#: Merge.rc:2405
+#, c-format
+msgid "Left side encoding."
+msgstr "ﾊ鮏頏燧・・粢 淲"
+
+#: Merge.rc:2406
+#, c-format
+msgid "Right side encoding."
+msgstr "ﾊ鮏頏燧・蒟・淲"
+
+#: Merge.rc:2407
+#, c-format
+msgid "Number of ignored differences in file. These differences are ignored by WinMerge and cannot be merged."
+msgstr "ﾁｼ 鈞淲・湜・鉈韭・・萵.ﾎ粢 鉈韭・ｼ・鈞淲・・WinMerge ・淲 ・胚 礪 髜ｼ裝陷褊・
+
+#: Merge.rc:2408
+#, c-format
+msgid "Number of differences in file. This number does not include ignored differences."
+msgstr "ﾁｼ 鉈韭・・萵.ﾎ籵ｼ 碣錡 淲 奕ｼ・鈞淲・淲 鉈韭・
+
+#: Merge.rc:2409
+#, c-format
+msgid "Shows an asterisk (*) if the file is binary."
+msgstr "ﾏ・銛ｼ・鈔裼蒻 (*), 瑕・ｼ・萵・ 礪浯・
+
+#: Merge.rc:2415
+#, c-format
+msgid "Compare %1 with %2"
+msgstr "ﾓ・蒻 %1  %2"
+
+#: Merge.rc:2416
+#, c-format
+msgid "Comma-separated list"
+msgstr "ﾑ・・ｼ・鮏粽ｼ褊 鈞鉋・
+
+#: Merge.rc:2417
+#, c-format
+msgid "Tab-separated list"
+msgstr "ﾑ・・ｼ・鮏粽ｼ褊 ｼ裼顆・・
+
+#: Merge.rc:2418
+#, c-format
+msgid "Simple HTML"
+msgstr "｣裝濵珞湜 HTML"
+
+#: Merge.rc:2419
+#, c-format
+msgid "Simple XML"
+msgstr "｣裝濵珞湜 XML"
+
+#: Merge.rc:2421
+#, c-format
+msgid "The report file already exists. Do you want to overwrite existing file?"
+msgstr "ﾄ瑣ⅳ裲・韈粢狆・粢・・錡・ﾄ・・ 趺・ 鈞・湜 ・錡蝙・萵・"
+
+#: Merge.rc:2422
+#, c-format
+msgid ""
+"Error creating the report:\n"
+"%1"
+msgstr ""
+"ﾃ・・・・珞壼懽 韈粢狆・\n"
+"%1"
+
+#: Merge.rc:2423
+#, c-format
+msgid "The report has been created successfully."
+msgstr "ﾈ鈔褸ｼ ｼ・・・浯・珞壼・
+
+#: Merge.rc:2429
+#, c-format
+msgid "The same file is opened in both panels."
+msgstr "ﾈ・萵・ ｼ・ⅳ粽浯 ・髜・硴・
+
+#: Merge.rc:2430
+#, c-format
+msgid "The selected files are identical."
+msgstr "ﾈ鈞碣瑙・萵・  頌"
+
+#: Merge.rc:2431
+#, c-format
+msgid "An error occurred while comparing the files."
+msgstr "ﾄⅹ・ ｼ・蒡 胙褸・ ・・・仙懽"
+
+#: Merge.rc:2432
+#, c-format
+msgid "Temporary files could not be created. Check your temporary path settings."
+msgstr "ﾏ糅褌褊・萵・ 淲 ・趺 礪 粽浯.ﾏ粢 ・・蒟 ・鞣・炫 ・懽"
+
+#: Merge.rc:2433
+#, c-format
+msgid ""
+"These files use different carriage return types.\n"
+"\n"
+"Do you want to treat all carriage return types as equivalent for this comparison?\n"
+"\n"
+"Note: If you always want to treat all carriage return types as equivalent, set the option 'Ignore carriage return differences..' in the Compare tab of the options dialog (available under Edit/Options)."
+msgstr ""
+"ﾎ粢 萵・  鉈韭・・褌・・褄瑰・ ・蓿・・\n"
+"\n"
+"ﾄ・・ 趺・ 鈞蓿赳 鉈顆頸・・褄瑰・ ・蓿・・\n"
+"\n"
+"ﾍ瑜黑褊・ﾆ褄頸・・ 裲 鈞蓿赳 鉈顆頸・・褄瑰・ ・蓿・・ 鮏珮褞頸・'ﾇ瑙褌瑩・鉈顆頸・・褄瑰・ ・蓿・・.' ・蒻ｼ琿ⅹ・ｼ ・頽・・仙懷 ・鰀ⅱ・(ﾓ占籵懷/ﾏⅲ粲・"
+
+#: Merge.rc:2434
+#, c-format
+msgid ""
+"The EOL are of different types (Windows/Unix/Mac) in the file '%1'.\n"
+" With the current options, they will be unified to the main type.\n"
+" Do you want to change the options and preserve the different EOL ?"
+msgstr ""
+"ﾐ褶・ 鈞糅籵ｼ・浯 鉈顆頸・浯淲 (Windows/Unix/Mac) ・萵 '%1'.\n"
+"ﾏ・ ・珞・・ ・黑褊陞・ ・・ ｼ・鮏珮濵.\n"
+"ﾄ・・ 趺・ 萵 ・黑褊頸・・珞・ ・ⅸ燧・鉈顆頸頷 浯浯 ・褄珸瑕・"
+
+#: Merge.rc:2435
+#, c-format
+msgid "An error occurred while prediffing the file '%1' with the plugin '%2'. The prediffing is not applied any more."
+msgstr "ﾃ・・齏韭黑 ・仙憫 萵・ '%1'  蒡萵黑'%2'.ﾄ襁竟頌瑙・・仙懷  淲 ・韲蝨・粨. "
+
+#: Merge.rc:2436
+#, c-format
+msgid "The selected folder is invalid."
+msgstr "ﾎ萵碣瑙・韭・ ｼ・淲ⅳ癩鞣・
+
+#: Merge.rc:2437
+#, c-format
+msgid "Cannot open a binary file to editor."
+msgstr "ﾍ・・胚 ⅳ粽 礪浯・萵・ ・蜷鞣璞・
+
+#: Merge.rc:2438
+#, c-format
+msgid ""
+"The folder exists only in other side and cannot be opened.\n"
+"\n"
+"Do you want to create a matching folder:\n"
+"%1\n"
+"to the other side and open these folders?"
+msgstr ""
+"ﾔ瑰・・・錡・・ 浯 蓿錡 湜 ・淲 ・趺  ⅳ粽.\n"
+"\n"
+"ﾄ・・ 趺・ 粽 ⅱ裝炫 韭・:\n"
+"%1\n"
+"浯 蓿錡 湜 ・ⅳ粽 ｼ・"
+
+#: Merge.rc:2444
+#, c-format
+msgid ""
+"Different codepages found in left (cp%d) and right (cp%d) files. \n"
+"Displaying each file in its codepage will give a better display but merging/copying will be dangerous.\n"
+"Would you like to treat both files as being in the default windows codepage (recommended)?"
+msgstr ""
+"ﾐ珸・ ・蓖・淲 浯仙淲  ・・粽ｼ (cp%d) ・蒟錡 (cp%d) 萵. \n"
+"ﾏ・・瑕・萵・ ・・蓖錡 湜 ｼ・碚夊 琿・狆燧・濵赳籵懷 濵 ⅰ瑰濵.\n"
+"ﾆ褄頸・・ 萵 ・ 髜・萵・ ・・・・蓿珸裘瑙黑 ・鰀ⅱ・・蓖・湜 (・襃ⅱ褊・?"
+
+#: Merge.rc:2445
+#, c-format
+msgid "Warning: Files use different encodings, left=%s and right=%s, and merging may lead to information loss."
+msgstr "ﾏ琥憫:ﾄ瑣ⅳ裲・ 鉈顆頸・・蒻淲, ・籵=%s ・蒟・%s,・狆燧・・趺 蒡粢・蒡 胚礪・・萵・. "
+
+#: Merge.rc:2446
+#, c-format
+msgid "Information lost due to encoding errors: both files"
+msgstr "ﾏ鮏璋・ 韈胚癩褊・釿魲 胙褸・ ・・・蒻懽: 髜・萵・"
+
+#: Merge.rc:2447
+#, c-format
+msgid "Information lost due to encoding errors: right file"
+msgstr "ﾏ鮏璋・ 韈胚癩褊・釿魲 胙褸・ ・・・蒻懽: 蒟・萵・ "
+
+#: Merge.rc:2448
+#, c-format
+msgid "Information lost due to encoding errors: left file"
+msgstr "ﾏ鮏璋・ 韈胚癩褊・釿魲 胙褸・ ・・・蒻懽: ・籵 萵・"
+
+#: Merge.rc:2454
+#, c-format
+msgid "No difference"
+msgstr "ﾍ褌・鉈韭・
+
+#: Merge.rc:2455
+#, c-format
+msgid "Line difference"
+msgstr "ﾐ珸・ ・
+
+#: Merge.rc:2461
+#, c-format
+msgid "Replaced %1 string(s)."
+msgstr "ﾇ瑟蝨褊 %1 ・ｼ瑟(・"
+
+#: Merge.rc:2462
+#, c-format
+msgid "Cannot find string \"%s\""
+msgstr "ﾍ・・胚 浯櫁 ・ｼ瑟 \"%s\""
+
+#: Merge.rc:2468
+#, c-format
+msgid "Copy Full Path"
+msgstr "ﾓ・鮻・・懽"
+
+#: Merge.rc:2469
+#, c-format
+msgid "Copy Filename"
+msgstr "ﾓ・鮻・韲・萵・"
+
+#: Merge.rc:2475
+#, c-format
+msgid "Location Pane"
+msgstr "ﾏ鸙鮻狆 硴・
+
+#: Merge.rc:2476
+#, c-format
+msgid "Diff Pane"
+msgstr "ﾐ珸・ 硴・
+
+#: Merge.rc:2482
+#, c-format
+msgid "Patch file successfully written."
+msgstr "ﾄ瑣ⅳ裲・鉈韭・ｼ・・・籵浯"
+
+#: Merge.rc:2483
+#, c-format
+msgid "1. item is not found or is directory!"
+msgstr "1. 珞・ 齏・韭・ 湜ｼ・・・熕褊・"
+
+#: Merge.rc:2484
+#, c-format
+msgid "2. item is not found or is directory!"
+msgstr "2. 珞・ 齏・韭・ 湜ｼ・・・熕褊・"
+
+#: Merge.rc:2485
+#, c-format
+msgid "The patch file already exists. Do you want to overwrite it?"
+msgstr "ﾄ瑣ⅳ裲・鉈韭・粢・・錡・ﾄ・・ 趺・ 萵 je 鈞・湜?"
+
+#: Merge.rc:2486
+#, c-format
+msgid "[%1 files selected]"
+msgstr "[%1 鮏珮浯 萵・"
+
+#: Merge.rc:2487
+#, c-format
+msgid "Normal"
+msgstr "ﾓ髜顆狆褊"
+
+#: Merge.rc:2488
+#, c-format
+msgid "Context"
+msgstr "ﾓ 鶴粨"
+
+#: Merge.rc:2489
+#, c-format
+msgid "Unified"
+msgstr "ﾎ眈裝陷褊"
+
+#: Merge.rc:2490
+#, c-format
+msgid "Could not write to file %1."
+msgstr "ﾍ・・胚 籵 ・萵 %1"
+
+#: Merge.rc:2491
+#, c-format
+msgid "The specified output path is not an absolute path: %1"
+msgstr "ﾍ珞裝褊・韈・鈿・・憫 湜ｼ・・・・憫: %1"
+
+#: Merge.rc:2492
+#, c-format
+msgid "Specify an output file"
+msgstr "ﾎ蓿裝頸・韈・鈿・萵・"
+
+#: Merge.rc:2493
+#, c-format
+msgid "Cannot create a patch file from binary files."
+msgstr "ﾍ・・趺 粽 萵・ 鉈韭・韈 礪浯頷 萵・"
+
+#: Merge.rc:2494
+#, c-format
+msgid "Cannot create a patch file from directories."
+msgstr "ﾍ・・趺 ・・珞頸・萵・ 韈 韭・"
+
+#: Merge.rc:2495
+#, c-format
+msgid ""
+"Please save all files first.\n"
+"\n"
+"Creating a patch requires that there are no unsaved changes in files."
+msgstr ""
+"ﾑ璞狆 ・粽 ・萵・.\n"
+"\n"
+"ﾑ瑩燧・萵・ 鉈韭・鈞裘・萵 ・錡・・黑褊・・ｼ・湜 籵淲 ・萵・・"
+
+#: Merge.rc:2496
+#, c-format
+msgid "Folder does not exist."
+msgstr "ﾔ瑰・・淲 ・錡・
+
+#: Merge.rc:2501
+#, c-format
+msgid "Current directory comparison results will be cleared."
+msgstr "ﾐ裼 ・仙憫 韭・ 槫 礪 ・懷湜"
+
+#: Merge.rc:2502
+#, c-format
+msgid ""
+"Archive support is not enabled.\n"
+"All needed components (7-zip and/or Merge7z*.dll) for archive support cannot be found.\n"
+"See manual for more info about archive support and how to enable it."
+msgstr ""
+"ﾐ琅  瑩籵・ ｼ・・褌魲褊.\n"
+"ﾑ粢 ・裔淲 ・・・褊 (7-zip ・齏・Merge7z*.dll)鈞 瑩糒 淲 ・胚 礪 浯仙淲.\n"
+"ﾏ魲・萵ｼ 粽 ・・ 黑魲頸・・ 瑩籵・"
+
+#: Merge.rc:2503
+#, c-format
+msgid ""
+"\n"
+"Note: 7-Zip integration is disabled in WinMerge settings."
+msgstr ""
+"\n"
+
+#: Merge.rc:2504
+#, c-format
+msgid ""
+"\n"
+"Note: 7-Zip integration is restricted to standalone operation in WinMerge settings."
+msgstr ""
+"\n"
+"ﾇ珮褄褸・:ﾈ炅裙ｼ・7-Zip ｼ・魲湜浯 浯 ・琿濵 蒟・籵懷 ・・蒟籵懆・ WinMerge-・"
+
+#: Merge.rc:2505
+#, c-format
+msgid "Select file for export"
+msgstr "ﾎ萵砒 萵・ 鈞 韈粽・
+
+#: Merge.rc:2506
+#, c-format
+msgid "Select file for import"
+msgstr "ﾎ萵砒 萵・ 鈞 鰀"
+
+#: Merge.rc:2507
+#, c-format
+msgid "Options imported from the file."
+msgstr "ﾓ粽・・珞・ ・萵・"
+
+#: Merge.rc:2508
+#, c-format
+msgid "Options exported to the file."
+msgstr "ﾈ鈔鰀 ・珞・ ・萵・"
+
+#: Merge.rc:2509
+#, c-format
+msgid "Failed to import options from the file."
+msgstr "ﾍ霈・・・萵 裼・・珞・ 韈 萵・"
+
+#: Merge.rc:2510
+#, c-format
+msgid "Failed to write options to the file."
+msgstr "ﾍ霈・・・萵 鈞・・・・珞・ ・萵"
+
+#: Merge.rc:2511
+#, c-format
+msgid ""
+"You are about to close several compare windows.\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+"ﾇ瑣粽 淲・・・ ・鰀ⅱ・・仙憫.\n"
+"\n"
+"ﾄ・・ 趺・ 浯珞頸・"
+
+#: Merge.rc:2517
+#, c-format
+msgid "Regular expression error"
+msgstr "ﾏ粨 韈・胙褸・"
+
+#: Merge.rc:2518
+#, c-format
+msgid "No match"
+msgstr "ﾍ褌・
+
+#: Merge.rc:2519
+#, c-format
+msgid "Invalid regular expression"
+msgstr "ﾍ裘琥蝙・・珞・韈・
+
+#: Merge.rc:2520
+#, c-format
+msgid "Invalid collation character"
+msgstr "ﾍ裘琥蝙・ⅱ裝湜 鈿瑕"
+
+#: Merge.rc:2521
+#, c-format
+msgid "Invalid character class name"
+msgstr "ﾍ裘琥蝙・鈿瑕 浯鉅籵 糅・
+
+#: Merge.rc:2522
+#, c-format
+msgid "Trailing backslash"
+msgstr "ﾇ浯・髜・・ "
+
+#: Merge.rc:2523
+#, c-format
+msgid "Invalid back reference"
+msgstr "ﾋⅹ・・襃ⅱ・
+
+#: Merge.rc:2524
+#, c-format
+msgid "Unmatched [ or [^"
+msgstr "ﾍ襃鮏褥浯 [ 齏・[^"
+
+#: Merge.rc:2525
+#, c-format
+msgid "Unmatched ( or \\("
+msgstr "ﾍ襃鮏褥浯 ( 齏・\\("
+
+#: Merge.rc:2526
+#, c-format
+msgid "Unmatched \\{"
+msgstr "ﾍ襃鮏褥浯 \\{"
+
+#: Merge.rc:2527
+#, c-format
+msgid "Invalid content of \\{\\}"
+msgstr "ﾍ裘琥蝙・蓿赳ｼ \\{\\}"
+
+#: Merge.rc:2528
+#, c-format
+msgid "Invalid range end"
+msgstr "ﾍ裘琥蝙・ⅰ・蒟ｼ籵"
+
+#: Merge.rc:2529
+#, c-format
+msgid "Out of memory"
+msgstr "ﾈ鈔瑙 ・・蝨・
+
+#: Merge.rc:2530
+#, c-format
+msgid "Invalid preceding regular expression"
+msgstr "ﾍ裘琥蝙・・褪蓖・・珞・韈・
+
+#: Merge.rc:2531
+#, c-format
+msgid "Premature end of regular expression"
+msgstr "ﾏ湜 ・狆 ・珞魲 韈鈞 "
+
+#: Merge.rc:2532
+#, c-format
+msgid "Regular expression too big"
+msgstr "ﾏ粨 韈・ｼ・・裘褄韭"
+
+#: Merge.rc:2537
+#, c-format
+msgid "Unmatched ) or \\)"
+msgstr "ﾍ褓蒹魵瑩狆・) 齏・\\)"
+
+#: Merge.rc:2543
+#, c-format
+msgid "Win"
+msgstr "Win"
+
+#: Merge.rc:2544
+#, c-format
+msgid "Mac"
+msgstr "Mac"
+
+#: Merge.rc:2545
+#, c-format
+msgid "Unix"
+msgstr "Unix"
+
+#: Merge.rc:2546
+#, c-format
+msgid "Mixed"
+msgstr "Mixed"
+
+#: Merge.rc:2548
+#, c-format
+msgid "LF"
+msgstr "LF"
+
+#: Merge.rc:2549
+#, c-format
+msgid "CR"
+msgstr "CR"
+
+#: Merge.rc:2550
+#, c-format
+msgid "CRLF"
+msgstr "CRLF"
+
+#: Merge.rc:2557
+#, c-format
+msgid " B"
+msgstr "B"
+
+#: Merge.rc:2558
+#, c-format
+msgid " KB"
+msgstr "KB"
+
+#: Merge.rc:2559
+#, c-format
+msgid " MB"
+msgstr "MB"
+
+#: Merge.rc:2560
+#, c-format
+msgid " GB"
+msgstr "GB"
+
+#: Merge.rc:2561
+#, c-format
+msgid " TB"
+msgstr "TB"
+
+#: Merge.rc:2562
+#, c-format
+msgid " PB"
+msgstr "PB"
+
+#: Merge.rc:2568
+#, c-format
+msgid "Type"
+msgstr "ﾂ"
+
+#: Merge.rc:2570
+#, c-format
+msgid "Unpacker"
+msgstr "ﾐ瑰・・籵懷"
+
+#: Merge.rc:2571
+#, c-format
+msgid "Prediffer"
+msgstr "ﾄ襁竟頌瑙・・仙懷"
+
+#: Merge.rc:2572
+#, c-format
+msgid "Editor script"
+msgstr "ﾓ占籵・・・"
+
+#: Merge.rc:2579
+#, c-format
+msgid "Save the left file"
+msgstr "ﾑ璞狆 ・糒 萵・"
+
+#: Merge.rc:2580
+#, c-format
+msgid "Save the right file"
+msgstr "ﾑ璞狆 蒟・萵・"
+
+#: Merge.rc:2581
+#, c-format
+msgid "Save the left file with name..."
+msgstr "ﾑ璞狆 ・糒 萵・  浯鉅粽・
+
+#: Merge.rc:2582
+#, c-format
+msgid "Save the right file with name..."
+msgstr "ﾑ璞狆 蒟・萵・  浯鉅粽・
+
+#: Merge.rc:2583
+#, c-format
+msgid "Change left side file/folder read-only status"
+msgstr "ﾏ・湜 ・糒 炫 萵・/韭・ ・ｼ・ｼ・・ 鈞 懷"
+
+#: Merge.rc:2584
+#, c-format
+msgid "Change right side file/folder read-only status"
+msgstr "ﾏ・湜 蒟・炫 萵・/韭・ ・ｼ・ｼ・・ 鈞 懷"
+
+#: Merge.rc:2585
+#, c-format
+msgid "Convert EOL to Windows mode"
+msgstr "ﾏ・湜 ・狆 萵 浯 Windows 浯・
+
+#: Merge.rc:2586
+#, c-format
+msgid "Convert EOL to Unix mode"
+msgstr "ﾏ・湜 ・狆 萵 浯 Unix 浯・
+
+#: Merge.rc:2587
+#, c-format
+msgid "Convert EOL to Mac mode"
+msgstr "ﾏ・湜 ・狆 萵 浯 Mac 浯・
+
+#: Merge.rc:2588
+#, c-format
+msgid "Switch between editing and merging modes"
+msgstr "ﾁ頏狆 韈・浅 蜷鞣燧・・ⅱ蜷鞣燧・
+
+#: Merge.rc:2589
+#, c-format
+msgid ""
+"View and adjust file encoding properties\n"
+"File encoding properties"
+msgstr ""
+"ﾏ・跖 ・・蒟 錡籵 ・蒻憫 萵・\n"
+"ﾑ粽ｼ籵 ・蒻憫 萵・"
+
+#: Merge.rc:2590
+#, c-format
+msgid "Open and resolve conflict file"
+msgstr "ﾎⅱ・・ ・髜・・・萵・"
+
+#: Merge.rc:2596
+#, c-format
+msgid ""
+"Select difference area in the current line\n"
+"Difference in the Current Line"
+msgstr ""
+"ﾈ鈞砒 鉈韭・・褊濵・蔘\n"
+"ﾐ珸・・ ・褊濵・蔘"
+
+#: Merge.rc:2597
+#, c-format
+msgid ""
+"Go to line or difference\n"
+"Go to (Ctrl+G)"
+msgstr ""
+"ﾈ蒻 浯 ・齏・鉈韭n"
+"ﾈ蒻 浯 (Ctrl+G)"
+
+#: Merge.rc:2598
+#, c-format
+msgid ""
+"Set program options\n"
+"Options"
+msgstr ""
+"ﾏ鮏褥・・魲・・ ・珞・\n"
+
+#: Merge.rc:2599
+#, c-format
+msgid ""
+"Refresh display\n"
+"Refresh (F5)"
+msgstr ""
+"ﾎ褂・・韭珸\n"
+"ﾎ褂・(F5)"
+
+#: Merge.rc:2600
+#, c-format
+msgid "Copy selected lines to clipboard adding linenumbers to line begin"
+msgstr "ﾓ・鮻・鮏珮淲 蒡粢 ・ⅲ糒 蒡萵ｼ・鮏 ・・碣錡裘・蒡粨・ "
+
+#: Merge.rc:2601
+#, c-format
+msgid "Refresh selected items"
+msgstr "ﾎ褂・鮏珮炫 珞・"
+
+#: Merge.rc:2602
+#, c-format
+msgid "Toggle bookmark"
+msgstr "ﾇ瑟褊・鈞砒・・
+
+#: Merge.rc:2603
+#, c-format
+msgid "Go to next bookmark"
+msgstr "ﾈ蒻 浯 裝蝙・鈞砒・・
+
+#: Merge.rc:2604
+#, c-format
+msgid "Go to previous bookmark"
+msgstr "ﾈ蒻 浯 ・褪蓖・鈞砒・・
+
+#: Merge.rc:2605
+#, c-format
+msgid "Clear all bookmarks"
+msgstr "ﾓ・・・・鈞砒・・
+
+#: Merge.rc:2611
+#, c-format
+msgid ""
+"Displays items that are exactly the same\n"
+"Show Identical Items"
+msgstr ""
+"ﾏ・銛ｼ・珞・ ・ｼ・ ・・頌\n"
+"ﾏ・跖 頌 珞・"
+
+#: Merge.rc:2612
+#, c-format
+msgid ""
+"Displays items that have differences\n"
+"Show Different Items"
+msgstr ""
+"ﾏ・銛ｼ・珞・ ・ｼ・ 鉈韭n"
+"ﾏ・跖 鉈顆頸・珞・"
+
+#: Merge.rc:2613
+#, c-format
+msgid ""
+"Displays items that exist in only on the left side\n"
+"Show Left Unique Items"
+msgstr ""
+"ﾏ・銛ｼ・珞・ ・ｼ・・錡・・ 浯 ・粽ｼ 湜\n"
+"ﾏ・跖 ・糒 ｼ裝竟粢炫 珞・"
+
+#: Merge.rc:2614
+#, c-format
+msgid ""
+"Displays items that exist in only on the right side\n"
+"Show Right Unique Items"
+msgstr ""
+"ﾏ・銛ｼ・珞・ ・ｼ・・錡・・ 浯 蒟錡 湜\n"
+"ﾏ・跖 蒟・ｼ裝竟粢炫 珞・"
+
+#: Merge.rc:2615
+#, c-format
+msgid ""
+"Displays binary files\n"
+"Show Binary Files"
+msgstr ""
+"ﾏ・銛ｼ・礪浯・萵・\n"
+"ﾏ・跖 礪浯・萵・"
+
+#: Merge.rc:2616
+#, c-format
+msgid ""
+"Displays skipped items\n"
+"Show Skipped Items"
+msgstr ""
+"ﾏ・銛ｼ・・褥・淲 珞・\n"
+"ﾏ・跖 ・褥・淲 珞・"
+
+#: Merge.rc:2622
+#, c-format
+msgid ""
+"Select the font for the view\n"
+"Select View Font"
+msgstr ""
+"ﾈ鈞砒 魵・鈞 ・韭珸\n"
+
+#: Merge.rc:2623
+#, c-format
+msgid ""
+"Revert to using the default system font for view\n"
+"Default Font"
+msgstr ""
+"ﾂ  ・・・・蓿珸裘瑙・魵・鈞 ・韭珸\n"
+"ﾏ鮏銛・籵浯 魵・"
+
+#: Merge.rc:2624
+#, c-format
+msgid "Shows whitespace characters"
+msgstr "ﾏ・銛ｼ・銕瑕・・鈿瑕魵・
+
+#: Merge.rc:2625
+#, c-format
+msgid "Toggle Diff Pane"
+msgstr "ﾇ瑟褊・淲"
+
+#: Merge.rc:2626
+#, c-format
+msgid "Location pane shows overall picture from files"
+msgstr "ﾏ鸙鮻狆 硴・・韭珸・炫 韭・・萵"
+
+#: Merge.rc:2627
+#, c-format
+msgid "Show folder compare statistics dialog"
+msgstr "ﾏ・跖 瑣頌・・仙懷 韭・"
+
+#: Merge.rc:2628
+#, c-format
+msgid ""
+"Select the current user interface language\n"
+"Language"
+msgstr ""
+"ﾈ鈞砒 籵・ｼ裼韭 壟\n"
+"｣裼韭"
+
+#: Merge.rc:2629
+#, c-format
+msgid ""
+"Shows differences inside lines with different colors\n"
+"Show Line Difference"
+msgstr ""
+"ﾏ鶴珸・鉈韭・瑩 蒡籵  鉈顆頸韲 碚ｼ瑟濬n"
+"ﾏ・跖 鉈顆頸・蒡粢"
+
+#: Merge.rc:2630
+#, c-format
+msgid "Swap the positions of the two panes"
+msgstr "ﾇ瑟褊・・・硴瑟・
+
+#: Merge.rc:2631
+#, c-format
+msgid ""
+"Shows line numbers\n"
+"Show Line Numbers"
+msgstr ""
+"ﾏ・銛ｼ・碣錡裘・蒡籵\n"
+"ﾏ・跖 碣錡裘・蒡籵"
+
+#: Merge.rc:2632
+#, c-format
+msgid ""
+"Enable word wrap\n"
+"Wrap Lines"
+msgstr ""
+"ﾎ・胚櫁 ・褄黑 ・\n"
+"ﾏ・・・濵粨 萵"
+
+#: Merge.rc:2633
+#, c-format
+msgid ""
+"Shows selection margins for both panes\n"
+"Show Selection Margins"
+msgstr ""
+"ﾏ鶴珸・韈碚・矜 鈞 髜・硴藹n"
+"ﾏ・跖 韈碚・碚籵"
+
+#: Merge.rc:2634
+#, c-format
+msgid "Increase text size"
+msgstr "ﾏ魵蝙狆 粢・炫 ・"
+
+#: Merge.rc:2635
+#, c-format
+msgid "Decrease text size"
+msgstr "ﾓ・懆 粢・炫 ・"
+
+#: Merge.rc:2636
+#, c-format
+msgid "Reset text zoom to default size"
+msgstr "ﾈ鈔ⅱ浯 粢・浯 ・"
+
+#: Merge.rc:2642
+#, c-format
+msgid ""
+"Scroll to the previous difference\n"
+"Previous Difference (Alt+Up)"
+msgstr ""
+"ﾏ黑褞・蒡 ・褪蓖・鉈韭藹n"
+"ﾏ鮏浯 鉈韭・(Alt+Up)"
+
+#: Merge.rc:2643
+#, c-format
+msgid ""
+"Scroll to the next difference\n"
+"Next Difference (Alt+Down)"
+msgstr ""
+"ﾏ黑褞・蒡 裝蝙・鉈韭藹n"
+"ﾑ・蒟樅 鉈韭・(Alt+Down)"
+
+#: Merge.rc:2644
+#, c-format
+msgid ""
+"Scroll to the first difference\n"
+"First Difference (Alt+Home)"
+msgstr ""
+"ﾏ黑褞・蒡 ・粢 鉈韭藹n"
+"ﾏ・鉈韭・Alt+Home)"
+
+#: Merge.rc:2645
+#, c-format
+msgid ""
+"Scroll to the current difference\n"
+"Current Difference (Alt+Enter)"
+msgstr ""
+"ﾏ黑褞・蒡 褊淲 鉈韭藹n"
+"ﾒ炫・鉈韭・(Alt+Enter)"
+
+#: Merge.rc:2646
+#, c-format
+msgid ""
+"Scroll to the last difference\n"
+"Last Difference (Alt+End)"
+msgstr ""
+"ﾏ黑褞・蒡 裝蝙・鉈韭藹n"
+"ﾏⅲ・苜・鉈韭・(Alt+End)"
+
+#: Merge.rc:2647
+#, c-format
+msgid ""
+"Copy the selected text to the right file\n"
+"Copy Right (Alt+Right)"
+msgstr ""
+"ﾓ・鮻・鰀浯湜 ・・・蒟・萵・\n"
+"ﾓ・鮻・・蒟・(Alt+Right)"
+
+#: Merge.rc:2648
+#, c-format
+msgid ""
+"Copy the selected text to the left file\n"
+"Copy Left (Alt+Left)"
+msgstr ""
+"ﾓ・鮻・鰀浯湜 ・・・・糒 萵・\n"
+"ﾓ・鮻・・・糒 (Alt+Left)"
+
+#: Merge.rc:2649
+#, c-format
+msgid ""
+"Copy difference to right and advance to next\n"
+"Copy Right and Advance (Ctrl+Alt+Right)"
+msgstr ""
+"ﾓ・鮻・鉈韭・・蒟・・・蜷・浯 裝蝙藹n"
+"ﾓ・鮻・・蒟・・浯珞・(Ctrl+Alt+Right)"
+
+#: Merge.rc:2650
+#, c-format
+msgid ""
+"Copy difference to left and advance to next\n"
+"Copy Left and Advance (Ctrl+Alt+Left)"
+msgstr ""
+"ﾓ・鮻・鉈韭・・・糒 ・・蜷・浯 裝蝙藹n"
+"ﾓ・鮻・・・糒 ・浯珞・(Ctrl+Alt+Left)"
+
+#: Merge.rc:2651
+#, c-format
+msgid ""
+"Copy all differences to the right file\n"
+"All Right"
+msgstr ""
+"ﾓ・鮻・・鉈韭・・蒟・萵・\n"
+
+#: Merge.rc:2652
+#, c-format
+msgid ""
+"Copy all differences to the left file\n"
+"All Left"
+msgstr ""
+"ﾓ・鮻・・鉈韭・・・糒 萵・\n"
+"ﾑ粢 ・・糒"
+
+#: Merge.rc:2653
+#, c-format
+msgid "Delete selected items from both directories"
+msgstr "ﾈ釿 韈珮淲 珞・ 韈 髜・韭・"
+
+#: Merge.rc:2654
+#, c-format
+msgid "Compare selected item (compare first item if multiple items selected)"
+msgstr "ﾓ・蒻 鰀浯淲 珞・ (ⅱ裝頸・・粢 珞・, 瑕・ｼ・粨 珞・ 鮏珮濵)"
+
+#: Merge.rc:2660
+#, c-format
+msgid "Select and reorder directory compare columns"
+msgstr "ﾈ釿ⅱ ・銕褸ｼ 韭・ ・褌・ⅱ蜷褊韲 ・"
+
+#: Merge.rc:2661
+#, c-format
+msgid "Generate a patch-file"
+msgstr "ﾏ粨 ・・珞・ 萵・ "
+
+#: Merge.rc:2662
+#, c-format
+msgid "Select and modify filters"
+msgstr "ﾈ鈞砒 ・・黑褊頸・・褞・
+
+#: Merge.rc:2663
+#, c-format
+msgid "Generates a report from compare results"
+msgstr "ﾏ粨 韈粢狆・・仙憫 "
+
+#: Merge.rc:2669
+#, c-format
+msgid "Shows a list of available plugins"
+msgstr "ﾏ・銛ｼ・頌瑕 蒡湜・蒡萵・"
+
+#: Merge.rc:2670
+#, c-format
+msgid "The user selects the unpacker (no unpacking when comparing dir)"
+msgstr "ﾊⅱ頌湜・礪 瑕鞣燧・(淲 瑕 ・・ ⅱ蜷・韭・)"
+
+#: Merge.rc:2671
+#, c-format
+msgid "The adapted unpacker is applied to both files (one file only needs the extension)"
+msgstr "ﾏ・胛仙濵 瑕鞣燧・槫  ・頸・鈞 髜・萵・ (ｼ裝浯 萵・ 裔・浯珞瑕)"
+
+#: Merge.rc:2672
+#, c-format
+msgid "Select an unpacker to edit this file"
+msgstr "ﾈ鈞砒 瑩粢・萵 ・黑褊頸・魵・萵・"
+
+#: Merge.rc:2673
+#, c-format
+msgid "No prediffer (normal)"
+msgstr "ﾍ褌・蒟湜濵・・仙憫 (礪ｼ褊・"
+
+#: Merge.rc:2674
+#, c-format
+msgid "Suggested plugins"
+msgstr "ﾏ・湜 蒡萵"
+
+#: Merge.rc:2675
+#, c-format
+msgid "Other plugins"
+msgstr "ﾎ琿・蒡萵"
+
+#: Merge.rc:2676
+#, c-format
+msgid "Unload all plugins and reload them (for developers)"
+msgstr "ﾓ・・・・・濵粽 頸狆 ・蒡萵・(鈞 浯・裝淲)"
+
+#: Merge.rc:2682
+#, c-format
+msgid ""
+"Activates next visible file\n"
+"Activate next File"
+msgstr "ﾏ鶴湜 裝蝙・粨苞鞣・萵・"
+
+#: Merge.rc:2683
+#, c-format
+msgid "Closes all open windows"
+msgstr "ﾇ瑣粽 ・・鰀ⅱ・
+
+#: Merge.rc:2689
+#, c-format
+msgid ""
+"Opens the WinMerge Help\n"
+"WinMerge Help"
+msgstr ""
+"ﾎ瑩・WinMerge ・・杤n"
+"WinMerge /・・・"
+
+#: Merge.rc:2690
+#, c-format
+msgid "Outputs current WinMerge version info and configuration to text file"
+msgstr "ﾈ鉈珸・髜珞褸懷 ・褊濵・韈萵懽 WinMerge-・・・蒟濵・・・琿濵ｼ 萵"
+
+#: Merge.rc:2691
+#, c-format
+msgid "Display the GNU General Public License"
+msgstr "ﾏ・・GNU ｼ珞淲 ・煜・
+
+#: Merge.rc:2692
+#, c-format
+msgid "Private Build: %1"
+msgstr "ﾋ顆浯 韈萵: %1"
+
+#: Merge.rc:2693
+#, c-format
+msgid ""
+"Opens the release notes document\n"
+"Release Notes"
+msgstr ""
+"ﾎ瑩・砒・・・韈萵懽 蒡・・炅a\n"
+"ﾁ褄褸・ ・韈萵懽"
+
+#: Merge.rc:2694
+#, c-format
+msgid ""
+"Opens the translations website\n"
+"Translations"
+msgstr ""
+"ﾎⅱ・粢・ｼ・・裘鮏濬n"
+"ﾏ粽蒻"
+
+#: Merge.rc:2700
+#, c-format
+msgid "Plugin Settings"
+msgstr "ﾏ鮏褸珞燧・蒡萵・"
+
+#: Merge.rc:2701
+#, c-format
+msgid "No prediffer"
+msgstr "ﾍ褌・蒟湜濵・・仙憫"
+
+#: Merge.rc:2702
+#, c-format
+msgid "Prediff if possible"
+msgstr "ﾄ襁竟顏・・仙懷,瑕・ｼ・・胚槫"
+
+#: Merge.rc:2704
+#, c-format
+msgid "WSH not found - .sct scripts disabled"
+msgstr "WSH 湜ｼ・浯仙・- .sct ・・ ・褌魲褊・
+
+#: Merge.rc:2705
+#, c-format
+msgid "<None>"
+msgstr "<ﾍ顏>"
+
+#: Merge.rc:2706
+#, c-format
+msgid "<Automatic>"
+msgstr "<ﾀ黑瑣・"
+
+#: Merge.rc:2712
+#, c-format
+msgid "Open the file with registered application"
+msgstr "ﾎⅱ・萵・  肛籵湜・・魲・・
+
+#: Merge.rc:2713
+#, c-format
+msgid "Open the file with external editor"
+msgstr "ﾎⅱ・萵・  蓿韲 蜷鞣璞褌"
+
+#: Merge.rc:2714
+#, c-format
+msgid "Open the file with a particular program"
+msgstr "ﾎⅱ・萵・  ・硼韲 ・魲・・
+
+#: Merge.rc:2720
+#, c-format
+msgid "Do not display moved blocks"
+msgstr "ﾍ・・韭珸 ・褌褸淲 胙・
+
+#: Merge.rc:2721
+#, c-format
+msgid "Display all moved blocks"
+msgstr "ﾏ・跖 ・・褌褸淲 胙・
+
+#: Merge.rc:2722
+#, c-format
+msgid "Display moved blocks only from current diff"
+msgstr "ﾏ・跖 ・褌褸淲 胙・・ 褊湜・鉈韭・
+
+#: Merge.rc:2723
+#, c-format
+msgid "Go to diff under cursor"
+msgstr "ﾈ蒻 浯 鉈韭・・・/・・鉅籵・"
+
+#: Merge.rc:2724
+#, c-format
+msgid "G&oto Diff %1 of %2"
+msgstr "ﾈ&蒻 浯 鉈韭・%1 鮏 %2"
+
+#: Merge.rc:2725
+#, c-format
+msgid "G&oto Line %1"
+msgstr "ﾈ&蒻 浯 ・%1"
+
+#: Merge.rc:2731
+#, c-format
+msgid "Disabled"
+msgstr "ﾎ淲・胚櫁"
+
+#: Merge.rc:2732
+#, c-format
+msgid "From file system"
+msgstr "ﾎ・褌・
+
+#: Merge.rc:2733
+#, c-format
+msgid "From MRU list"
+msgstr "ﾈ・MRU 頌・"
+
+#: Merge.rc:2739
+#, c-format
+msgid "No Highlighting"
+msgstr "ﾍ霈・鰀浯濵"
+
+#: Merge.rc:2740
+#, c-format
+msgid "ASP"
+msgstr "ASP"
+
+#: Merge.rc:2741
+#, c-format
+msgid "Basic"
+msgstr "Basic"
+
+#: Merge.rc:2742
+#, c-format
+msgid "Batch"
+msgstr "Batch"
+
+#: Merge.rc:2743
+#, c-format
+msgid "C/C++"
+msgstr "C/C++"
+
+#: Merge.rc:2744
+#, c-format
+msgid "C#"
+msgstr "C#"
+
+#: Merge.rc:2745
+#, c-format
+msgid "CSS"
+msgstr "CSS"
+
+#: Merge.rc:2746
+#, c-format
+msgid "DCL"
+msgstr "DCL"
+
+#: Merge.rc:2747
+#, c-format
+msgid "Fortran"
+msgstr "Fortran"
+
+#: Merge.rc:2748
+#, c-format
+msgid "HTML"
+msgstr "HTML"
+
+#: Merge.rc:2749
+#, c-format
+msgid "INI"
+msgstr "INI"
+
+#: Merge.rc:2750
+#, c-format
+msgid "InnoSetup"
+msgstr "InnoSetup"
+
+#: Merge.rc:2751
+#, c-format
+msgid "InstallShield"
+msgstr "InstallShield"
+
+#: Merge.rc:2752
+#, c-format
+msgid "Java"
+msgstr "Java"
+
+#: Merge.rc:2753
+#, c-format
+msgid "AutoLISP"
+msgstr "AutoLISP"
+
+#: Merge.rc:2754
+#, c-format
+msgid "NSIS"
+msgstr "NSIS"
+
+#: Merge.rc:2755
+#, c-format
+msgid "Pascal"
+msgstr "Pascal"
+
+#: Merge.rc:2756
+#, c-format
+msgid "Perl"
+msgstr "Perl"
+
+#: Merge.rc:2757
+#, c-format
+msgid "PHP"
+msgstr "PHP"
+
+#: Merge.rc:2758
+#, c-format
+msgid "Portable Object"
+msgstr "ﾏ濵・髜ｼ裲瑣"
+
+#: Merge.rc:2759
+#, c-format
+msgid "PowerShell"
+msgstr "PowerShell"
+
+#: Merge.rc:2760
+#, c-format
+msgid "Python"
+msgstr "Python"
+
+#: Merge.rc:2761
+#, c-format
+msgid "REXX"
+msgstr "REXX"
+
+#: Merge.rc:2762
+#, c-format
+msgid "Resources"
+msgstr "Resources"
+
+#: Merge.rc:2763
+#, c-format
+msgid "Ruby"
+msgstr "Ruby"
+
+#: Merge.rc:2764
+#, c-format
+msgid "SGML"
+msgstr "SGML"
+
+#: Merge.rc:2765
+#, c-format
+msgid "Shell"
+msgstr "Shell"
+
+#: Merge.rc:2766
+#, c-format
+msgid "SIOD"
+msgstr "SIOD"
+
+#: Merge.rc:2767
+#, c-format
+msgid "SQL"
+msgstr "SQL"
+
+#: Merge.rc:2768
+#, c-format
+msgid "TCL"
+msgstr "TCL"
+
+#: Merge.rc:2769
+#, c-format
+msgid "TEX"
+msgstr "TEX"
+
+#: Merge.rc:2770
+#, c-format
+msgid "Verilog"
+msgstr "Verilog"
+
+#: Merge.rc:2771
+#, c-format
+msgid "XML"
+msgstr "XML"
+
+#: Merge.rc:2776
+#, c-format
+msgid "Hide the toolbar"
+msgstr "ﾑ瑕ｼ 瑕・琿瑣・
+
+#: Merge.rc:2777
+#, c-format
+msgid "Show small toolbar"
+msgstr "ﾌ琿・韭・・瑕・琿瑣・
+
+#: Merge.rc:2778
+#, c-format
+msgid "Show big toolbar"
+msgstr "ﾂ褄韭・韭・・瑕・琿瑣・
+

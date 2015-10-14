@@ -69,7 +69,7 @@ msgstr "&Uveljavi"
 #: Merge.rc:102
 #, c-format
 msgid "Cu&t"
-msgstr "Izre&i"
+msgstr "IzreEi"
 
 #: Merge.rc:81
 #: Merge.rc:103
@@ -403,7 +403,7 @@ msgstr "&Kaskadna okna"
 #: Merge.rc:1943
 #, c-format
 msgid "&Help"
-msgstr "&Pomoè"
+msgstr "&PomoE
 
 #: Merge.rc:180
 #: Merge.rc:301
@@ -1200,7 +1200,7 @@ msgstr "Preklièi"
 #: Merge.rc:1330
 #, c-format
 msgid "Help"
-msgstr "Pomoè"
+msgstr "PomoE
 
 #: Merge.rc:712
 #, c-format
@@ -1594,7 +1594,7 @@ msgstr "Sistem"
 #: Merge.rc:1000
 #, c-format
 msgid "&Send deleted files to Recycle Bin"
-msgstr "&Premakni izbrisane datoteke v koš"
+msgstr "&Premakni izbrisane datoteke v koE
 
 #: Merge.rc:1002
 #, c-format
@@ -2153,7 +2153,7 @@ msgid ""
 "(You can always recall this message from the Help menu.)"
 msgstr ""
 "Ne prikai ponovno tega sporoèila.\n"
-"(Vedno lahko dostopate do tega sporoèila iz menija pomoè.)"
+"(Vedno lahko dostopate do tega sporoèila iz menija pomoE)"
 
 #: Merge.rc:1316
 #, c-format
@@ -3184,7 +3184,7 @@ msgstr ""
 #: Merge.rc:1919
 #, c-format
 msgid "WinMerge comes with ABSOLUTELY NO WARRANTY. This is free software and you are welcome to redistribute it under certain circumstances; see the GNU General Public License in the Help menu for details."
-msgstr "WinMerge prihaja POPOLNOMA BREZ GARANCIJE. To je brezplaèna programska oprema, dobrodošli ste za njeno razširjanje pod doloèenimi pogoji, veè v GNU licenci v meniju Pomoè."
+msgstr "WinMerge prihaja POPOLNOMA BREZ GARANCIJE. To je brezplaèna programska oprema, dobrodošli ste za njeno razširjanje pod doloèenimi pogoji, veEv GNU licenci v meniju PomoE"
 
 #: Merge.rc:1925
 #, c-format
@@ -3249,12 +3249,12 @@ msgstr "Preskoèi &vse"
 #: Merge.rc:1944
 #, c-format
 msgid "Don't display this &message again."
-msgstr "Tega sporoèila ne kai veè."
+msgstr "Tega sporoèila ne kai veE"
 
 #: Merge.rc:1945
 #, c-format
 msgid "Don't ask this &question again."
-msgstr "Tega vprašanja ne postavi veè."
+msgstr "Tega vprašanja ne postavi veE"
 
 #: Merge.rc:1956
 #, c-format
@@ -3909,7 +3909,7 @@ msgid ""
 msgstr ""
 "Drug program je posodobil datoteko\n"
 "%1\n"
-"odkar jo je WinMerge pregledal zadnjiè.\n"
+"odkar jo je WinMerge pregledal zadnjiE\n"
 "\n"
 "Ali elite posodobljeno ponovno naloiti?"
 
@@ -3932,7 +3932,7 @@ msgid ""
 msgstr ""
 "Datoteke\n"
 "%1\n"
-"ne najdem veè. Prosim shranite kopijo datoteke za nadaljevanje."
+"ne najdem veE Prosim shranite kopijo datoteke za nadaljevanje."
 
 #: Merge.rc:2177
 #, c-format
@@ -4746,7 +4746,7 @@ msgstr ""
 #: Merge.rc:2435
 #, c-format
 msgid "An error occurred while prediffing the file '%1' with the plugin '%2'. The prediffing is not applied any more."
-msgstr "Pojavila se je napaka med predpregledom razlik datoteke '%1' z razširitvijo '%2'. Predpregled razlik se ne bo veè izvajal."
+msgstr "Pojavila se je napaka med predpregledom razlik datoteke '%1' z razširitvijo '%2'. Predpregled razlik se ne bo veEizvajal."
 
 #: Merge.rc:2436
 #, c-format
@@ -4939,7 +4939,7 @@ msgid ""
 msgstr ""
 "Delo z arhivskimi datotekami ni omogoèeno.\n"
 "Vseh potrebnih komponent (7-zip in/ali Merge7z*.dll) za to ne morem najti.\n"
-"Za veè informacij poglejte v rubriko pomoè o podpori arhivskih datotek in kako jo omogoèiti."
+"Za veEinformacij poglejte v rubriko pomoEo podpori arhivskih datotek in kako jo omogoèiti."
 
 #: Merge.rc:2503
 #, c-format
@@ -5564,7 +5564,7 @@ msgstr "Izbriši izbrane predmete iz obeh map"
 #: Merge.rc:2654
 #, c-format
 msgid "Compare selected item (compare first item if multiple items selected)"
-msgstr "Primerjaj izbrane predmete (primerjaj prvega, èe jih je izbranih veè)"
+msgstr "Primerjaj izbrane predmete (primerjaj prvega, èe jih je izbranih veE"
 
 #: Merge.rc:2660
 #, c-format
@@ -5647,7 +5647,6 @@ msgid ""
 "WinMerge Help"
 msgstr ""
 "Odpre WinMerge Pomoè\n"
-"WinMerge Pomoè"
 
 #: Merge.rc:2690
 #, c-format
@@ -5705,7 +5704,7 @@ msgstr "WSH ni najden - .sct skripte onemogoèene"
 #: Merge.rc:2705
 #, c-format
 msgid "<None>"
-msgstr "<Niè>"
+msgstr "<NiE"
 
 #: Merge.rc:2706
 #, c-format

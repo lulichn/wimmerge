@@ -55,7 +55,7 @@ msgstr "Copiar al lado &izquierdo"
 #: Merge.rc:75
 #, c-format
 msgid "&Select Line Difference"
-msgstr "&Seleccionar dif. de línea"
+msgstr "&Seleccionar dif. de lú‹ea"
 
 #: Merge.rc:77
 #, c-format
@@ -532,7 +532,7 @@ msgstr "&Contraer Todas las Subcarpetas"
 #: Merge.rc:242
 #, c-format
 msgid "Compa&re Statistics"
-msgstr "Estadísticas de &comparación"
+msgstr "Estadúticas de &comparación"
 
 #: Merge.rc:246
 #: Merge.rc:429
@@ -660,7 +660,7 @@ msgstr "&Vista preliminar"
 #: Merge.rc:343
 #, c-format
 msgid "&Convert Line Endings to"
-msgstr "&Convertir Saltos de Línea a"
+msgstr "&Convertir Saltos de Lú‹ea a"
 
 #: Merge.rc:345
 #, c-format
@@ -715,7 +715,7 @@ msgstr "&Pegar\tCtrl+V"
 #: Merge.rc:365
 #, c-format
 msgid "Select Line &Difference\tF4"
-msgstr "Seleccionar dif. de &línea\tF4"
+msgstr "Seleccionar dif. de &lú‹ea\tF4"
 
 #: Merge.rc:368
 #, c-format
@@ -736,7 +736,7 @@ msgstr "Scri&pts"
 #: Merge.rc:2703
 #, c-format
 msgid "< Empty >"
-msgstr "< Vacío >"
+msgstr "< VacúŒ >"
 
 #: Merge.rc:376
 #, c-format
@@ -746,7 +746,7 @@ msgstr "A&vanzado"
 #: Merge.rc:378
 #, c-format
 msgid "&Copy With Line Numbers\tCtrl+Shift+C"
-msgstr "&Copiar con Números de Línea\tCtrl+Shift+C"
+msgstr "&Copiar con Números de Lú‹ea\tCtrl+Shift+C"
 
 #: Merge.rc:381
 #, c-format
@@ -817,12 +817,12 @@ msgstr "Mostrar &espacios"
 #: Merge.rc:409
 #, c-format
 msgid "Vie&w Line Differences"
-msgstr "Mostrar diferencias de &línea"
+msgstr "Mostrar diferencias de &lú‹ea"
 
 #: Merge.rc:410
 #, c-format
 msgid "View Line &Numbers"
-msgstr "Ver &números de línea"
+msgstr "Ver &números de lú‹ea"
 
 #: Merge.rc:411
 #, c-format
@@ -832,7 +832,7 @@ msgstr "Ver &márgenes"
 #: Merge.rc:412
 #, c-format
 msgid "W&rap Lines"
-msgstr "&Ajuste de línea"
+msgstr "&Ajuste de lú‹ea"
 
 #: Merge.rc:414
 #, c-format
@@ -1485,17 +1485,17 @@ msgstr "Proteger después de desproteger"
 #: Merge.rc:887
 #, c-format
 msgid "Linefilters"
-msgstr "Filtros de línea"
+msgstr "Filtros de lú‹ea"
 
 #: Merge.rc:890
 #, c-format
 msgid "Enable Line Filters"
-msgstr "Permitir filtros de línea"
+msgstr "Permitir filtros de lú‹ea"
 
 #: Merge.rc:893
 #, c-format
 msgid "Regular Expressions (one per line):"
-msgstr "Expresiones regulares (una por línea):"
+msgstr "Expresiones regulares (una por lú‹ea):"
 
 #: Merge.rc:898
 #, c-format
@@ -1704,7 +1704,7 @@ msgstr "Ig&norar todos"
 #: Merge.rc:1052
 #, c-format
 msgid "Ignor&e blank lines"
-msgstr "Ignorar lín&eas en blanco"
+msgstr "Ignorar lú‹&eas en blanco"
 
 #: Merge.rc:1054
 #, c-format
@@ -1714,7 +1714,7 @@ msgstr "Coincidir MA&Y./min."
 #: Merge.rc:1056
 #, c-format
 msgid "Inclu&de command line"
-msgstr "Incluir línea de coman&do"
+msgstr "Incluir lú‹ea de coman&do"
 
 #: Merge.rc:1058
 #, c-format
@@ -1810,7 +1810,7 @@ msgstr "Objetivo"
 #: Merge.rc:1147
 #, c-format
 msgid "Li&ne"
-msgstr "Lí&nea"
+msgstr "LEnea"
 
 #: Merge.rc:1149
 #, c-format
@@ -1851,7 +1851,7 @@ msgstr "I&gnorar todos"
 #: Merge.rc:1164
 #, c-format
 msgid "Ignore blan&k lines"
-msgstr "Ignorar diferencias de líneas &vacías"
+msgstr "Ignorar diferencias de lú‹eas &vacú}s"
 
 #: Merge.rc:1165
 #, c-format
@@ -1861,17 +1861,17 @@ msgstr "Ignorar MAYÚSCULAS/minús&culas"
 #: Merge.rc:1166
 #, c-format
 msgid "Igno&re carriage return differences (Windows/Unix/Mac)"
-msgstr "Igno&rar saltos de línea diferentes (Windows/Unix/Mac)"
+msgstr "Igno&rar saltos de lú‹ea diferentes (Windows/Unix/Mac)"
 
 #: Merge.rc:1168
 #, c-format
 msgid "E&nable moved block detection"
-msgstr "Habilitar detecció&n de bloques movidos"
+msgstr "Habilitar detecciEn de bloques movidos"
 
 #: Merge.rc:1169
 #, c-format
 msgid "&Match similar lines"
-msgstr "Co&mbinar con líneas similares"
+msgstr "Co&mbinar con lú‹eas similares"
 
 #: Merge.rc:1171
 #, c-format
@@ -1922,12 +1922,12 @@ msgstr "Insertar e&spacios"
 #: Merge.rc:1194
 #, c-format
 msgid "Line Difference Coloring"
-msgstr "Coloración de las diferencias de línea"
+msgstr "Coloración de las diferencias de lú‹ea"
 
 #: Merge.rc:1196
 #, c-format
 msgid "View line differences"
-msgstr "Ver diferencias de línea"
+msgstr "Ver diferencias de lú‹ea"
 
 #: Merge.rc:1198
 #, c-format
@@ -2167,7 +2167,7 @@ msgid ""
 "(You can always recall this message from the Help menu.)"
 msgstr ""
 "No mostrar este &mensaje de nuevo.\n"
-"(Puede volver a mostrar éste mensaje desde el menú Ayuda.)"
+"(Puede volver a mostrar éste mensaje desde el menEAyuda.)"
 
 #: Merge.rc:1316
 #, c-format
@@ -2182,7 +2182,7 @@ msgstr "Configuración"
 #: Merge.rc:1336
 #, c-format
 msgid " Categories"
-msgstr " Categorías"
+msgstr " Categorú}s"
 
 #: Merge.rc:1338
 #, c-format
@@ -2288,7 +2288,7 @@ msgstr "Filtro Compartido o Privado"
 #: Merge.rc:1429
 #, c-format
 msgid "Which type of filter do you want to create?"
-msgstr "¿Qué tipo de filtro quiere crear?"
+msgstr "¿QuEtipo de filtro quiere crear?"
 
 #: Merge.rc:1431
 #, c-format
@@ -2324,7 +2324,7 @@ msgstr "Habilitar soport&e de archivos"
 #: Merge.rc:1449
 #, c-format
 msgid "&Use stand-alone 7-Zip if available"
-msgstr "&Utilizar 7-Zip en solitario si está disponible"
+msgstr "&Utilizar 7-Zip en solitario si estEdisponible"
 
 #: Merge.rc:1452
 #, c-format
@@ -2339,7 +2339,7 @@ msgstr "&Detectar tipo de archivo por su firma"
 #: Merge.rc:1462
 #, c-format
 msgid "Compare Statistics"
-msgstr "Estadísticas de comparación"
+msgstr "Estadúticas de comparación"
 
 #: Merge.rc:1465
 #, c-format
@@ -2520,7 +2520,7 @@ msgstr "Sól&o lectura"
 #: Merge.rc:1593
 #, c-format
 msgid "Re&ad-only"
-msgstr "Só&lo lectura"
+msgstr "SElo lectura"
 
 #: Merge.rc:1599
 #, c-format
@@ -2582,7 +2582,7 @@ msgstr "Confirmar copia"
 #: Merge.rc:1634
 #, c-format
 msgid "Are you sure you want to copy XXX items?"
-msgstr "¿Está seguro que quiere copiar XXX elementos?"
+msgstr "¿EstEseguro que quiere copiar XXX elementos?"
 
 #: Merge.rc:1636
 #, c-format
@@ -2597,7 +2597,7 @@ msgstr "A la Derecha"
 #: Merge.rc:1642
 #, c-format
 msgid "Yes"
-msgstr "Sí"
+msgstr "SE
 
 #: Merge.rc:1643
 #, c-format
@@ -2628,7 +2628,7 @@ msgstr "Explorador"
 #: Merge.rc:1667
 #, c-format
 msgid "E&nable advanced menu"
-msgstr "Habilitar menú ava&nzado"
+msgstr "Habilitar menEava&nzado"
 
 #: Merge.rc:1669
 #, c-format
@@ -2638,7 +2638,7 @@ msgstr "In&cluir subcarpetas por defecto"
 #: Merge.rc:1671
 #, c-format
 msgid "&Add to context menu"
-msgstr "&Agregar al menú contextual"
+msgstr "&Agregar al menEcontextual"
 
 #: Merge.rc:1673
 #, c-format
@@ -2648,7 +2648,7 @@ msgstr "Comparación de carpeta"
 #: Merge.rc:1674
 #, c-format
 msgid "Add &Shell menu to context menu"
-msgstr "&Agregar al menú contextual del explorador."
+msgstr "&Agregar al menEcontextual del explorador."
 
 #: Merge.rc:1681
 #: Merge.rc:1965
@@ -2680,7 +2680,7 @@ msgstr ""
 #: Merge.rc:1692
 #, c-format
 msgid "&Quick compare limit (MB):"
-msgstr "Comparación &Rápida límite (MB):"
+msgstr "Comparación &Rápida lúŠite (MB):"
 
 #. StringFileInfo.Block
 #: Merge.rc:1718
@@ -2735,7 +2735,7 @@ msgid ""
 "Create empty documents\n"
 "New Documents (Ctrl+N)"
 msgstr ""
-"Crear documentos vacíos\n"
+"Crear documentos vacúŒs\n"
 "Nuevo Documento (Ctrl+N)"
 
 #: Merge.rc:1767
@@ -2879,7 +2879,7 @@ msgid ""
 "Display program information, version number and copyright\n"
 "About"
 msgstr ""
-"Muestra informacíon de la aplicación, versión, y copyright\n"
+"Muestra informacúŒn de la aplicación, versión, y copyright\n"
 "Acerca de WinMerge"
 
 #: Merge.rc:1800
@@ -3207,7 +3207,7 @@ msgid ""
 msgstr ""
 "Winmerge no concede ABSOLUTAMENTE NINGUNA GARANTÍA. Es software libre, y "
 "puede ser redistribuido bajo ciertas reglas. Vea la Licencia Pública GNU en "
-"el menú Ayuda para más detalles."
+"el menEAyuda para más detalles."
 
 #: Merge.rc:1925
 #, c-format
@@ -3237,12 +3237,12 @@ msgstr "Ignor&ar todos"
 #: Merge.rc:1931
 #, c-format
 msgid "&Yes"
-msgstr "&Sí"
+msgstr "&SE
 
 #: Merge.rc:1937
 #, c-format
 msgid "Yes to &all"
-msgstr "Sí a to&do"
+msgstr "SEa to&do"
 
 #: Merge.rc:1938
 #, c-format
@@ -3361,7 +3361,7 @@ msgid ""
 "The selected font change will not be applied to any currently visible "
 "difference windows."
 msgstr ""
-"La fuente seleccionada no se aplicará a ninguna de las ventanas de "
+"La fuente seleccionada no se aplicarEa ninguna de las ventanas de "
 "diferencias abiertas actualmente."
 
 #: Merge.rc:1995
@@ -3371,7 +3371,7 @@ msgid ""
 "\n"
 "Please use values 1 - %1."
 msgstr ""
-"Valor en Tamaño de Tab - el valor no está en el rango aceptado por "
+"Valor en Tamaño de Tab - el valor no estEen el rango aceptado por "
 "WinMerge.\n"
 "\n"
 "Por favor, utilice valores 1 - %1."
@@ -3550,7 +3550,7 @@ msgid ""
 "\n"
 "Please select filter folder in Options/System."
 msgstr ""
-"¡La carpeta de filtos de usuario no está definida!\n"
+"¡La carpeta de filtos de usuario no estEdefinida!\n"
 "\n"
 "Por favor, seleccione la carpeta de filtros en Configuración/Sistema."
 
@@ -3625,12 +3625,12 @@ msgstr "Comparación de archivos"
 #: Merge.rc:2087
 #, c-format
 msgid "Untitled left"
-msgstr "Sin título izquierda"
+msgstr "Sin tú‘ulo izquierda"
 
 #: Merge.rc:2088
 #, c-format
 msgid "Untitled right"
-msgstr "Sin título derecha"
+msgstr "Sin tú‘ulo derecha"
 
 #: Merge.rc:2089
 #, c-format
@@ -3710,7 +3710,7 @@ msgstr "Ln: %s  Col: %d/%d  Ch: %d/%d  EOL: %s"
 #: Merge.rc:2114
 #, c-format
 msgid "Line: %s"
-msgstr "Línea: %s"
+msgstr "Lú‹ea: %s"
 
 #: Merge.rc:2115
 #, c-format
@@ -3819,7 +3819,7 @@ msgstr ""
 #: Merge.rc:2149
 #, c-format
 msgid "Failed to parse conflict file."
-msgstr "Falló al corregir archivo conflictivo."
+msgstr "FallEal corregir archivo conflictivo."
 
 #: Merge.rc:2150
 #, c-format
@@ -3903,7 +3903,7 @@ msgstr ""
 "El Plugin '%2' no pudo empaquetar sus cambios al archivo de la izquierda en "
 "'%1'.\n"
 "\n"
-"El archivo original no será cambiado.\n"
+"El archivo original no serEcambiado.\n"
 "\n"
 "¿Desea guardar la versión sin empaquetar en otro archivo?"
 
@@ -3919,7 +3919,7 @@ msgstr ""
 "El Plugin '%2' no pudo empaquetar sus cambios al archivo de la derecha en "
 "'%1'.\n"
 "\n"
-"El archivo original no será cambiado.\n"
+"El archivo original no serEcambiado.\n"
 "\n"
 "¿Desea guardar la versión sin empaquetar en otro archivo?"
 
@@ -3934,7 +3934,7 @@ msgid ""
 msgstr ""
 "Otra aplicación ha actualizado el archivo\n"
 "%1\n"
-"desde que WinMerge lo cargó.\n"
+"desde que WinMerge lo cargE\n"
 "\n"
 "¿Desea sobreescribir el archivo cambiado?"
 
@@ -3958,7 +3958,7 @@ msgid ""
 msgstr ""
 "Otra aplicación ha actualizado el archivo\n"
 "%1\n"
-"desde que WinMerge lo escaneó por última vez.\n"
+"desde que WinMerge lo escaneEpor última vez.\n"
 "\n"
 "¿Desea recargar el archivo?"
 
@@ -4015,7 +4015,7 @@ msgid ""
 "Versioning System returned an error while attempting to check out the file.  "
 "Unable to continue..."
 msgstr ""
-"El sistema de versionado devolvío un error mientras trataba de desproteger "
+"El sistema de versionado devolvúŒ un error mientras trataba de desproteger "
 "el archivo.  Imposible continuar..."
 
 #: Merge.rc:2186
@@ -4049,7 +4049,7 @@ msgid ""
 " Please, check config spec of used view.\n"
 " Undo checkout operation?"
 msgstr ""
-"El sistema de versionado devolvió un error cuando se intentaba proteger el "
+"El sistema de versionado devolviEun error cuando se intentaba proteger el "
 "archivo.\n"
 " Por favor, compruebe la configuración de la vista utilizada.\n"
 " ¿Desea deshacer la desprotección?"
@@ -4061,7 +4061,7 @@ msgid ""
 "file.\n"
 " Please, check config spec of used view. "
 msgstr ""
-"El sistema de versionado devolvió un error cuando se intentaba deshacer la "
+"El sistema de versionado devolviEun error cuando se intentaba deshacer la "
 "desprotección del archivo.\n"
 " Por favor, compruebe la configuración de la vista utilizada. "
 
@@ -4234,19 +4234,19 @@ msgid ""
 "\n"
 "%1 ?"
 msgstr ""
-"¿Está seguro de que desea eliminar\n"
+"¿EstEseguro de que desea eliminar\n"
 "\n"
 "%1 ?"
 
 #: Merge.rc:2251
 #, c-format
 msgid "Are you sure you want to copy:"
-msgstr "Está seguro de copiar:"
+msgstr "EstEseguro de copiar:"
 
 #: Merge.rc:2252
 #, c-format
 msgid "Are you sure you want to copy %d items:"
-msgstr "Está seguro de copiar %d elementos:"
+msgstr "EstEseguro de copiar %d elementos:"
 
 #: Merge.rc:2253
 #, c-format
@@ -4270,12 +4270,12 @@ msgstr ""
 #: Merge.rc:2254
 #, c-format
 msgid "Are you sure you want to move:"
-msgstr "Está seguro de mover:"
+msgstr "EstEseguro de mover:"
 
 #: Merge.rc:2255
 #, c-format
 msgid "Are you sure you want to move %d items:"
-msgstr "Está seguro de mover %d elementos:"
+msgstr "EstEseguro de mover %d elementos:"
 
 #: Merge.rc:2257
 #, c-format
@@ -4345,12 +4345,12 @@ msgstr "Copiar rutas del ambos lados al portapapeles"
 #: Merge.rc:2280
 #, c-format
 msgid "Left Shell menu"
-msgstr "Menú Izquierda"
+msgstr "MenEIzquierda"
 
 #: Merge.rc:2281
 #, c-format
 msgid "Right Shell menu"
-msgstr "Menú Derecha"
+msgstr "MenEDerecha"
 
 #: Merge.rc:2287
 #, c-format
@@ -4775,7 +4775,7 @@ msgstr "El informe se ha creado correctamente."
 #: Merge.rc:2429
 #, c-format
 msgid "The same file is opened in both panels."
-msgstr "El mismo archivo está abierto en ambos paneles."
+msgstr "El mismo archivo estEabierto en ambos paneles."
 
 #: Merge.rc:2430
 #, c-format
@@ -4785,7 +4785,7 @@ msgstr "Los archivos seleccionados son iguales"
 #: Merge.rc:2431
 #, c-format
 msgid "An error occurred while comparing the files."
-msgstr "Ocurrió un error cuando se estaban comparando los archivos"
+msgstr "OcurriEun error cuando se estaban comparando los archivos"
 
 #: Merge.rc:2432
 #, c-format
@@ -4807,13 +4807,13 @@ msgid ""
 "set the option 'Ignore carriage return differences..' in the Compare tab of "
 "the options dialog (available under Edit/Options)."
 msgstr ""
-"Estos archivos utilizan tipos diferentes de salto de línea.\n"
+"Estos archivos utilizan tipos diferentes de salto de lú‹ea.\n"
 "\n"
-"¿Desea tratar todos los tipos de salto de línea como equivalentes para esta "
+"¿Desea tratar todos los tipos de salto de lú‹ea como equivalentes para esta "
 "comparación?\n"
 "\n"
-"Nota: si desea tratar siempre todos los tipos de saltos de línea como "
-"equivalentes, seleccione la opción 'Ignorar saltos de línea diferentes..' en "
+"Nota: si desea tratar siempre todos los tipos de saltos de lú‹ea como "
+"equivalentes, seleccione la opción 'Ignorar saltos de lú‹ea diferentes..' en "
 "la pestaña Comparar del dialogo Configuración (disponible en Editar/"
 "Configuración)."
 
@@ -4834,8 +4834,8 @@ msgid ""
 "An error occurred while prediffing the file '%1' with the plugin '%2'. The "
 "prediffing is not applied any more."
 msgstr ""
-"Ocurrió un error mientras se precomparaba el archivo '%1' con el plugin "
-"'%2'. La precomparación no será aplicada de nuevo."
+"OcurriEun error mientras se precomparaba el archivo '%1' con el plugin "
+"'%2'. La precomparación no serEaplicada de nuevo."
 
 #: Merge.rc:2436
 #, c-format
@@ -4873,9 +4873,9 @@ msgid ""
 msgstr ""
 "Las páginas de códigos son diferentes en el archivo de la izquierda (cp%d) y "
 "el de la derecha (cp%d). \n"
-"Mostrar cada archivo en su página de códigos dará una mejor visualización, "
-"pero combinar/copiar sería peligroso.\n"
-"¿Le gustaría tratar ambos archivos con la página de códigos predeterminada "
+"Mostrar cada archivo en su página de códigos darEuna mejor visualización, "
+"pero combinar/copiar serú} peligroso.\n"
+"¿Le gustarú} tratar ambos archivos con la página de códigos predeterminada "
 "de windows (recomendado)?"
 
 #: Merge.rc:2445
@@ -4885,7 +4885,7 @@ msgid ""
 "may lead to information loss."
 msgstr ""
 "Atención: los archivos utilizan codificaciones diferentes, izquierdo=%s y "
-"derecho=%s, y la combinación podría provocar perdida de información."
+"derecho=%s, y la combinación podrú} provocar perdida de información."
 
 #: Merge.rc:2446
 #, c-format
@@ -4911,7 +4911,7 @@ msgstr "No hay diferencia"
 #: Merge.rc:2455
 #, c-format
 msgid "Line difference"
-msgstr "Diferencia de línea"
+msgstr "Diferencia de lú‹ea"
 
 #: Merge.rc:2461
 #, c-format
@@ -5039,7 +5039,7 @@ msgid ""
 "be found.\n"
 "See manual for more info about archive support and how to enable it."
 msgstr ""
-"El soporte de archivos no está habilitado.\n"
+"El soporte de archivos no estEhabilitado.\n"
 "Los componentes necesarios(7-zip y/o Merge7z*.dll) para el archivo no están "
 "disponibles.\n"
 "Vea el manual para más información acerca del soporte de archivos y cómo "
@@ -5052,7 +5052,7 @@ msgid ""
 "Note: 7-Zip integration is disabled in WinMerge settings."
 msgstr ""
 "\n"
-"Nota: La integración con 7-Zip está deshabilitada en la configuracion de "
+"Nota: La integración con 7-Zip estEdeshabilitada en la configuracion de "
 "WinMerge."
 
 #: Merge.rc:2504
@@ -5063,7 +5063,7 @@ msgid ""
 "settings."
 msgstr ""
 "\n"
-"Nota: La integración con 7-Zip está restringida a operación en solitario en "
+"Nota: La integración con 7-Zip estErestringida a operación en solitario en "
 "la configuracion de WinMerge."
 
 #: Merge.rc:2505
@@ -5103,7 +5103,7 @@ msgid ""
 "\n"
 "Do you want to continue?"
 msgstr ""
-"Está a punto de cerrar varias ventanas de comparación.\n"
+"EstEa punto de cerrar varias ventanas de comparación.\n"
 "\n"
 "¿Desea continuar?"
 
@@ -5347,8 +5347,8 @@ msgid ""
 "Select difference area in the current line\n"
 "Difference in the Current Line"
 msgstr ""
-"Selecciona el área diferente de la línea actual\n"
-"Diferencias de línea actual"
+"Selecciona el área diferente de la lú‹ea actual\n"
+"Diferencias de lú‹ea actual"
 
 #: Merge.rc:2597
 #, c-format
@@ -5356,7 +5356,7 @@ msgid ""
 "Go to line or difference\n"
 "Go to (Ctrl+G)"
 msgstr ""
-"Ir a línea o diferencia\n"
+"Ir a lú‹ea o diferencia\n"
 "Ir a (Ctrl+G)"
 
 #: Merge.rc:2598
@@ -5381,7 +5381,7 @@ msgstr ""
 #, c-format
 msgid "Copy selected lines to clipboard adding linenumbers to line begin"
 msgstr ""
-"Copiar las líneas seleccionadas al portapapeles añadiendo números de línea "
+"Copiar las lú‹eas seleccionadas al portapapeles añadiendo números de lú‹ea "
 "al principio de cada una de ellas"
 
 #: Merge.rc:2601
@@ -5499,7 +5499,7 @@ msgstr "Muestra el panel de ubicación con una imagen global de los archivos"
 #: Merge.rc:2627
 #, c-format
 msgid "Show folder compare statistics dialog"
-msgstr "Muestra el diálogo de estadísticas de comparación de carpetas"
+msgstr "Muestra el diálogo de estadúticas de comparación de carpetas"
 
 #: Merge.rc:2628
 #, c-format
@@ -5516,8 +5516,8 @@ msgid ""
 "Shows differences inside lines with different colors\n"
 "Show Line Difference"
 msgstr ""
-"Muestra las diferencias en las líneas en un color diferente\n"
-"Mostrar diferencias de línea"
+"Muestra las diferencias en las lú‹eas en un color diferente\n"
+"Mostrar diferencias de lú‹ea"
 
 #: Merge.rc:2630
 #, c-format
@@ -5530,8 +5530,8 @@ msgid ""
 "Shows line numbers\n"
 "Show Line Numbers"
 msgstr ""
-"Muestra los números de línea\n"
-"Mostrar números de línea"
+"Muestra los números de lú‹ea\n"
+"Mostrar números de lú‹ea"
 
 #: Merge.rc:2632
 #, c-format
@@ -5539,8 +5539,8 @@ msgid ""
 "Enable word wrap\n"
 "Wrap Lines"
 msgstr ""
-"Ajusta la longitud de las líneas al ancho del panel\n"
-"Ajuste de línea"
+"Ajusta la longitud de las lú‹eas al ancho del panel\n"
+"Ajuste de lú‹ea"
 
 #: Merge.rc:2633
 #, c-format
@@ -5874,7 +5874,7 @@ msgstr "Ir &a diferencia %1 de %2"
 #: Merge.rc:2725
 #, c-format
 msgid "G&oto Line %1"
-msgstr "Ir a &línea %1"
+msgstr "Ir a &lú‹ea %1"
 
 #: Merge.rc:2731
 #, c-format

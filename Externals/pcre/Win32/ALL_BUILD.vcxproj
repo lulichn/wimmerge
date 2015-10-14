@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|Win32">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|Win32">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{8EA48733-5246-4479-AC13-94A899A510BF}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <PlatformToolset>v140</PlatformToolset>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <PlatformToolset>v140</PlatformToolset>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <PlatformToolset>v140</PlatformToolset>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <PlatformToolset>v140</PlatformToolset>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>14.0.23107.0</_ProjectFileVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>Debug\</OutDir>
+    <IntDir>ALL_BUILD.dir\Debug\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>Release\</OutDir>
+    <IntDir>ALL_BUILD.dir\Release\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">
+    <OutDir>MinSizeRel\</OutDir>
+    <IntDir>ALL_BUILD.dir\MinSizeRel\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">
+    <OutDir>RelWithDebInfo\</OutDir>
+    <IntDir>ALL_BUILD.dir\RelWithDebInfo\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Midl>
+      <PreprocessorDefinitions>HAVE_CONFIG_H;_CRT_SECURE_NO_DEPRECATE;CMAKE_INTDIR="Debug";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+      <GenerateStublessProxies>true</GenerateStublessProxies>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <OutputDirectory>$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <DllDataFileName />
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Midl>
+      <PreprocessorDefinitions>HAVE_CONFIG_H;_CRT_SECURE_NO_DEPRECATE;CMAKE_INTDIR="Release";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+      <GenerateStublessProxies>true</GenerateStublessProxies>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <OutputDirectory>$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <DllDataFileName />
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">
+    <Midl>
+      <PreprocessorDefinitions>HAVE_CONFIG_H;_CRT_SECURE_NO_DEPRECATE;CMAKE_INTDIR="MinSizeRel";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+      <GenerateStublessProxies>true</GenerateStublessProxies>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <OutputDirectory>$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <DllDataFileName />
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">
+    <Midl>
+      <PreprocessorDefinitions>HAVE_CONFIG_H;_CRT_SECURE_NO_DEPRECATE;CMAKE_INTDIR="RelWithDebInfo";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+      <GenerateStublessProxies>true</GenerateStublessProxies>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <OutputDirectory>$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <DllDataFileName />
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\ALL_BUILD" />
+    <CustomBuild Include="..\..\..\..\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\ALL_BUILD.rule">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Build all projects</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+      </Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\ALL_BUILD.rule;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\ALL_BUILD;%(Outputs)</Outputs>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Build all projects</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">
+      </Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\ALL_BUILD.rule;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\ALL_BUILD;%(Outputs)</Outputs>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Build all projects</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">
+      </Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\ALL_BUILD.rule;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\ALL_BUILD;%(Outputs)</Outputs>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Build all projects</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+      </Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\ALL_BUILD.rule;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\ALL_BUILD;%(Outputs)</Outputs>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="..\..\..\..\Work\WinMerge\WinMerge_SVN\Externals\pcre\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule D:/Work/WinMerge/WinMerge_SVN/Externals/pcre/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">"C:\Program Files\CMake 2.8\bin\cmake.exe" -HD:/Work/WinMerge/WinMerge_SVN/Externals/pcre -BD:/Work/WinMerge/WinMerge_SVN/Externals/pcre/Win32 --check-stamp-file CMakeFiles/generate.stamp</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\CMakeLists.txt;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\CMakeSystem.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\CMakeCCompiler.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\CMakeCXXCompiler.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\Platform\gcc.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\Platform\Windows.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeCInformation.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\Platform\Windows-cl.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\CMakeCPlatform.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\CMakeCXXPlatform.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\Platform\cl.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\CMakeRCCompiler.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\FindBZip2.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\cmake\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\FindZLIB.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\cmake\FindPackageHandleStandardArgs.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\cmake\FindReadline.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\cmake\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CheckIncludeFileCXX.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CheckFunctionExists.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CheckTypeSize.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CheckIncludeFile.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\config-cmake.h.in;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\pcre.h.generic;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\pcre_stringpiece.h.in;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\pcrecpparg.h.in;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\pcre_chartables.c.dist;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">CMakeFiles\generate.stamp;%(Outputs)</Outputs>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Building Custom Rule D:/Work/WinMerge/WinMerge_SVN/Externals/pcre/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">"C:\Program Files\CMake 2.8\bin\cmake.exe" -HD:/Work/WinMerge/WinMerge_SVN/Externals/pcre -BD:/Work/WinMerge/WinMerge_SVN/Externals/pcre/Win32 --check-stamp-file CMakeFiles/generate.stamp</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\CMakeLists.txt;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\CMakeSystem.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\CMakeCCompiler.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\CMakeCXXCompiler.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\Platform\gcc.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\Platform\Windows.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeCInformation.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\Platform\Windows-cl.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\CMakeCPlatform.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\CMakeCXXPlatform.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\Platform\cl.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\CMakeRCCompiler.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\FindBZip2.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\cmake\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\FindZLIB.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\cmake\FindPackageHandleStandardArgs.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\cmake\FindReadline.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\cmake\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CheckIncludeFileCXX.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CheckFunctionExists.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CheckTypeSize.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CheckIncludeFile.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\config-cmake.h.in;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\pcre.h.generic;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\pcre_stringpiece.h.in;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\pcrecpparg.h.in;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\pcre_chartables.c.dist;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">CMakeFiles\generate.stamp;%(Outputs)</Outputs>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Building Custom Rule D:/Work/WinMerge/WinMerge_SVN/Externals/pcre/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">"C:\Program Files\CMake 2.8\bin\cmake.exe" -HD:/Work/WinMerge/WinMerge_SVN/Externals/pcre -BD:/Work/WinMerge/WinMerge_SVN/Externals/pcre/Win32 --check-stamp-file CMakeFiles/generate.stamp</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\CMakeLists.txt;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\CMakeSystem.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\CMakeCCompiler.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\CMakeCXXCompiler.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\Platform\gcc.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\Platform\Windows.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeCInformation.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\Platform\Windows-cl.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\CMakeCPlatform.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\CMakeCXXPlatform.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\Platform\cl.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\CMakeRCCompiler.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\FindBZip2.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\cmake\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\FindZLIB.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\cmake\FindPackageHandleStandardArgs.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\cmake\FindReadline.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\cmake\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CheckIncludeFileCXX.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CheckFunctionExists.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CheckTypeSize.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CheckIncludeFile.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\config-cmake.h.in;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\pcre.h.generic;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\pcre_stringpiece.h.in;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\pcrecpparg.h.in;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\pcre_chartables.c.dist;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">CMakeFiles\generate.stamp;%(Outputs)</Outputs>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule D:/Work/WinMerge/WinMerge_SVN/Externals/pcre/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">"C:\Program Files\CMake 2.8\bin\cmake.exe" -HD:/Work/WinMerge/WinMerge_SVN/Externals/pcre -BD:/Work/WinMerge/WinMerge_SVN/Externals/pcre/Win32 --check-stamp-file CMakeFiles/generate.stamp</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\CMakeLists.txt;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\CMakeSystem.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\CMakeCCompiler.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\CMakeCXXCompiler.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\Platform\gcc.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\Platform\Windows.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeCInformation.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\Platform\Windows-cl.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\CMakeCPlatform.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\CMakeCXXPlatform.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\Platform\cl.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\Win32\CMakeFiles\CMakeRCCompiler.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\FindBZip2.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\cmake\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\FindZLIB.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\cmake\FindPackageHandleStandardArgs.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\cmake\FindReadline.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\cmake\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CheckIncludeFileCXX.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CheckFunctionExists.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CheckTypeSize.cmake;C:\Program Files\CMake 2.8\share\cmake-2.8\Modules\CheckIncludeFile.cmake;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\config-cmake.h.in;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\pcre.h.generic;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\pcre_stringpiece.h.in;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\pcrecpparg.h.in;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\pcre_chartables.c.dist;D:\Work\WinMerge\WinMerge_SVN\Externals\pcre\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">CMakeFiles\generate.stamp;%(Outputs)</Outputs>
+    </CustomBuild>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

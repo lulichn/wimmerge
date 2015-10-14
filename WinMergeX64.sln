@@ -1,22 +1,16 @@
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Merge", "Src\MergeX64.vcproj", "{9FDA4AF0-CCFD-4812-BDB9-53EFEDB32BDE}"
-	ProjectSection(ProjectDependencies) = postProject
-		{D6B50065-7185-4E20-A499-E78276066E6F} = {D6B50065-7185-4E20-A499-E78276066E6F}
-		{657F1CB0-7CBB-4479-A2C9-AE08D9DC30F1} = {657F1CB0-7CBB-4479-A2C9-AE08D9DC30F1}
-		{D87729EA-38DF-4025-AA98-22F2438DF995} = {D87729EA-38DF-4025-AA98-22F2438DF995}
-	EndProjectSection
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Merge", "Src\MergeX64.vcxproj", "{9FDA4AF0-CCFD-4812-BDB9-53EFEDB32BDE}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "expat", "Externals\expat\lib\expatX64.vcproj", "{657F1CB0-7CBB-4479-A2C9-AE08D9DC30F1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "expat", "Externals\expat\lib\expatX64.vcxproj", "{657F1CB0-7CBB-4479-A2C9-AE08D9DC30F1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pcre", "Externals\pcre\Win32\pcreX64.vcproj", "{D6B50065-7185-4E20-A499-E78276066E6F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pcre", "Externals\pcre\Win32\pcreX64.vcxproj", "{D6B50065-7185-4E20-A499-E78276066E6F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scew", "Externals\scew\win32\scewX64.vcproj", "{D87729EA-38DF-4025-AA98-22F2438DF995}"
-	ProjectSection(ProjectDependencies) = postProject
-		{657F1CB0-7CBB-4479-A2C9-AE08D9DC30F1} = {657F1CB0-7CBB-4479-A2C9-AE08D9DC30F1}
-	EndProjectSection
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scew", "Externals\scew\win32\scewX64.vcxproj", "{D87729EA-38DF-4025-AA98-22F2438DF995}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MergeLang", "Src\MergeLangX64.vcproj", "{4B011DDA-2279-437D-903C-8028913AF31B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MergeLang", "Src\MergeLangX64.vcxproj", "{4B011DDA-2279-437D-903C-8028913AF31B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

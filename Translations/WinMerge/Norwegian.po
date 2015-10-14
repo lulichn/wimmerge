@@ -87,7 +87,7 @@ msgstr "&Lim inn"
 #: Merge.rc:593
 #, c-format
 msgid "&Goto..."
-msgstr "Gå &til..."
+msgstr "GE&til..."
 
 #: Merge.rc:86
 #, c-format
@@ -546,7 +546,7 @@ msgstr "G&jenoppfrisk valgte\tCtrl+F5"
 #: Merge.rc:431
 #, c-format
 msgid "&Merge"
-msgstr "&Sammenslå"
+msgstr "&SammenslE
 
 #: Merge.rc:251
 #, c-format
@@ -677,7 +677,7 @@ msgstr "&Mac (CR)"
 #: Merge.rc:350
 #, c-format
 msgid "&Merge Mode\tF9"
-msgstr "Sammenslå-&modus\tF9"
+msgstr "SammenslE&modus\tF9"
 
 #: Merge.rc:352
 #, c-format
@@ -773,7 +773,7 @@ msgstr "Fjern &alle bokmerker"
 #: Merge.rc:388
 #, c-format
 msgid "&Go To...\tCtrl+G"
-msgstr "&Gå til...\tCtrl+G"
+msgstr "&GEtil...\tCtrl+G"
 
 #: Merge.rc:396
 #, c-format
@@ -849,12 +849,12 @@ msgstr "L&okaliseringspanel"
 #: Merge.rc:443
 #, c-format
 msgid "C&opy to Right and Advance\tAlt+Ctrl+Right"
-msgstr "Kopier til høyre og g&å videre\tAlt+Ctrl+Right"
+msgstr "Kopier til høyre og g&Evidere\tAlt+Ctrl+Right"
 
 #: Merge.rc:444
 #, c-format
 msgid "Copy &to Left and Advance\tAlt+Ctrl+Left"
-msgstr "Kopier &til venstre og gå videre\tAlt+Ctrl+Left"
+msgstr "Kopier &til venstre og gEvidere\tAlt+Ctrl+Left"
 
 #: Merge.rc:446
 #, c-format
@@ -1053,7 +1053,7 @@ msgstr "Auto-prediffer"
 #: Merge.rc:592
 #, c-format
 msgid "G&oto Diff"
-msgstr "G&å til forskjell"
+msgstr "G&Etil forskjell"
 
 #: Merge.rc:595
 #, c-format
@@ -1299,7 +1299,7 @@ msgstr "Verifiser baner automatisk i Åpne-dialog"
 #: Merge.rc:771
 #, c-format
 msgid "All&ow only one instance to run"
-msgstr "&Tillat bare en instans å kjøre"
+msgstr "&Tillat bare en instans Ekjøre"
 
 #: Merge.rc:773
 #, c-format
@@ -1341,7 +1341,7 @@ msgstr "&Fil-sammenligning"
 #: Merge.rc:789
 #, c-format
 msgid "WinMerge allows hiding some common messageboxes. Press the Reset button to make all messageboxes visible again."
-msgstr "WinMerge tillater å skjule noen vanlige meldingsbokser. Trykk tilbakestill-knappen for å gjøre alle meldingsboksene synlige igjen."
+msgstr "WinMerge tillater Eskjule noen vanlige meldingsbokser. Trykk tilbakestill-knappen for Egjøre alle meldingsboksene synlige igjen."
 
 #: Merge.rc:791
 #, c-format
@@ -1379,7 +1379,7 @@ msgstr "Bare &hele ord"
 #: Merge.rc:849
 #, c-format
 msgid "Match &case"
-msgstr "Skill mellom store/små &bokstaver"
+msgstr "Skill mellom store/smE&bokstaver"
 
 #: Merge.rc:821
 #: Merge.rc:851
@@ -1702,7 +1702,7 @@ msgstr "Ignor&er tomme linjer"
 #: Merge.rc:1054
 #, c-format
 msgid "Case sensi&tive"
-msgstr "Skill mellom store/små &bokstaver"
+msgstr "Skill mellom store/smE&bokstaver"
 
 #: Merge.rc:1056
 #, c-format
@@ -1783,12 +1783,12 @@ msgstr "Objekter totalt:"
 #: Merge.rc:1136
 #, c-format
 msgid "Go To"
-msgstr "Gå til"
+msgstr "GEtil"
 
 #: Merge.rc:1139
 #, c-format
 msgid "G&oto:"
-msgstr "G&å til:"
+msgstr "G&Etil:"
 
 #: Merge.rc:1141
 #, c-format
@@ -1798,7 +1798,7 @@ msgstr "Fil"
 #: Merge.rc:1146
 #, c-format
 msgid "Goto what"
-msgstr "Gå til hva"
+msgstr "GEtil hva"
 
 #: Merge.rc:1147
 #, c-format
@@ -1813,7 +1813,7 @@ msgstr "&Forskjell"
 #: Merge.rc:1151
 #, c-format
 msgid "&Go To"
-msgstr "&Gå til"
+msgstr "&GEtil"
 
 #: Merge.rc:1157
 #: Merge.rc:1952
@@ -1849,7 +1849,7 @@ msgstr "Ignorer blan&ke linjer"
 #: Merge.rc:1165
 #, c-format
 msgid "Ignore &case"
-msgstr "Ignorer store/små &bokstaver"
+msgstr "Ignorer store/smE&bokstaver"
 
 #: Merge.rc:1166
 #, c-format
@@ -1925,12 +1925,12 @@ msgstr "Vis linjeforskjeller"
 #: Merge.rc:1198
 #, c-format
 msgid "&Character level"
-msgstr "&Tegnnivå"
+msgstr "&TegnnivE
 
 #: Merge.rc:1200
 #, c-format
 msgid "&Word-level:"
-msgstr "&Ord-nivå:"
+msgstr "&Ord-nivE"
 
 #: Merge.rc:1204
 #, c-format
@@ -1975,7 +1975,7 @@ msgstr "Lagre endrede filer?"
 #: Merge.rc:1236
 #, c-format
 msgid "Left side file"
-msgstr "Fil på venstre side"
+msgstr "Fil pEvenstre side"
 
 #: Merge.rc:1239
 #, c-format
@@ -1990,7 +1990,7 @@ msgstr "&Forkast endringer"
 #: Merge.rc:1243
 #, c-format
 msgid "Right side file"
-msgstr "Fil på høyre side"
+msgstr "Fil pEhøyre side"
 
 #: Merge.rc:1246
 #, c-format
@@ -2031,7 +2031,7 @@ msgid ""
 "need to restart session"
 msgstr ""
 "Oppdag tegnsett-info for disse filer: .html, .rc, .xml \n"
-"nødvendig å starte programmet på nytt"
+"nødvendig Estarte programmet pEnytt"
 
 #: Merge.rc:1266
 #, c-format
@@ -2064,13 +2064,13 @@ msgid ""
 "Archive support requires 7-Zip 3.11 or later to be installed on your computer, or its\n"
 "essential components to be copied to the program directory for standalone operation."
 msgstr ""
-"Arkiv-støtte krever at 7-Zip 3.11 eller nyere er installert på datamaskinen, eller at dens\n"
+"Arkiv-støtte krever at 7-Zip 3.11 eller nyere er installert pEdatamaskinen, eller at dens\n"
 "nødvendige komponenter kopieres til programmappen for frittstående bruk."
 
 #: Merge.rc:1286
 #, c-format
 msgid "There must also be an appropriate interface plugin (Merge7z*.dll) on the path."
-msgstr "Der må også være et passende grensesnitts-programtillegg (Merge7z*.dll) i banen"
+msgstr "Der mEogsEvære et passende grensesnitts-programtillegg (Merge7z*.dll) i banen"
 
 #: Merge.rc:1288
 #, c-format
@@ -2114,7 +2114,7 @@ msgstr "Merge7z000U.dll"
 #: Merge.rc:1301
 #, c-format
 msgid "7-Zip software installed on your computer:"
-msgstr "7-Zip program installert på din maskin:"
+msgstr "7-Zip program installert pEdin maskin:"
 
 #: Merge.rc:1303
 #: Merge.rc:1308
@@ -2149,7 +2149,7 @@ msgid ""
 "(You can always recall this message from the Help menu.)"
 msgstr ""
 "Ikke vis denne &melding igjen.\n"
-"(Du kan alltid få tilbake denne melding fra Hjelp-menyen.)"
+"(Du kan alltid fEtilbake denne melding fra Hjelp-menyen.)"
 
 #: Merge.rc:1316
 #, c-format
@@ -2275,7 +2275,7 @@ msgstr "Hvilken filtertype vil du opprette?"
 #: Merge.rc:1431
 #, c-format
 msgid "Shared Filter (for all users on this machine)"
-msgstr "Delt filter (for alle brukere på denne maskin)"
+msgstr "Delt filter (for alle brukere pEdenne maskin)"
 
 #: Merge.rc:1433
 #, c-format
@@ -2442,7 +2442,7 @@ msgstr "Tester filter ..."
 #: Merge.rc:1536
 #, c-format
 msgid "&Enter text to test:"
-msgstr "&Oppfør tekst å teste:"
+msgstr "&Oppfør tekst Eteste:"
 
 #: Merge.rc:1538
 #, c-format
@@ -2564,7 +2564,7 @@ msgstr "Bekreft kopiering"
 #: Merge.rc:1634
 #, c-format
 msgid "Are you sure you want to copy XXX items?"
-msgstr "Er du sikker på at du vil kopiere XXX objekter?"
+msgstr "Er du sikker pEat du vil kopiere XXX objekter?"
 
 #: Merge.rc:1636
 #, c-format
@@ -2824,12 +2824,12 @@ msgstr ""
 #: Merge.rc:1789
 #, c-format
 msgid "Unknown error attempting to open project file"
-msgstr "Ukjent feil ved forsøk på å åpne prosjektfil"
+msgstr "Ukjent feil ved forsøk pEEåpne prosjektfil"
 
 #: Merge.rc:1790
 #, c-format
 msgid "Unknown error attempting to save project file"
-msgstr "Ukjent feil ved forsøk på å lagre prosjektfil"
+msgstr "Ukjent feil ved forsøk pEElagre prosjektfil"
 
 #: Merge.rc:1791
 #, c-format
@@ -2870,7 +2870,7 @@ msgid ""
 "Quit the application; prompts to save documents\n"
 "Exit"
 msgstr ""
-"Avslutt programmet; spør om å lagre dokumenter\n"
+"Avslutt programmet; spør om Elagre dokumenter\n"
 "Avslutt"
 
 #: Merge.rc:1806
@@ -2917,7 +2917,7 @@ msgid ""
 "Arrange windows so they overlap\n"
 "Cascade Windows"
 msgstr ""
-"Arranger vinduer så de overlapper\n"
+"Arranger vinduer sEde overlapper\n"
 "Overlappingsvinduer"
 
 #: Merge.rc:1834
@@ -2944,7 +2944,7 @@ msgid ""
 "Copy the selection and put it on the Clipboard\n"
 "Copy"
 msgstr ""
-"Kopier det valgte og sett det på utklippstavlen\n"
+"Kopier det valgte og sett det pEutklippstavlen\n"
 "Kopier"
 
 #: Merge.rc:1842
@@ -2953,7 +2953,7 @@ msgid ""
 "Cut the selection and put it on the Clipboard\n"
 "Cut"
 msgstr ""
-"Klipp ut det valgte og sett på utklippstavlen\n"
+"Klipp ut det valgte og sett pEutklippstavlen\n"
 "Klipp ut"
 
 #: Merge.rc:1843
@@ -3166,7 +3166,7 @@ msgstr "Trykk hvilken som helst knapp"
 #: Merge.rc:1912
 #, c-format
 msgid "Right click on the path to copy"
-msgstr "Høyreklikk på banen for å kopiere"
+msgstr "Høyreklikk pEbanen for Ekopiere"
 
 #: Merge.rc:1918
 #, c-format
@@ -3180,7 +3180,7 @@ msgstr ""
 #: Merge.rc:1919
 #, c-format
 msgid "WinMerge comes with ABSOLUTELY NO WARRANTY. This is free software and you are welcome to redistribute it under certain circumstances; see the GNU General Public License in the Help menu for details."
-msgstr "WinMerge kommer med ABSOLUTT INGEN GARANTIER. Dette er gratis programvare og du er velkommen til å videredistribuere den under visse omstendigheter; se GNU General Public License i Hjelp-menyen for detaljer."
+msgstr "WinMerge kommer med ABSOLUTT INGEN GARANTIER. Dette er gratis programvare og du er velkommen til Evideredistribuere den under visse omstendigheter; se GNU General Public License i Hjelp-menyen for detaljer."
 
 #: Merge.rc:1925
 #, c-format
@@ -3316,12 +3316,12 @@ msgstr "Innstillinger (%1)"
 #: Merge.rc:1991
 #, c-format
 msgid "All message boxes are now displayed again."
-msgstr "Alle meldingsbokser vises nå igjen."
+msgstr "Alle meldingsbokser vises nEigjen."
 
 #: Merge.rc:1992
 #, c-format
 msgid "Modifications have been made to the current file comparison session.  Some settings may not take place until the current file comparison is restarted."
-msgstr "Endringer er gjort i den aktuelle filsammenlignings-økten. Noen innstillinger blir først virksomme når den aktuelle filsammenligningen startes på nytt."
+msgstr "Endringer er gjort i den aktuelle filsammenlignings-økten. Noen innstillinger blir først virksomme når den aktuelle filsammenligningen startes pEnytt."
 
 #: Merge.rc:1993
 #, c-format
@@ -3346,9 +3346,9 @@ msgid ""
 "\n"
 "Please re-start WinMerge after the reset."
 msgstr ""
-"Er du sikker på at du vil tilbakestille alle WinMerge innstillinger til standardverdier?\n"
+"Er du sikker pEat du vil tilbakestille alle WinMerge innstillinger til standardverdier?\n"
 "\n"
-"Start WinMerge på nytt etter tilbakestilling."
+"Start WinMerge pEnytt etter tilbakestilling."
 
 #: Merge.rc:2003
 #, c-format
@@ -3525,7 +3525,7 @@ msgstr ""
 #: Merge.rc:2056
 #, c-format
 msgid "Locate filter file to install"
-msgstr "Velg filter-fil å installere"
+msgstr "Velg filter-fil Einstallere"
 
 #: Merge.rc:2058
 #, c-format
@@ -3557,7 +3557,7 @@ msgid ""
 msgstr ""
 "Filtre ble oppdaterte. Vil du gjenoppfriske alle åpne mappesammenligninger?\n"
 "\n"
-"Om du ikke vil gjenoppfriske alle sammenligninger nå kan du velge Nei og gjenoppfriske sammenligninger senere."
+"Om du ikke vil gjenoppfriske alle sammenligninger nEkan du velge Nei og gjenoppfriske sammenligninger senere."
 
 #: Merge.rc:2079
 #, c-format
@@ -3672,7 +3672,7 @@ msgstr "Ln: %s  Kol: %d/%d  Tegn: %d/%d"
 #: Merge.rc:2116
 #, c-format
 msgid "Merge"
-msgstr "Slå sammen"
+msgstr "SlEsammen"
 
 #: Merge.rc:2117
 #, c-format
@@ -3708,7 +3708,7 @@ msgstr "Objekter: %1"
 #: Merge.rc:2133
 #, c-format
 msgid "Select two existing folders or files to compare"
-msgstr "Velg to eksisterende mapper eller filer for å sammenligne"
+msgstr "Velg to eksisterende mapper eller filer for Esammenligne"
 
 #: Merge.rc:2134
 #, c-format
@@ -3738,7 +3738,7 @@ msgstr "Begge baner er ugyldig!"
 #: Merge.rc:2139
 #, c-format
 msgid "Choose two files to enable unpacker selection."
-msgstr "Velg to filer for å aktivere valg av utpakker."
+msgstr "Velg to filer for Eaktivere valg av utpakker."
 
 #: Merge.rc:2140
 #, c-format
@@ -3797,12 +3797,12 @@ msgstr "Lagre endringer til %1?"
 #: Merge.rc:2158
 #, c-format
 msgid "%1 is marked read-only. Would you like to override the read-only file ? (No to save as new filename.)"
-msgstr "%1 er merket som skrivebeskyttet. Vil du overskrive den skrivebeskyttede filen? (Nei for å lagre filen med et annet navn.)"
+msgstr "%1 er merket som skrivebeskyttet. Vil du overskrive den skrivebeskyttede filen? (Nei for Elagre filen med et annet navn.)"
 
 #: Merge.rc:2159
 #, c-format
 msgid "Error checking destination writeability"
-msgstr "Feil ved kontroll av skrivbarhet på destinasjonen"
+msgstr "Feil ved kontroll av skrivbarhet pEdestinasjonen"
 
 #: Merge.rc:2160
 #, c-format
@@ -3927,7 +3927,7 @@ msgid ""
 msgstr ""
 "Filen\n"
 "%1\n"
-"har forsvunnet. Lagre en kopi av filen for å fortsette."
+"har forsvunnet. Lagre en kopi av filen for Efortsette."
 
 #: Merge.rc:2177
 #, c-format
@@ -3936,14 +3936,14 @@ msgid ""
 "\n"
 "Refresh documents before continuing."
 msgstr ""
-"Kan ikke slå sammen forskjeller når dokumenter ikke er synkrone.\n"
+"Kan ikke slEsammen forskjeller når dokumenter ikke er synkrone.\n"
 "\n"
 "Gjenoppfrisk dokumenter før du fortsetter."
 
 #: Merge.rc:2183
 #, c-format
 msgid "You must specify a SourceSafe project path in order to continue (ie:  $/MyProject)"
-msgstr "Du skal angi en SourceSafe prosjektbane for å fortsette (ie:  $/MittProjekt)"
+msgstr "Du skal angi en SourceSafe prosjektbane for Efortsette (ie:  $/MittProjekt)"
 
 #: Merge.rc:2184
 #, c-format
@@ -3953,7 +3953,7 @@ msgstr "Sjekkut filer fra VSS..."
 #: Merge.rc:2185
 #, c-format
 msgid "Versioning System returned an error while attempting to check out the file.  Unable to continue..."
-msgstr "Versjonsstyringssystemet returnerte en feil under forsøket på å sjekke ut filen. Kan ikke fortsette..."
+msgstr "Versjonsstyringssystemet returnerte en feil under forsøket pEEsjekke ut filen. Kan ikke fortsette..."
 
 #: Merge.rc:2186
 #, c-format
@@ -3982,8 +3982,8 @@ msgid ""
 " Please, check config spec of used view.\n"
 " Undo checkout operation?"
 msgstr ""
-"Versjonsstyrings-system returnerete en feil under forsøket på å sjekke i filen.\n"
-"Kontroller konfigurasjonsspesifikasjon på anvendt visning.\n"
+"Versjonsstyrings-system returnerete en feil under forsøket pEEsjekke i filen.\n"
+"Kontroller konfigurasjonsspesifikasjon pEanvendt visning.\n"
 "Angre sjekke ut operasjon?"
 
 #: Merge.rc:2191
@@ -3992,8 +3992,8 @@ msgid ""
 "Versioning System returned an error while attempting to undo checkout the file.\n"
 " Please, check config spec of used view. "
 msgstr ""
-"Versionsstyrings-system returnerte en feil under forsøket på å angre å sjekke ut filen.\n"
-"Kontroller konfigurasjonsspesifikasjon på anvendt visning."
+"Versionsstyrings-system returnerte en feil under forsøket pEEangre Esjekke ut filen.\n"
+"Kontroller konfigurasjonsspesifikasjon pEanvendt visning."
 
 #: Merge.rc:2197
 #: Merge.rc:2551
@@ -4046,7 +4046,7 @@ msgstr "Slett valgte objekt til høyre"
 #: Merge.rc:2214
 #, c-format
 msgid "Delete selected item(s) on both sides"
-msgstr "Slett valgte objekt(er) på begge sider"
+msgstr "Slett valgte objekt(er) pEbegge sider"
 
 #: Merge.rc:2215
 #, c-format
@@ -4056,7 +4056,7 @@ msgstr "Skjul valgte objekt(er) (i farta filter)"
 #: Merge.rc:2216
 #, c-format
 msgid "Rename selected item on both sides"
-msgstr "Endre navn på valgte objekt på begge sider"
+msgstr "Endre navn pEvalgte objekt pEbegge sider"
 
 #: Merge.rc:2217
 #, c-format
@@ -4164,19 +4164,19 @@ msgid ""
 "\n"
 "%1 ?"
 msgstr ""
-"Er du sikker på at du vil slette\n"
+"Er du sikker pEat du vil slette\n"
 "\n"
 "%1 ?"
 
 #: Merge.rc:2251
 #, c-format
 msgid "Are you sure you want to copy:"
-msgstr "Er du sikker på at du vil kopiere:"
+msgstr "Er du sikker pEat du vil kopiere:"
 
 #: Merge.rc:2252
 #, c-format
 msgid "Are you sure you want to copy %d items:"
-msgstr "Er du sikker på at du vil kopiere %d objekter:"
+msgstr "Er du sikker pEat du vil kopiere %d objekter:"
 
 #: Merge.rc:2253
 #, c-format
@@ -4191,7 +4191,7 @@ msgid ""
 msgstr ""
 "Operasjon avbrutt!\n"
 "\n"
-"Mappeinnhold på disk er endret, bane\n"
+"Mappeinnhold pEdisk er endret, bane\n"
 "%1\n"
 "ble ikke funnet.\n"
 "\n"
@@ -4200,12 +4200,12 @@ msgstr ""
 #: Merge.rc:2254
 #, c-format
 msgid "Are you sure you want to move:"
-msgstr "Er du sikker på at du vil flytte:"
+msgstr "Er du sikker pEat du vil flytte:"
 
 #: Merge.rc:2255
 #, c-format
 msgid "Are you sure you want to move %d items:"
-msgstr "Er du sikker på at du vil flytte %d objekter:"
+msgstr "Er du sikker pEat du vil flytte %d objekter:"
 
 #: Merge.rc:2257
 #, c-format
@@ -4245,12 +4245,12 @@ msgstr "Åpne høyre fil med ..."
 #: Merge.rc:2269
 #, c-format
 msgid "Failed to execute external editor: %1"
-msgstr "Feilet i å kjøre eksternt redigeringsprogram: %1"
+msgstr "Feilet i Ekjøre eksternt redigeringsprogram: %1"
 
 #: Merge.rc:2270
 #, c-format
 msgid "Unknown extension on external editor: %1"
-msgstr "Ukjent endelse på eksternt redigeringsprogram"
+msgstr "Ukjent endelse pEeksternt redigeringsprogram"
 
 #: Merge.rc:2271
 #, c-format
@@ -4310,12 +4310,12 @@ msgstr "Legg til forskjellige objekter til arkiv (begge sider)"
 #: Merge.rc:2293
 #, c-format
 msgid "Move selected file on left to custom directory"
-msgstr "Flytt valgte filer på venstre side til egen mappe"
+msgstr "Flytt valgte filer pEvenstre side til egen mappe"
 
 #: Merge.rc:2295
 #, c-format
 msgid "Move selected file on right to custom directory"
-msgstr "Flytt valgte filer på høyre side til egen mappe"
+msgstr "Flytt valgte filer pEhøyre side til egen mappe"
 
 #: Merge.rc:2301
 #, c-format
@@ -4762,11 +4762,11 @@ msgid ""
 "%1\n"
 "to the other side and open these folders?"
 msgstr ""
-"Mappen eksisterer bare på andre siden og kan ikke åpnes.\n"
+"Mappen eksisterer bare pEandre siden og kan ikke åpnes.\n"
 "\n"
 "Vil du opprette en matchende mappe:\n"
 "%1\n"
-"på andre siden og åpne disse mapper?"
+"pEandre siden og åpne disse mapper?"
 
 #: Merge.rc:2444
 #, c-format
@@ -4787,17 +4787,17 @@ msgstr "Advarsel: Filene bruker forskjellige kodinger, venstre =% s og høyre =% 
 #: Merge.rc:2446
 #, c-format
 msgid "Information lost due to encoding errors: both files"
-msgstr "Informasjon tapt på grunn av kodings-feil: begge filer"
+msgstr "Informasjon tapt pEgrunn av kodings-feil: begge filer"
 
 #: Merge.rc:2447
 #, c-format
 msgid "Information lost due to encoding errors: right file"
-msgstr "Informasjon tapt på grunn av kodings-feil: høyre fil"
+msgstr "Informasjon tapt pEgrunn av kodings-feil: høyre fil"
 
 #: Merge.rc:2448
 #, c-format
 msgid "Information lost due to encoding errors: left file"
-msgstr "Informasjon tapt på grunn av kodings-feil: venstre fil"
+msgstr "Informasjon tapt pEgrunn av kodings-feil: venstre fil"
 
 #: Merge.rc:2454
 #, c-format
@@ -4977,12 +4977,12 @@ msgstr "Innstillinger eksportert til filen."
 #: Merge.rc:2509
 #, c-format
 msgid "Failed to import options from the file."
-msgstr "Feilet i å  importere innstillinger fra filen."
+msgstr "Feilet i E importere innstillinger fra filen."
 
 #: Merge.rc:2510
 #, c-format
 msgid "Failed to write options to the file."
-msgstr "Feilet i å skrive innstillinger til filen."
+msgstr "Feilet i Eskrive innstillinger til filen."
 
 #: Merge.rc:2511
 #, c-format
@@ -4991,7 +4991,7 @@ msgid ""
 "\n"
 "Do you want to continue?"
 msgstr ""
-"Du er i ferd med å lukke flere sammenlignings-vinduer.\n"
+"Du er i ferd med Elukke flere sammenlignings-vinduer.\n"
 "\n"
 "Vil du fortsette?"
 
@@ -5068,7 +5068,7 @@ msgstr "Ugyldig foregående regulært uttrykk"
 #: Merge.rc:2531
 #, c-format
 msgid "Premature end of regular expression"
-msgstr "Fortidlig slutt på regulært uttrykk"
+msgstr "Fortidlig slutt pEregulært uttrykk"
 
 #: Merge.rc:2532
 #, c-format
@@ -5244,8 +5244,8 @@ msgid ""
 "Go to line or difference\n"
 "Go to (Ctrl+G)"
 msgstr ""
-"Gå til linje eller forskjell\n"
-"Gå til (Ctrl+G)"
+"GEtil linje eller forskjell\n"
+"GEtil (Ctrl+G)"
 
 #: Merge.rc:2598
 #, c-format
@@ -5283,12 +5283,12 @@ msgstr "Vis/Skjul bokmerke"
 #: Merge.rc:2603
 #, c-format
 msgid "Go to next bookmark"
-msgstr "Gå til neste bokmerke"
+msgstr "GEtil neste bokmerke"
 
 #: Merge.rc:2604
 #, c-format
 msgid "Go to previous bookmark"
-msgstr "Gå til forrige bokmerke"
+msgstr "GEtil forrige bokmerke"
 
 #: Merge.rc:2605
 #, c-format
@@ -5319,8 +5319,8 @@ msgid ""
 "Displays items that exist in only on the left side\n"
 "Show Left Unique Items"
 msgstr ""
-"Viser objekter som bare eksisterer på venstre side\n"
-"Vis objekter som kun er på venstre side"
+"Viser objekter som bare eksisterer pEvenstre side\n"
+"Vis objekter som kun er pEvenstre side"
 
 #: Merge.rc:2614
 #, c-format
@@ -5328,8 +5328,8 @@ msgid ""
 "Displays items that exist in only on the right side\n"
 "Show Right Unique Items"
 msgstr ""
-"Viser objekter som bare eksisterer på høyre side\n"
-"Vis objekter som kun er på høyre side"
+"Viser objekter som bare eksisterer pEhøyre side\n"
+"Vis objekter som kun er pEhøyre side"
 
 #: Merge.rc:2615
 #, c-format
@@ -5364,7 +5364,7 @@ msgid ""
 "Revert to using the default system font for view\n"
 "Default Font"
 msgstr ""
-"Skift tilbake til å bruke standard system-skrifttype for visningen\n"
+"Skift tilbake til Ebruke standard system-skrifttype for visningen\n"
 "Standard skrifttype"
 
 #: Merge.rc:2624
@@ -5521,8 +5521,8 @@ msgid ""
 "Copy difference to right and advance to next\n"
 "Copy Right and Advance (Ctrl+Alt+Right)"
 msgstr ""
-"Kopier forskjell til høyre og gå videre til neste\n"
-"Kopier til høyre og gå videre (Ctrl+Alt+Right)"
+"Kopier forskjell til høyre og gEvidere til neste\n"
+"Kopier til høyre og gEvidere (Ctrl+Alt+Right)"
 
 #: Merge.rc:2650
 #, c-format
@@ -5530,8 +5530,8 @@ msgid ""
 "Copy difference to left and advance to next\n"
 "Copy Left and Advance (Ctrl+Alt+Left)"
 msgstr ""
-"Kopier forskjell til venstre og gå videre til neste\n"
-"Kopier til venstre og gå videre (Ctrl+Alt+Left)"
+"Kopier forskjell til venstre og gEvidere til neste\n"
+"Kopier til venstre og gEvidere (Ctrl+Alt+Left)"
 
 #: Merge.rc:2651
 #, c-format
@@ -5594,7 +5594,7 @@ msgstr "Brukeren velger utpakker (ingen utpakker ved sammenligning av mapper)"
 #: Merge.rc:2671
 #, c-format
 msgid "The adapted unpacker is applied to both files (one file only needs the extension)"
-msgstr "Den tilpassede utpakkeren brukes på begge filer (bare en fil behøver filendelsen)"
+msgstr "Den tilpassede utpakkeren brukes pEbegge filer (bare en fil behøver filendelsen)"
 
 #: Merge.rc:2672
 #, c-format
@@ -5619,7 +5619,7 @@ msgstr "Andre programtillegg"
 #: Merge.rc:2676
 #, c-format
 msgid "Unload all plugins and reload them (for developers)"
-msgstr "Last ut alle programtillegg og last dem inn på nytt (for utviklere)"
+msgstr "Last ut alle programtillegg og last dem inn pEnytt (for utviklere)"
 
 #: Merge.rc:2682
 #, c-format
@@ -5740,17 +5740,17 @@ msgstr "Vis flyttede blokker bare fra gjeldende forskjell"
 #: Merge.rc:2723
 #, c-format
 msgid "Go to diff under cursor"
-msgstr "Gå til forskjell under markør"
+msgstr "GEtil forskjell under markør"
 
 #: Merge.rc:2724
 #, c-format
 msgid "G&oto Diff %1 of %2"
-msgstr "G&å til forskjell %1 av %2"
+msgstr "G&Etil forskjell %1 av %2"
 
 #: Merge.rc:2725
 #, c-format
 msgid "G&oto Line %1"
-msgstr "G&å til linje %1"
+msgstr "G&Etil linje %1"
 
 #: Merge.rc:2731
 #, c-format
